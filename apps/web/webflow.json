@@ -3,7 +3,7 @@
     "framework": "nextjs",
     "build": {
       "command": "npx @cloudflare/next-on-pages",
-      "install_command": "npm install"
+      "install_command": "npm install --legacy-peer-deps"
     },
     "output_directory": ".vercel/output/static",
     "node_version": "20"
