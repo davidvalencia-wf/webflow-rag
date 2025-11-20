@@ -2,7 +2,7 @@
   "cloud": {
     "framework": "nextjs",
     "build": {
-      "command": "npm run build",
+      "command": "npx @cloudflare/next-on-pages",
       "install_command": "npm install"
     },
     "output_directory": ".vercel/output/static",
