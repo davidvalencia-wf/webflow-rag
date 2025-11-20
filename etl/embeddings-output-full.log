@@ -1,0 +1,229 @@
+🧠 Webflow RAG - Embeddings Generator
+
+📖 Loading chunks...
+✓ Loaded 5119 chunks from 744 documents
+
+
+🔄 Generating embeddings in 52 batches...
+
+Batch 1/52 (chunks 1-100):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 2/52 (chunks 101-200):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 3/52 (chunks 201-300):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 4/52 (chunks 301-400):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 5/52 (chunks 401-500):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 6/52 (chunks 501-600):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 7/52 (chunks 601-700):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 8/52 (chunks 701-800):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 9/52 (chunks 801-900):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 10/52 (chunks 901-1000):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 11/52 (chunks 1001-1100):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 12/52 (chunks 1101-1200):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 13/52 (chunks 1201-1300):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 14/52 (chunks 1301-1400):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 15/52 (chunks 1401-1500):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 16/52 (chunks 1501-1600):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 17/52 (chunks 1601-1700):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 18/52 (chunks 1701-1800):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 19/52 (chunks 1801-1900):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 20/52 (chunks 1901-2000):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 21/52 (chunks 2001-2100):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 22/52 (chunks 2101-2200):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 23/52 (chunks 2201-2300):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 24/52 (chunks 2301-2400):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 25/52 (chunks 2401-2500):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 26/52 (chunks 2501-2600):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 27/52 (chunks 2601-2700):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 28/52 (chunks 2701-2800):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 29/52 (chunks 2801-2900):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 30/52 (chunks 2901-3000):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 31/52 (chunks 3001-3100):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 32/52 (chunks 3101-3200):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 33/52 (chunks 3201-3300):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 34/52 (chunks 3301-3400):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 35/52 (chunks 3401-3500):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 36/52 (chunks 3501-3600):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 37/52 (chunks 3601-3700):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 38/52 (chunks 3701-3800):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 39/52 (chunks 3801-3900):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 40/52 (chunks 3901-4000):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 41/52 (chunks 4001-4100):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 42/52 (chunks 4101-4200):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 43/52 (chunks 4201-4300):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 44/52 (chunks 4301-4400):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 45/52 (chunks 4401-4500):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 46/52 (chunks 4501-4600):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 47/52 (chunks 4601-4700):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 48/52 (chunks 4701-4800):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 49/52 (chunks 4801-4900):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 50/52 (chunks 4901-5000):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 51/52 (chunks 5001-5100):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 52/52 (chunks 5101-5119):
+   → Calling OpenAI API (batch of 19 texts)...
+   ✓ Successfully embedded 19 chunks
+
+============================================================
+✅ Embedding Generation Complete!
+
+📊 Statistics:
+   Chunks processed: 5119
+   Successful: 5119
+   Failed: 0
+   Total tokens: 613,078
+   Estimated cost: $0.0123
+   Time elapsed: 94.6s
+
+📁 Output saved to: /Users/ryan.hodge/Projects/webflow-rag/etl/output/embeddings/all-sources-embeddings.json
+============================================================

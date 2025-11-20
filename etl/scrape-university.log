@@ -1,0 +1,111 @@
+
+============================================================
+🚀 PRODUCTION SCRAPER: Webflow Documentation
+============================================================
+📅 Started at: 2025-11-17T18:49:28.188Z
+🎯 Sources to scrape: webflow-university
+⚙️  Resume mode: disabled
+============================================================
+
+============================================================
+🚀 STARTING SCRAPE: webflow-university
+============================================================
+📅 Started at: 2025-11-17T18:49:28.191Z
+📊 Total URLs: 76
+⚙️  Rate limit: 2 req/s
+⚙️  Retry strategy: Exponential backoff (3 attempts)
+
+━━━ BATCH 1/8 (Articles 1-10) ━━━
+  [Attempt 1/3] Scraping: intro-to-the-designer
+    ❌ FAILED: intro-to-the-designer (insufficient_credits)
+
+⚠️  INSUFFICIENT CREDITS - Stopping scrape for webflow-university
+
+━━━ BATCH 2/8 (Articles 11-20) ━━━
+  [Attempt 1/3] Scraping: intro-to-cms
+    ❌ FAILED: intro-to-cms (insufficient_credits)
+
+⚠️  INSUFFICIENT CREDITS - Stopping scrape for webflow-university
+
+━━━ BATCH 3/8 (Articles 21-30) ━━━
+  [Attempt 1/3] Scraping: intro-to-interactions
+    ❌ FAILED: intro-to-interactions (insufficient_credits)
+
+⚠️  INSUFFICIENT CREDITS - Stopping scrape for webflow-university
+
+━━━ BATCH 4/8 (Articles 31-40) ━━━
+  [Attempt 1/3] Scraping: responsive-images
+    ❌ FAILED: responsive-images (insufficient_credits)
+
+⚠️  INSUFFICIENT CREDITS - Stopping scrape for webflow-university
+
+━━━ BATCH 5/8 (Articles 41-50) ━━━
+  [Attempt 1/3] Scraping: form-validation
+    ❌ FAILED: form-validation (insufficient_credits)
+
+⚠️  INSUFFICIENT CREDITS - Stopping scrape for webflow-university
+
+━━━ BATCH 6/8 (Articles 51-60) ━━━
+  [Attempt 1/3] Scraping: image-optimization
+    ❌ FAILED: image-optimization (insufficient_credits)
+
+⚠️  INSUFFICIENT CREDITS - Stopping scrape for webflow-university
+
+━━━ BATCH 7/8 (Articles 61-70) ━━━
+  [Attempt 1/3] Scraping: ssl-certificates
+    ❌ FAILED: ssl-certificates (insufficient_credits)
+
+⚠️  INSUFFICIENT CREDITS - Stopping scrape for webflow-university
+
+━━━ BATCH 8/8 (Articles 71-76) ━━━
+  [Attempt 1/3] Scraping: variable-modes
+    ❌ FAILED: variable-modes (insufficient_credits)
+
+⚠️  INSUFFICIENT CREDITS - Stopping scrape for webflow-university
+
+============================================================
+✅ SCRAPE COMPLETE: webflow-university
+============================================================
+
+📊 Summary:
+   Total URLs: 76
+   Successfully scraped: 0
+   Failed: 8
+   Failure rate: 10.5%
+   Duration: 0m 0s
+   Credits used: 0
+   Total words: ~0
+   Avg article length: 0 words
+
+⚠️  Error Breakdown:
+   insufficient_credits: 8
+
+📁 Output Location:
+   /Users/ryan.hodge/Projects/webflow-rag/etl/input/webflow-university/articles
+============================================================
+
+
+============================================================
+🎉 OVERALL SUMMARY: All Sources
+============================================================
+
+📊 Aggregate Statistics:
+   Total URLs processed: 76
+   Successfully scraped: 0
+   Failed: 8
+   Overall failure rate: 10.5%
+   Total duration: 0m 0s
+   Total Firecrawl credits: 0
+   Credits remaining: ~500/500
+
+📋 Per-Source Breakdown:
+   webflow-university: 0/76 (10.5% failure)
+
+✅ Next Steps:
+   1. Run chunker: cd etl && npx tsx chunker.ts
+   2. Generate embeddings: npx tsx embedder.ts
+   3. Upload to Pinecone: npx tsx uploader.ts
+   4. Validate counts: npx tsx validate.ts
+
+============================================================
+

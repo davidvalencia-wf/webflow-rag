@@ -1,0 +1,199 @@
+🚀 STARTING PRODUCTION SCRAPE: Webflow Help Center
+📅 Started at: 2025-11-17T20:06:44.755Z
+
+📊 Total articles to scrape: 50
+
+
+━━━ BATCH 1/5 (Articles 1-10) ━━━
+
+[2025-11-17T20:06:44.757Z] Scraping: 4402997698195-Getting-started-with-Webflow
+  ✓ Saved: 4402997698195-Getting-started-with-Webflow.md (88 words)
+
+[2025-11-17T20:06:46.423Z] Scraping: 4403151967379-CMS-collections-overview
+  ✓ Saved: 4403151967379-CMS-collections-overview.md (88 words)
+
+[2025-11-17T20:06:47.630Z] Scraping: 4402934797587-Create-a-CMS-collection
+  ✓ Saved: 4402934797587-Create-a-CMS-collection.md (88 words)
+
+[2025-11-17T20:06:48.707Z] Scraping: 4403196330131-Add-CMS-items
+  ✓ Saved: 4403196330131-Add-CMS-items.md (88 words)
+
+[2025-11-17T20:06:49.800Z] Scraping: 4403156888339-Design-with-CMS-content
+  ✓ Saved: 4403156888339-Design-with-CMS-content.md (88 words)
+
+[2025-11-17T20:06:51.011Z] Scraping: 4402991349523-Intro-to-interactions
+  ✓ Saved: 4402991349523-Intro-to-interactions.md (88 words)
+
+[2025-11-17T20:06:52.192Z] Scraping: 4403046589971-Create-a-scroll-animation
+  ✓ Saved: 4403046589971-Create-a-scroll-animation.md (88 words)
+
+[2025-11-17T20:07:02.066Z] Scraping: 4403038481043-Create-a-hover-animation
+  ✓ Saved: 4403038481043-Create-a-hover-animation.md (88 words)
+
+[2025-11-17T20:07:12.294Z] Scraping: 4403097990419-Create-a-page-load-animation
+  ✓ Saved: 4403097990419-Create-a-page-load-animation.md (88 words)
+
+[2025-11-17T20:07:30.809Z] Scraping: 4403000951443-Components-overview
+  ✓ Saved: 4403000951443-Components-overview.md (88 words)
+
+📊 Progress saved: 10/50 articles
+
+━━━ BATCH 2/5 (Articles 11-20) ━━━
+
+[2025-11-17T20:07:39.197Z] Scraping: 4403084827411-Create-a-component
+  ✗ Error scraping 4403084827411-Create-a-component: Unexpected error occurred while trying to scrape URL. Status code: 502
+  ↻ Retrying... (2 attempts remaining)
+
+[2025-11-17T20:09:26.020Z] Scraping: 4403084827411-Create-a-component
+  ✓ Saved: 4403084827411-Create-a-component.md (88 words)
+
+[2025-11-17T20:09:34.449Z] Scraping: 4403186959123-Use-component-instances
+  ✓ Saved: 4403186959123-Use-component-instances.md (88 words)
+
+[2025-11-17T20:09:42.630Z] Scraping: 21206094469147-Variables-overview
+  ✓ Saved: 21206094469147-Variables-overview.md (88 words)
+
+[2025-11-17T20:09:51.082Z] Scraping: 21189649555611-Create-and-apply-variables
+  ✓ Saved: 21189649555611-Create-and-apply-variables.md (88 words)
+
+[2025-11-17T20:09:59.926Z] Scraping: 4403063073555-Forms-overview
+  ✓ Saved: 4403063073555-Forms-overview.md (88 words)
+
+[2025-11-17T20:10:11.089Z] Scraping: 4403132088211-Create-a-form
+  ✓ Saved: 4403132088211-Create-a-form.md (88 words)
+
+[2025-11-17T20:10:19.550Z] Scraping: 4403174735507-Style-form-elements
+  ✓ Saved: 4403174735507-Style-form-elements.md (88 words)
+
+[2025-11-17T20:10:28.510Z] Scraping: 4403259436307-Connect-forms-to-email
+  ✓ Saved: 4403259436307-Connect-forms-to-email.md (88 words)
+
+[2025-11-17T20:10:36.497Z] Scraping: 4402950966547-Intro-to-responsive-design
+  ✓ Saved: 4402950966547-Intro-to-responsive-design.md (88 words)
+
+[2025-11-17T20:10:45.575Z] Scraping: 4403048066195-Breakpoints-overview
+  ✓ Saved: 4403048066195-Breakpoints-overview.md (88 words)
+
+📊 Progress saved: 20/50 articles
+
+━━━ BATCH 3/5 (Articles 21-30) ━━━
+
+[2025-11-17T20:10:53.788Z] Scraping: 4403165798035-Flexbox-layout
+  ✓ Saved: 4403165798035-Flexbox-layout.md (88 words)
+
+[2025-11-17T20:11:02.508Z] Scraping: 4403217247379-CSS-Grid-layout
+  ✓ Saved: 4403217247379-CSS-Grid-layout.md (88 words)
+
+[2025-11-17T20:11:10.900Z] Scraping: 4402979914131-Publish-your-site
+  ✓ Saved: 4402979914131-Publish-your-site.md (88 words)
+
+[2025-11-17T20:11:18.915Z] Scraping: 4403043707411-Connect-a-custom-domain
+  ✓ Saved: 4403043707411-Connect-a-custom-domain.md (88 words)
+
+[2025-11-17T20:11:27.199Z] Scraping: 4403185967251-SEO-basics
+  ✓ Saved: 4403185967251-SEO-basics.md (88 words)
+
+[2025-11-17T20:11:35.990Z] Scraping: 4403243257875-Set-page-titles-and-meta-descriptions
+  ✓ Saved: 4403243257875-Set-page-titles-and-meta-descriptions.md (88 words)
+
+[2025-11-17T20:11:43.859Z] Scraping: 4403254450323-Create-301-redirects
+  ✓ Saved: 4403254450323-Create-301-redirects.md (88 words)
+
+[2025-11-17T20:11:52.235Z] Scraping: 4403309804051-Generate-a-sitemap
+  ✓ Saved: 4403309804051-Generate-a-sitemap.md (88 words)
+
+[2025-11-17T20:12:00.376Z] Scraping: 4402926357907-Ecommerce-overview
+  ✓ Saved: 4402926357907-Ecommerce-overview.md (88 words)
+
+[2025-11-17T20:12:08.934Z] Scraping: 4403044743187-Set-up-Ecommerce
+  ✓ Saved: 4403044743187-Set-up-Ecommerce.md (88 words)
+
+📊 Progress saved: 30/50 articles
+
+━━━ BATCH 4/5 (Articles 31-40) ━━━
+
+[2025-11-17T20:12:17.149Z] Scraping: 4403090970387-Add-products
+  ✓ Saved: 4403090970387-Add-products.md (88 words)
+
+[2025-11-17T20:12:26.025Z] Scraping: 4403170623507-Design-product-pages
+  ✓ Saved: 4403170623507-Design-product-pages.md (88 words)
+
+[2025-11-17T20:12:34.973Z] Scraping: 4403235433875-Configure-checkout
+  ✓ Saved: 4403235433875-Configure-checkout.md (88 words)
+
+[2025-11-17T20:12:43.077Z] Scraping: 4403259438099-Manage-orders
+  ✓ Saved: 4403259438099-Manage-orders.md (88 words)
+
+[2025-11-17T20:12:51.664Z] Scraping: 15830911542299-Localization-overview
+  ✓ Saved: 15830911542299-Localization-overview.md (88 words)
+
+[2025-11-17T20:13:00.131Z] Scraping: 15830973231387-Set-up-localization
+  ✓ Saved: 15830973231387-Set-up-localization.md (88 words)
+
+[2025-11-17T20:13:08.790Z] Scraping: 15831062030107-Translate-content
+  ✓ Saved: 15831062030107-Translate-content.md (88 words)
+
+[2025-11-17T20:13:17.456Z] Scraping: 15831152764571-Publish-localized-sites
+  ✓ Saved: 15831152764571-Publish-localized-sites.md (88 words)
+
+[2025-11-17T20:13:25.619Z] Scraping: 4403294838291-Animations-overview
+  ✓ Saved: 4403294838291-Animations-overview.md (88 words)
+
+[2025-11-17T20:13:33.669Z] Scraping: 4403341879315-Triggers-and-actions
+  ✓ Saved: 4403341879315-Triggers-and-actions.md (88 words)
+
+📊 Progress saved: 40/50 articles
+
+━━━ BATCH 5/5 (Articles 41-50) ━━━
+
+[2025-11-17T20:13:44.234Z] Scraping: 4402934790035-Style-panel-overview
+  ✓ Saved: 4402934790035-Style-panel-overview.md (88 words)
+
+[2025-11-17T20:13:52.567Z] Scraping: 4403130664467-Typography-settings
+  ✓ Saved: 4403130664467-Typography-settings.md (88 words)
+
+[2025-11-17T20:14:01.169Z] Scraping: 4403184970643-Color-settings
+  ✓ Saved: 4403184970643-Color-settings.md (88 words)
+
+[2025-11-17T20:14:09.598Z] Scraping: 4403228936851-Spacing-and-sizing
+  ✓ Saved: 4403228936851-Spacing-and-sizing.md (88 words)
+
+[2025-11-17T20:14:17.835Z] Scraping: 4403315437459-Background-images-and-gradients
+  ✓ Saved: 4403315437459-Background-images-and-gradients.md (88 words)
+
+[2025-11-17T20:14:26.905Z] Scraping: 4402942868499-Element-states
+  ✓ Saved: 4402942868499-Element-states.md (88 words)
+
+[2025-11-17T20:14:35.095Z] Scraping: 4403050073363-Class-naming-conventions
+  ✓ Saved: 4403050073363-Class-naming-conventions.md (88 words)
+
+[2025-11-17T20:14:43.662Z] Scraping: 4403118496531-Combo-classes
+  ✓ Saved: 4403118496531-Combo-classes.md (88 words)
+
+[2025-11-17T20:14:51.690Z] Scraping: 4403205016851-Custom-code
+  ✓ Saved: 4403205016851-Custom-code.md (88 words)
+
+[2025-11-17T20:15:00.084Z] Scraping: 4403286522387-Embed-custom-code
+  ✓ Saved: 4403286522387-Embed-custom-code.md (88 words)
+
+📊 Progress saved: 50/50 articles
+
+📋 Scrape log saved: /Users/ryan.hodge/Projects/webflow-rag/etl/input/webflow-help-center/scrape-log.json
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎉 SCRAPE COMPLETE!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 Summary:
+  Total articles: 50
+  Successfully scraped: 50
+  Failed: 0 (0.0%)
+  Firecrawl credits used: 50
+  Total word count: ~4,400 words
+  Average article length: 88 words
+  Duration: 8m 24s
+
+📁 Output: /Users/ryan.hodge/Projects/webflow-rag/etl/input/webflow-help-center/articles
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+

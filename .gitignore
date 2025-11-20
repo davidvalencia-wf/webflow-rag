@@ -1,0 +1,19 @@
+node_modules
+.DS_Store
+.env
+.env.*
+.pnpm-store
+etl/output/*
+.mcp.json
+
+# Next.js
+.next/
+out/
+.vercel/
+
+# Wrangler / Cloudflare
+.wrangler/
+.dev.vars
+
+# Build outputs
+dist/

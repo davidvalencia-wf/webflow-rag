@@ -1,0 +1,11 @@
+{
+  "source": "webflow-developers",
+  "started_at": "2025-11-17T21:16:43.378Z",
+  "completed_at": "2025-11-17T23:00:22.461Z",
+  "duration_seconds": 6219,
+  "total_urls": 690,
+  "successful": 690,
+  "failed": 0,
+  "firecrawl_credits_used": 690,
+  "failures": []
+}

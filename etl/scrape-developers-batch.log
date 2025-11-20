@@ -1,0 +1,1527 @@
+🚀 STARTING BATCH SCRAPE: Webflow Developers Documentation
+📅 Started at: 2025-11-17T21:16:43.375Z
+
+📊 Total URLs to scrape: 690
+
+
+━━━ BATCH 1/14 (URLs 1-50) ━━━
+
+[2025-11-17T21:16:43.378Z] Scraping: apps-changelog
+  ✓ Saved: apps-changelog.md (112 words)
+[2025-11-17T21:16:49.728Z] Scraping: apps-data-docs-register-an-app
+  ✓ Saved: apps-data-docs-register-an-app.md (1378 words)
+[2025-11-17T21:16:56.916Z] Scraping: apps-docs-designer-extensions
+  ✓ Saved: apps-docs-designer-extensions.md (965 words)
+[2025-11-17T21:17:03.766Z] Scraping: apps-docs-publishing-your-app
+  ✓ Saved: apps-docs-publishing-your-app.md (892 words)
+[2025-11-17T21:17:08.983Z] Scraping: browser-changelog
+  ✓ Saved: browser-changelog.md (112 words)
+[2025-11-17T21:17:14.557Z] Scraping: browser-introduction
+  ✓ Saved: browser-introduction.md (503 words)
+[2025-11-17T21:17:20.899Z] Scraping: browser-optimize-attributes
+  ✓ Saved: browser-optimize-attributes.md (546 words)
+[2025-11-17T21:17:26.773Z] Scraping: browser-optimize-deleteallattributes
+  ✓ Saved: browser-optimize-deleteallattributes.md (217 words)
+[2025-11-17T21:17:32.678Z] Scraping: browser-optimize-deleteattributes
+  ✓ Saved: browser-optimize-deleteattributes.md (253 words)
+[2025-11-17T21:17:38.961Z] Scraping: browser-optimize-getallattributes
+  ✓ Saved: browser-optimize-getallattributes.md (210 words)
+[2025-11-17T21:17:47.316Z] Scraping: browser-optimize-getattributes
+  ✓ Saved: browser-optimize-getattributes.md (233 words)
+[2025-11-17T21:17:53.046Z] Scraping: browser-optimize-introduction
+  ✓ Saved: browser-optimize-introduction.md (503 words)
+[2025-11-17T21:17:58.937Z] Scraping: browser-optimize-onvariationrecorded
+  ✓ Saved: browser-optimize-onvariationrecorded.md (586 words)
+[2025-11-17T21:18:07.915Z] Scraping: browser-optimize-quickstart
+  ✓ Saved: browser-optimize-quickstart.md (615 words)
+[2025-11-17T21:18:15.273Z] Scraping: browser-optimize-setattributes
+  ✓ Saved: browser-optimize-setattributes.md (423 words)
+[2025-11-17T21:18:21.097Z] Scraping: browser-optimize-variations
+  ✓ Saved: browser-optimize-variations.md (285 words)
+[2025-11-17T21:18:30.390Z] Scraping: browser-reference-allow-user-tracking
+  ✓ Saved: browser-reference-allow-user-tracking.md (205 words)
+[2025-11-17T21:18:36.523Z] Scraping: browser-reference-consent-management
+  ✓ Saved: browser-reference-consent-management.md (1337 words)
+[2025-11-17T21:18:43.592Z] Scraping: browser-reference-deny-user-tracking
+  ✓ Saved: browser-reference-deny-user-tracking.md (192 words)
+[2025-11-17T21:18:50.166Z] Scraping: browser-reference-get-user-tracking-choice
+  ✓ Saved: browser-reference-get-user-tracking-choice.md (202 words)
+[2025-11-17T21:18:56.628Z] Scraping: browser-reference-wf-ready
+  ✓ Saved: browser-reference-wf-ready.md (245 words)
+[2025-11-17T21:19:02.753Z] Scraping: code-components-bundling-and-import
+  ✓ Saved: code-components-bundling-and-import.md (733 words)
+[2025-11-17T21:19:11.186Z] Scraping: code-components-changelog
+  ✓ Saved: code-components-changelog.md (112 words)
+[2025-11-17T21:19:17.441Z] Scraping: code-components-component-architecture
+  ✓ Saved: code-components-component-architecture.md (1372 words)
+[2025-11-17T21:19:33.577Z] Scraping: code-components-define-code-component
+  ✓ Saved: code-components-define-code-component.md (1058 words)
+[2025-11-17T21:19:40.052Z] Scraping: code-components-examples
+  ✓ Saved: code-components-examples.md (262 words)
+[2025-11-17T21:19:46.929Z] Scraping: code-components-faqs
+  ✓ Saved: code-components-faqs.md (927 words)
+[2025-11-17T21:19:52.544Z] Scraping: code-components-frameworks-and-libraries
+  ✓ Saved: code-components-frameworks-and-libraries.md (1412 words)
+[2025-11-17T21:19:57.908Z] Scraping: code-components-installation
+  ✓ Saved: code-components-installation.md (557 words)
+[2025-11-17T21:20:04.609Z] Scraping: code-components-introduction
+  ✓ Saved: code-components-introduction.md (422 words)
+[2025-11-17T21:20:11.260Z] Scraping: code-components-introduction-quick-start
+  ✓ Saved: code-components-introduction-quick-start.md (1408 words)
+[2025-11-17T21:20:17.775Z] Scraping: code-components-reference-cli
+  ✓ Saved: code-components-reference-cli.md (726 words)
+[2025-11-17T21:20:23.683Z] Scraping: code-components-reference-hooks-declarecomponent
+  ✓ Saved: code-components-reference-hooks-declarecomponent.md (365 words)
+[2025-11-17T21:20:30.592Z] Scraping: code-components-reference-hooks-usewebflowcontext
+  ✓ Saved: code-components-reference-hooks-usewebflowcontext.md (618 words)
+[2025-11-17T21:20:41.736Z] Scraping: code-components-reference-prop-types
+  ✓ Saved: code-components-reference-prop-types.md (1007 words)
+[2025-11-17T21:20:49.887Z] Scraping: code-components-reference-prop-types-boolean
+  ✓ Saved: code-components-reference-prop-types-boolean.md (477 words)
+[2025-11-17T21:20:59.119Z] Scraping: code-components-reference-prop-types-id
+  ✓ Saved: code-components-reference-prop-types-id.md (377 words)
+[2025-11-17T21:21:24.663Z] Scraping: code-components-reference-prop-types-image
+  ✓ Saved: code-components-reference-prop-types-image.md (414 words)
+[2025-11-17T21:21:31.467Z] Scraping: code-components-reference-prop-types-link
+  ✓ Saved: code-components-reference-prop-types-link.md (459 words)
+[2025-11-17T21:21:37.924Z] Scraping: code-components-reference-prop-types-number
+  ✓ Saved: code-components-reference-prop-types-number.md (464 words)
+[2025-11-17T21:21:43.672Z] Scraping: code-components-reference-prop-types-rich-text
+  ✓ Saved: code-components-reference-prop-types-rich-text.md (416 words)
+[2025-11-17T21:21:52.455Z] Scraping: code-components-reference-prop-types-slot
+  ✓ Saved: code-components-reference-prop-types-slot.md (374 words)
+[2025-11-17T21:21:59.923Z] Scraping: code-components-reference-prop-types-text
+  ✓ Saved: code-components-reference-prop-types-text.md (386 words)
+[2025-11-17T21:22:06.583Z] Scraping: code-components-reference-prop-types-text-node
+  ✓ Saved: code-components-reference-prop-types-text-node.md (463 words)
+[2025-11-17T21:22:13.799Z] Scraping: code-components-reference-prop-types-variant
+  ✓ Saved: code-components-reference-prop-types-variant.md (427 words)
+[2025-11-17T21:22:22.535Z] Scraping: code-components-reference-prop-types-visibility
+  ✓ Saved: code-components-reference-prop-types-visibility.md (399 words)
+[2025-11-17T21:22:28.257Z] Scraping: code-components-styling-components
+  ✓ Saved: code-components-styling-components.md (537 words)
+[2025-11-17T21:22:34.352Z] Scraping: code-components-webpack-configuration-overrides
+  ✓ Saved: code-components-webpack-configuration-overrides.md (1118 words)
+[2025-11-17T21:22:45.465Z] Scraping: data-09042025
+  ✓ Saved: data-09042025.md (455 words)
+[2025-11-17T21:22:46.790Z] Scraping: data-changelog-04082025
+  ✓ Saved: data-changelog-04082025.md (291 words)
+
+📊 Progress saved: 50/50 URLs
+
+━━━ BATCH 2/14 (URLs 51-50) ━━━
+
+[2025-11-17T21:22:54.341Z] Scraping: data-changelog-04082025-mcp-server
+  ✓ Saved: data-changelog-04082025-mcp-server.md (298 words)
+[2025-11-17T21:22:55.979Z] Scraping: data-changelog-05-01-2024
+  ✗ Error scraping data-changelog-05-01-2024: Failed to scrape URL. Status code: 408. Error: Scrape timed out
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T21:23:29.023Z] Scraping: data-changelog-05-01-2024
+  ✓ Saved: data-changelog-05-01-2024.md (296 words)
+[2025-11-17T21:23:30.305Z] Scraping: data-changelog-05082025
+  ✓ Saved: data-changelog-05082025.md (438 words)
+[2025-11-17T21:23:37.226Z] Scraping: data-changelog-05132025-mcp-server
+  ✗ Error scraping data-changelog-05132025-mcp-server: Unexpected error occurred while trying to scrape URL. Status code: 502
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T21:26:50.863Z] Scraping: data-changelog-05132025-mcp-server
+  ✓ Saved: data-changelog-05132025-mcp-server.md (320 words)
+[2025-11-17T21:26:57.495Z] Scraping: data-changelog-06182024
+  ✓ Saved: data-changelog-06182024.md (381 words)
+[2025-11-17T21:27:02.065Z] Scraping: data-changelog-06232025
+  ✓ Saved: data-changelog-06232025.md (685 words)
+[2025-11-17T21:27:09.729Z] Scraping: data-changelog-08082025
+  ✓ Saved: data-changelog-08082025.md (395 words)
+[2025-11-17T21:27:15.530Z] Scraping: data-changelog-082224
+  ✓ Saved: data-changelog-082224.md (225 words)
+[2025-11-17T21:27:22.282Z] Scraping: data-changelog-10232024
+  ✓ Saved: data-changelog-10232024.md (317 words)
+[2025-11-17T21:27:28.652Z] Scraping: data-changelog-1082025
+  ✓ Saved: data-changelog-1082025.md (276 words)
+[2025-11-17T21:27:34.811Z] Scraping: data-changelog-11212024
+  ✓ Saved: data-changelog-11212024.md (242 words)
+[2025-11-17T21:27:42.932Z] Scraping: data-changelog-121724
+  ✓ Saved: data-changelog-121724.md (364 words)
+[2025-11-17T21:27:48.664Z] Scraping: data-changelog-121724-breaking
+  ✓ Saved: data-changelog-121724-breaking.md (437 words)
+[2025-11-17T21:27:54.217Z] Scraping: data-changelog-2017-2-2
+  ✓ Saved: data-changelog-2017-2-2.md (141 words)
+[2025-11-17T21:28:01.070Z] Scraping: data-changelog-2023-1-20
+  ✓ Saved: data-changelog-2023-1-20.md (148 words)
+[2025-11-17T21:28:08.473Z] Scraping: data-changelog-2024-2-21
+  ✓ Saved: data-changelog-2024-2-21.md (420 words)
+[2025-11-17T21:28:13.833Z] Scraping: data-changelog-2025-1-16
+  ✓ Saved: data-changelog-2025-1-16.md (215 words)
+[2025-11-17T21:28:19.547Z] Scraping: data-changelog-2025-2-28
+  ✓ Saved: data-changelog-2025-2-28.md (222 words)
+[2025-11-17T21:28:26.252Z] Scraping: data-changelog-2025-2-5
+  ✓ Saved: data-changelog-2025-2-5.md (263 words)
+[2025-11-17T21:28:31.714Z] Scraping: data-changelog-2025-3-12
+  ✓ Saved: data-changelog-2025-3-12.md (166 words)
+[2025-11-17T21:28:37.164Z] Scraping: data-changelog-2025-8-12
+  ✓ Saved: data-changelog-2025-8-12.md (1117 words)
+[2025-11-17T21:28:42.810Z] Scraping: data-changelog-api-version-defaults-and-docs-update
+  ✓ Saved: data-changelog-api-version-defaults-and-docs-update.md (193 words)
+[2025-11-17T21:28:50.852Z] Scraping: data-changelog-developer-api-release
+  ✓ Saved: data-changelog-developer-api-release.md (125 words)
+[2025-11-17T21:28:56.330Z] Scraping: data-changelog-march-2020-updates
+  ✓ Saved: data-changelog-march-2020-updates.md (243 words)
+[2025-11-17T21:29:01.813Z] Scraping: data-changelog-multi-item-publishunpublish
+  ✓ Saved: data-changelog-multi-item-publishunpublish.md (171 words)
+[2025-11-17T21:29:11.147Z] Scraping: data-changelog-new-cms-apis-and-updated-webhooks
+  ✓ Saved: data-changelog-new-cms-apis-and-updated-webhooks.md (345 words)
+[2025-11-17T21:29:23.449Z] Scraping: data-changelog-publish-site-api-new-rate-limits
+  ✓ Saved: data-changelog-publish-site-api-new-rate-limits.md (268 words)
+[2025-11-17T21:29:28.688Z] Scraping: data-changelog-user-access-groups-added
+  ✗ Error scraping data-changelog-user-access-groups-added: Unexpected error occurred while trying to scrape URL. Status code: 502
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T21:29:34.584Z] Scraping: data-changelog-user-access-groups-added
+  ✓ Saved: data-changelog-user-access-groups-added.md (167 words)
+[2025-11-17T21:29:39.907Z] Scraping: data-changelog-users-memberships-api
+  ✓ Saved: data-changelog-users-memberships-api.md (223 words)
+[2025-11-17T21:29:45.506Z] Scraping: data-changelog-webflow-api-changed-endpoints
+  ✓ Saved: data-changelog-webflow-api-changed-endpoints.md (3819 words)
+[2025-11-17T21:29:50.905Z] Scraping: data-changelog-webflow-api-new-endpoints
+  ✓ Saved: data-changelog-webflow-api-new-endpoints.md (462 words)
+[2025-11-17T21:29:55.950Z] Scraping: data-changelog-webflow-api-removed-endpoints
+  ✓ Saved: data-changelog-webflow-api-removed-endpoints.md (221 words)
+[2025-11-17T21:30:00.741Z] Scraping: data-changelog-webflow-sdk-update-to-071
+  ✓ Saved: data-changelog-webflow-sdk-update-to-071.md (147 words)
+[2025-11-17T21:30:05.910Z] Scraping: data-changelog-webflow-sdk-update-to-072
+  ✓ Saved: data-changelog-webflow-sdk-update-to-072.md (141 words)
+[2025-11-17T21:30:11.437Z] Scraping: data-changelog-webflow-sdk-v080
+  ✓ Saved: data-changelog-webflow-sdk-v080.md (149 words)
+[2025-11-17T21:30:16.686Z] Scraping: data-changelog-webhook-signatures
+  ✓ Saved: data-changelog-webhook-signatures.md (459 words)
+[2025-11-17T21:30:22.704Z] Scraping: data-developer-terms-of-service
+  ✓ Saved: data-developer-terms-of-service.md (6234 words)
+[2025-11-17T21:30:28.613Z] Scraping: data-docs-ai-tools
+  ✓ Saved: data-docs-ai-tools.md (2384 words)
+[2025-11-17T21:30:29.997Z] Scraping: data-docs-custom-code-preview-mode
+  ✓ Saved: data-docs-custom-code-preview-mode.md (425 words)
+[2025-11-17T21:30:36.157Z] Scraping: data-docs-data-clients
+  ✓ Saved: data-docs-data-clients.md (608 words)
+[2025-11-17T21:30:43.977Z] Scraping: data-docs-developer-workspace
+  ✓ Saved: data-docs-developer-workspace.md (524 words)
+[2025-11-17T21:30:51.194Z] Scraping: data-docs-migrating-to-v2
+  ✓ Saved: data-docs-migrating-to-v2.md (1463 words)
+[2025-11-17T21:30:57.288Z] Scraping: data-docs-register-an-app
+  ✓ Saved: data-docs-register-an-app.md (1378 words)
+[2025-11-17T21:31:06.480Z] Scraping: data-docs-webflow-v1-api-deprecation-notice
+  ✓ Saved: data-docs-webflow-v1-api-deprecation-notice.md (456 words)
+[2025-11-17T21:31:13.988Z] Scraping: data-docs-working-with-assets
+  ✓ Saved: data-docs-working-with-assets.md (2644 words)
+[2025-11-17T21:31:23.226Z] Scraping: data-docs-working-with-custom-code
+  ✓ Saved: data-docs-working-with-custom-code.md (1505 words)
+[2025-11-17T21:31:30.618Z] Scraping: data-docs-working-with-localization
+  ✓ Saved: data-docs-working-with-localization.md (1330 words)
+[2025-11-17T21:31:39.254Z] Scraping: data-docs-working-with-localization-localize-components
+  ✓ Saved: data-docs-working-with-localization-localize-components.md (3075 words)
+[2025-11-17T21:31:49.313Z] Scraping: data-docs-working-with-localization-localize-pages
+  ✓ Saved: data-docs-working-with-localization-localize-pages.md (2222 words)
+[2025-11-17T21:31:55.603Z] Scraping: data-docs-working-with-the-cms-content-delivery
+  ✓ Saved: data-docs-working-with-the-cms-content-delivery.md (816 words)
+
+📊 Progress saved: 100/50 URLs
+
+━━━ BATCH 3/14 (URLs 101-50) ━━━
+
+[2025-11-17T21:32:01.062Z] Scraping: data-docs-working-with-the-cms-localization
+  ✓ Saved: data-docs-working-with-the-cms-localization.md (878 words)
+[2025-11-17T21:32:08.028Z] Scraping: data-docs-working-with-the-cms-manage-collections-and-items
+  ✓ Saved: data-docs-working-with-the-cms-manage-collections-and-items.md (2207 words)
+[2025-11-17T21:32:14.909Z] Scraping: data-docs-working-with-the-cms-publishing
+  ✓ Saved: data-docs-working-with-the-cms-publishing.md (1117 words)
+[2025-11-17T21:32:20.366Z] Scraping: data-docs-working-with-webhooks
+  ✓ Saved: data-docs-working-with-webhooks.md (2546 words)
+[2025-11-17T21:32:27.841Z] Scraping: data-examples
+  ✓ Saved: data-examples.md (195 words)
+[2025-11-17T21:32:33.678Z] Scraping: data-reference-all-events
+  ✓ Saved: data-reference-all-events.md (3906 words)
+[2025-11-17T21:32:40.620Z] Scraping: data-reference-assets-asset-folders-create-folder
+  ✓ Saved: data-reference-assets-asset-folders-create-folder.md (290 words)
+[2025-11-17T21:32:46.751Z] Scraping: data-reference-assets-asset-folders-get-folder
+  ✓ Saved: data-reference-assets-asset-folders-get-folder.md (261 words)
+[2025-11-17T21:32:52.665Z] Scraping: data-reference-assets-asset-folders-list-folders
+  ✓ Saved: data-reference-assets-asset-folders-list-folders.md (197 words)
+[2025-11-17T21:32:59.662Z] Scraping: data-reference-assets-assets-create
+  ✓ Saved: data-reference-assets-assets-create.md (353 words)
+[2025-11-17T21:33:18.763Z] Scraping: data-reference-assets-assets-delete
+  ✓ Saved: data-reference-assets-assets-delete.md (179 words)
+[2025-11-17T21:33:26.567Z] Scraping: data-reference-assets-assets-get
+  ✓ Saved: data-reference-assets-assets-get.md (270 words)
+[2025-11-17T21:33:42.854Z] Scraping: data-reference-assets-assets-list
+  ✓ Saved: data-reference-assets-assets-list.md (215 words)
+[2025-11-17T21:33:49.644Z] Scraping: data-reference-assets-assets-update
+  ✓ Saved: data-reference-assets-assets-update.md (297 words)
+[2025-11-17T21:33:55.802Z] Scraping: data-reference-cms
+  ✓ Saved: data-reference-cms.md (1205 words)
+[2025-11-17T21:34:02.011Z] Scraping: data-reference-cms-collection-fields-create
+  ✓ Saved: data-reference-cms-collection-fields-create.md (251 words)
+[2025-11-17T21:34:07.749Z] Scraping: data-reference-cms-collection-fields-delete
+  ✗ Error scraping data-reference-cms-collection-fields-delete: Unexpected error occurred while trying to scrape URL. Status code: 502
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T21:36:05.335Z] Scraping: data-reference-cms-collection-fields-delete
+  ✓ Saved: data-reference-cms-collection-fields-delete.md (198 words)
+[2025-11-17T21:36:10.820Z] Scraping: data-reference-cms-collection-fields-update
+  ✓ Saved: data-reference-cms-collection-fields-update.md (313 words)
+[2025-11-17T21:36:16.211Z] Scraping: data-reference-cms-collection-items-live-items-create-item-live
+  ✓ Saved: data-reference-cms-collection-items-live-items-create-item-live.md (373 words)
+[2025-11-17T21:36:21.896Z] Scraping: data-reference-cms-collection-items-live-items-delete-item-live
+  ✓ Saved: data-reference-cms-collection-items-live-items-delete-item-live.md (234 words)
+[2025-11-17T21:36:27.493Z] Scraping: data-reference-cms-collection-items-live-items-delete-items-live
+  ✓ Saved: data-reference-cms-collection-items-live-items-delete-items-live.md (220 words)
+[2025-11-17T21:36:33.174Z] Scraping: data-reference-cms-collection-items-live-items-get-item-live
+  ✓ Saved: data-reference-cms-collection-items-live-items-get-item-live.md (339 words)
+[2025-11-17T21:36:39.205Z] Scraping: data-reference-cms-collection-items-live-items-list-items-live
+  ✓ Saved: data-reference-cms-collection-items-live-items-list-items-live.md (346 words)
+[2025-11-17T21:36:44.372Z] Scraping: data-reference-cms-collection-items-live-items-update-item-live
+  ✓ Saved: data-reference-cms-collection-items-live-items-update-item-live.md (341 words)
+[2025-11-17T21:36:51.113Z] Scraping: data-reference-cms-collection-items-live-items-update-items-live
+  ✓ Saved: data-reference-cms-collection-items-live-items-update-items-live.md (262 words)
+[2025-11-17T21:36:57.771Z] Scraping: data-reference-cms-collection-items-staged-items-create-item
+  ✓ Saved: data-reference-cms-collection-items-staged-items-create-item.md (363 words)
+[2025-11-17T21:37:03.347Z] Scraping: data-reference-cms-collection-items-staged-items-delete-item
+  ✓ Saved: data-reference-cms-collection-items-staged-items-delete-item.md (219 words)
+[2025-11-17T21:37:09.787Z] Scraping: data-reference-cms-collection-items-staged-items-delete-items
+  ✓ Saved: data-reference-cms-collection-items-staged-items-delete-items.md (211 words)
+[2025-11-17T21:37:36.294Z] Scraping: data-reference-cms-collection-items-staged-items-get-item
+  ✓ Saved: data-reference-cms-collection-items-staged-items-get-item.md (295 words)
+[2025-11-17T21:37:42.105Z] Scraping: data-reference-cms-collection-items-staged-items-list-items
+  ✓ Saved: data-reference-cms-collection-items-staged-items-list-items.md (303 words)
+[2025-11-17T21:37:47.166Z] Scraping: data-reference-cms-collection-items-staged-items-publish-item
+  ✓ Saved: data-reference-cms-collection-items-staged-items-publish-item.md (225 words)
+[2025-11-17T21:37:52.598Z] Scraping: data-reference-cms-collection-items-staged-items-update-item
+  ✓ Saved: data-reference-cms-collection-items-staged-items-update-item.md (325 words)
+[2025-11-17T21:38:02.481Z] Scraping: data-reference-cms-collection-items-staged-items-update-items
+  ✓ Saved: data-reference-cms-collection-items-staged-items-update-items.md (323 words)
+[2025-11-17T21:38:07.904Z] Scraping: data-reference-cms-collections-create
+  ✓ Saved: data-reference-cms-collections-create.md (359 words)
+[2025-11-17T21:38:13.131Z] Scraping: data-reference-cms-collections-delete
+  ✓ Saved: data-reference-cms-collections-delete.md (179 words)
+[2025-11-17T21:38:18.188Z] Scraping: data-reference-cms-collections-get
+  ✓ Saved: data-reference-cms-collections-get.md (254 words)
+[2025-11-17T21:38:23.772Z] Scraping: data-reference-cms-collections-list
+  ✓ Saved: data-reference-cms-collections-list.md (188 words)
+[2025-11-17T21:38:28.489Z] Scraping: data-reference-comments-get-comment-thread
+  ✓ Saved: data-reference-comments-get-comment-thread.md (390 words)
+[2025-11-17T21:38:34.795Z] Scraping: data-reference-comments-list-comment-replies
+  ✓ Saved: data-reference-comments-list-comment-replies.md (280 words)
+[2025-11-17T21:38:40.060Z] Scraping: data-reference-comments-list-comment-threads
+  ✓ Saved: data-reference-comments-list-comment-threads.md (271 words)
+[2025-11-17T21:38:45.993Z] Scraping: data-reference-custom-code-custom-code-pages-delete-custom-code
+  ✓ Saved: data-reference-custom-code-custom-code-pages-delete-custom-code.md (223 words)
+[2025-11-17T21:38:51.576Z] Scraping: data-reference-custom-code-custom-code-pages-get-custom-code
+  ✓ Saved: data-reference-custom-code-custom-code-pages-get-custom-code.md (218 words)
+[2025-11-17T21:38:57.037Z] Scraping: data-reference-custom-code-custom-code-pages-upsert-custom-code
+  ✓ Saved: data-reference-custom-code-custom-code-pages-upsert-custom-code.md (337 words)
+[2025-11-17T21:39:04.665Z] Scraping: data-reference-custom-code-custom-code-sites-delete-custom-code
+  ✓ Saved: data-reference-custom-code-custom-code-sites-delete-custom-code.md (223 words)
+[2025-11-17T21:39:11.269Z] Scraping: data-reference-custom-code-custom-code-sites-get-custom-code
+  ✓ Saved: data-reference-custom-code-custom-code-sites-get-custom-code.md (274 words)
+[2025-11-17T21:39:19.068Z] Scraping: data-reference-custom-code-custom-code-sites-upsert-custom-code
+  ✓ Saved: data-reference-custom-code-custom-code-sites-upsert-custom-code.md (336 words)
+[2025-11-17T21:39:24.452Z] Scraping: data-reference-custom-code-custom-code-list
+  ✓ Saved: data-reference-custom-code-custom-code-list.md (260 words)
+[2025-11-17T21:39:29.759Z] Scraping: data-reference-custom-code-custom-code-list-custom-code-blocks
+  ✓ Saved: data-reference-custom-code-custom-code-list-custom-code-blocks.md (280 words)
+[2025-11-17T21:39:34.936Z] Scraping: data-reference-custom-code-custom-code-register-hosted
+  ✓ Saved: data-reference-custom-code-custom-code-register-hosted.md (398 words)
+[2025-11-17T21:39:40.823Z] Scraping: data-reference-custom-code-custom-code-register-inline
+  ✓ Saved: data-reference-custom-code-custom-code-register-inline.md (418 words)
+
+📊 Progress saved: 150/50 URLs
+
+━━━ BATCH 4/14 (URLs 151-50) ━━━
+
+[2025-11-17T21:39:46.757Z] Scraping: data-reference-ecommerce-inventory-list
+  ✓ Saved: data-reference-ecommerce-inventory-list.md (234 words)
+[2025-11-17T21:39:52.301Z] Scraping: data-reference-ecommerce-inventory-update
+  ✓ Saved: data-reference-ecommerce-inventory-update.md (306 words)
+[2025-11-17T21:39:58.332Z] Scraping: data-reference-ecommerce-orders-get
+  ✓ Saved: data-reference-ecommerce-orders-get.md (763 words)
+[2025-11-17T21:40:04.631Z] Scraping: data-reference-ecommerce-orders-list
+  ✓ Saved: data-reference-ecommerce-orders-list.md (239 words)
+[2025-11-17T21:40:11.610Z] Scraping: data-reference-ecommerce-orders-refund
+  ✓ Saved: data-reference-ecommerce-orders-refund.md (786 words)
+[2025-11-17T21:40:16.937Z] Scraping: data-reference-ecommerce-orders-update
+  ✓ Saved: data-reference-ecommerce-orders-update.md (805 words)
+[2025-11-17T21:40:24.513Z] Scraping: data-reference-ecommerce-orders-update-fulfill
+  ✓ Saved: data-reference-ecommerce-orders-update-fulfill.md (773 words)
+[2025-11-17T21:40:32.792Z] Scraping: data-reference-ecommerce-orders-update-unfulfill
+  ✓ Saved: data-reference-ecommerce-orders-update-unfulfill.md (754 words)
+[2025-11-17T21:40:38.725Z] Scraping: data-reference-ecommerce-products-create
+  ✓ Saved: data-reference-ecommerce-products-create.md (375 words)
+[2025-11-17T21:40:44.612Z] Scraping: data-reference-ecommerce-products-create-sku
+  ✓ Saved: data-reference-ecommerce-products-create-sku.md (264 words)
+[2025-11-17T21:40:50.415Z] Scraping: data-reference-ecommerce-products-get
+  ✓ Saved: data-reference-ecommerce-products-get.md (219 words)
+[2025-11-17T21:40:55.746Z] Scraping: data-reference-ecommerce-products-list
+  ✓ Saved: data-reference-ecommerce-products-list.md (277 words)
+[2025-11-17T21:41:01.356Z] Scraping: data-reference-ecommerce-products-update
+  ✓ Saved: data-reference-ecommerce-products-update.md (353 words)
+[2025-11-17T21:41:07.248Z] Scraping: data-reference-ecommerce-products-update-sku
+  ✓ Saved: data-reference-ecommerce-products-update-sku.md (303 words)
+[2025-11-17T21:41:13.179Z] Scraping: data-reference-ecommerce-settings-get-settings
+  ✓ Saved: data-reference-ecommerce-settings-get-settings.md (212 words)
+[2025-11-17T21:41:19.435Z] Scraping: data-reference-enterprise-site-activity-logs-list
+  ✓ Saved: data-reference-enterprise-site-activity-logs-list.md (226 words)
+[2025-11-17T21:41:25.625Z] Scraping: data-reference-enterprise-site-configuration-301-redirects-create
+  ✓ Saved: data-reference-enterprise-site-configuration-301-redirects-create.md (290 words)
+[2025-11-17T21:41:31.163Z] Scraping: data-reference-enterprise-site-configuration-301-redirects-delete
+  ✓ Saved: data-reference-enterprise-site-configuration-301-redirects-delete.md (234 words)
+[2025-11-17T21:41:37.145Z] Scraping: data-reference-enterprise-site-configuration-301-redirects-get
+  ✓ Saved: data-reference-enterprise-site-configuration-301-redirects-get.md (233 words)
+[2025-11-17T21:41:42.342Z] Scraping: data-reference-enterprise-site-configuration-301-redirects-patch
+  ✓ Saved: data-reference-enterprise-site-configuration-301-redirects-patch.md (256 words)
+[2025-11-17T21:41:48.276Z] Scraping: data-reference-enterprise-site-configuration-robots-txt-delete
+  ✓ Saved: data-reference-enterprise-site-configuration-robots-txt-delete.md (277 words)
+[2025-11-17T21:41:54.055Z] Scraping: data-reference-enterprise-site-configuration-robots-txt-get
+  ✓ Saved: data-reference-enterprise-site-configuration-robots-txt-get.md (206 words)
+[2025-11-17T21:41:59.412Z] Scraping: data-reference-enterprise-site-configuration-robots-txt-patch
+  ✓ Saved: data-reference-enterprise-site-configuration-robots-txt-patch.md (231 words)
+[2025-11-17T21:42:04.863Z] Scraping: data-reference-enterprise-site-configuration-robots-txt-put
+  ✓ Saved: data-reference-enterprise-site-configuration-robots-txt-put.md (231 words)
+[2025-11-17T21:42:10.803Z] Scraping: data-reference-enterprise-site-configuration-well-known-files-delete
+  ✓ Saved: data-reference-enterprise-site-configuration-well-known-files-delete.md (201 words)
+[2025-11-17T21:42:17.293Z] Scraping: data-reference-enterprise-site-configuration-well-known-files-put
+  ✓ Saved: data-reference-enterprise-site-configuration-well-known-files-put.md (286 words)
+[2025-11-17T21:42:22.984Z] Scraping: data-reference-enterprise-workspace-audit-logs-event-types
+  ✓ Saved: data-reference-enterprise-workspace-audit-logs-event-types.md (883 words)
+[2025-11-17T21:42:29.192Z] Scraping: data-reference-enterprise-workspace-audit-logs-get
+  ✓ Saved: data-reference-enterprise-workspace-audit-logs-get.md (292 words)
+[2025-11-17T21:42:34.534Z] Scraping: data-reference-enterprise-workspace-management-create
+  ✓ Saved: data-reference-enterprise-workspace-management-create.md (329 words)
+[2025-11-17T21:42:40.952Z] Scraping: data-reference-enterprise-workspace-management-delete
+  ✓ Saved: data-reference-enterprise-workspace-management-delete.md (188 words)
+[2025-11-17T21:42:47.541Z] Scraping: data-reference-enterprise-workspace-management-get-site-plan
+  ✓ Saved: data-reference-enterprise-workspace-management-get-site-plan.md (222 words)
+[2025-11-17T21:42:52.916Z] Scraping: data-reference-enterprise-workspace-management-update
+  ✗ Error scraping data-reference-enterprise-workspace-management-update: Unexpected error occurred while trying to scrape URL. Status code: 502
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T21:45:34.791Z] Scraping: data-reference-enterprise-workspace-management-update
+  ✓ Saved: data-reference-enterprise-workspace-management-update.md (342 words)
+[2025-11-17T21:45:41.314Z] Scraping: data-reference-error-handling
+  ✓ Saved: data-reference-error-handling.md (2546 words)
+[2025-11-17T21:45:47.147Z] Scraping: data-reference-field-types-item-values
+  ✓ Saved: data-reference-field-types-item-values.md (1002 words)
+[2025-11-17T21:45:53.088Z] Scraping: data-reference-forms-form-submissions-delete-submission
+  ✓ Saved: data-reference-forms-form-submissions-delete-submission.md (181 words)
+[2025-11-17T21:45:58.605Z] Scraping: data-reference-forms-form-submissions-get-submission
+  ✓ Saved: data-reference-forms-form-submissions-get-submission.md (249 words)
+[2025-11-17T21:46:03.938Z] Scraping: data-reference-forms-form-submissions-get-submission-by-site
+  ✓ Saved: data-reference-forms-form-submissions-get-submission-by-site.md (259 words)
+[2025-11-17T21:46:11.232Z] Scraping: data-reference-forms-form-submissions-list-submissions
+  ✓ Saved: data-reference-forms-form-submissions-list-submissions.md (269 words)
+[2025-11-17T21:46:17.267Z] Scraping: data-reference-forms-form-submissions-list-submissions-by-site
+  ✓ Saved: data-reference-forms-form-submissions-list-submissions-by-site.md (260 words)
+[2025-11-17T21:46:22.638Z] Scraping: data-reference-forms-form-submissions-update-submission
+  ✓ Saved: data-reference-forms-form-submissions-update-submission.md (275 words)
+[2025-11-17T21:46:27.655Z] Scraping: data-reference-forms-form-submissions-update-submission-by-site
+  ✓ Saved: data-reference-forms-form-submissions-update-submission-by-site.md (286 words)
+[2025-11-17T21:46:34.493Z] Scraping: data-reference-forms-forms-get
+  ✓ Saved: data-reference-forms-forms-get.md (328 words)
+[2025-11-17T21:46:40.396Z] Scraping: data-reference-forms-forms-list
+  ✓ Saved: data-reference-forms-forms-list.md (220 words)
+[2025-11-17T21:46:46.592Z] Scraping: data-reference-forms-list-submissions-by-form-and-site
+  ✓ Saved: data-reference-forms-list-submissions-by-form-and-site.md (233 words)
+[2025-11-17T21:46:52.338Z] Scraping: data-reference-oauth-app
+  ✓ Saved: data-reference-oauth-app.md (2693 words)
+[2025-11-17T21:46:59.317Z] Scraping: data-reference-pages-and-components-components-get-content
+  ✓ Saved: data-reference-pages-and-components-components-get-content.md (309 words)
+[2025-11-17T21:47:05.528Z] Scraping: data-reference-pages-and-components-components-get-properties
+  ✓ Saved: data-reference-pages-and-components-components-get-properties.md (278 words)
+[2025-11-17T21:47:14.170Z] Scraping: data-reference-pages-and-components-components-list
+  ✓ Saved: data-reference-pages-and-components-components-list.md (230 words)
+[2025-11-17T21:47:21.375Z] Scraping: data-reference-pages-and-components-components-update-content
+  ✓ Saved: data-reference-pages-and-components-components-update-content.md (373 words)
+[2025-11-17T21:47:27.510Z] Scraping: data-reference-pages-and-components-components-update-properties
+  ✓ Saved: data-reference-pages-and-components-components-update-properties.md (330 words)
+
+📊 Progress saved: 200/50 URLs
+
+━━━ BATCH 5/14 (URLs 201-50) ━━━
+
+[2025-11-17T21:47:34.264Z] Scraping: data-reference-pages-and-components-pages-get-content
+  ✓ Saved: data-reference-pages-and-components-pages-get-content.md (267 words)
+[2025-11-17T21:47:41.398Z] Scraping: data-reference-pages-and-components-pages-get-metadata
+  ✓ Saved: data-reference-pages-and-components-pages-get-metadata.md (400 words)
+[2025-11-17T21:47:47.428Z] Scraping: data-reference-pages-and-components-pages-list
+  ✓ Saved: data-reference-pages-and-components-pages-list.md (230 words)
+[2025-11-17T21:47:53.168Z] Scraping: data-reference-pages-and-components-pages-update-page-settings
+  ✓ Saved: data-reference-pages-and-components-pages-update-page-settings.md (454 words)
+[2025-11-17T21:47:59.435Z] Scraping: data-reference-pages-and-components-pages-update-static-content
+  ✓ Saved: data-reference-pages-and-components-pages-update-static-content.md (341 words)
+[2025-11-17T21:48:04.772Z] Scraping: data-reference-rate-limits
+  ✓ Saved: data-reference-rate-limits.md (735 words)
+[2025-11-17T21:48:10.979Z] Scraping: data-reference-rest-introduction
+  ✓ Saved: data-reference-rest-introduction.md (653 words)
+[2025-11-17T21:48:12.330Z] Scraping: data-reference-rest-introduction-quick-start
+  ✓ Saved: data-reference-rest-introduction-quick-start.md (1305 words)
+[2025-11-17T21:48:19.483Z] Scraping: data-reference-scopes
+  ✓ Saved: data-reference-scopes.md (546 words)
+[2025-11-17T21:48:25.130Z] Scraping: data-reference-sdks
+  ✓ Saved: data-reference-sdks.md (174 words)
+[2025-11-17T21:48:30.958Z] Scraping: data-reference-sites-get
+  ✓ Saved: data-reference-sites-get.md (309 words)
+[2025-11-17T21:48:37.093Z] Scraping: data-reference-sites-get-custom-domain
+  ✓ Saved: data-reference-sites-get-custom-domain.md (186 words)
+[2025-11-17T21:48:43.554Z] Scraping: data-reference-sites-list
+  ✓ Saved: data-reference-sites-list.md (171 words)
+[2025-11-17T21:48:48.755Z] Scraping: data-reference-sites-publish
+  ✓ Saved: data-reference-sites-publish.md (267 words)
+[2025-11-17T21:48:54.937Z] Scraping: data-reference-structure-1
+  ✓ Saved: data-reference-structure-1.md (380 words)
+[2025-11-17T21:48:59.968Z] Scraping: data-reference-token-introspect
+  ✓ Saved: data-reference-token-introspect.md (186 words)
+[2025-11-17T21:49:05.575Z] Scraping: data-reference-users-access-groups-list
+  ✓ Saved: data-reference-users-access-groups-list.md (284 words)
+[2025-11-17T21:49:11.378Z] Scraping: data-reference-users-users-delete
+  ✓ Saved: data-reference-users-users-delete.md (188 words)
+[2025-11-17T21:49:16.766Z] Scraping: data-reference-users-users-get
+  ✓ Saved: data-reference-users-users-get.md (286 words)
+[2025-11-17T21:49:22.290Z] Scraping: data-reference-users-users-invite
+  ✓ Saved: data-reference-users-users-invite.md (355 words)
+[2025-11-17T21:49:27.613Z] Scraping: data-reference-users-users-list
+  ✓ Saved: data-reference-users-users-list.md (288 words)
+[2025-11-17T21:49:33.216Z] Scraping: data-reference-users-users-update
+  ✓ Saved: data-reference-users-users-update.md (330 words)
+[2025-11-17T21:49:39.238Z] Scraping: data-reference-versioning
+  ✓ Saved: data-reference-versioning.md (244 words)
+[2025-11-17T21:49:44.842Z] Scraping: data-reference-webhooks-create
+  ✓ Saved: data-reference-webhooks-create.md (384 words)
+[2025-11-17T21:49:50.301Z] Scraping: data-reference-webhooks-delete
+  ✓ Saved: data-reference-webhooks-delete.md (190 words)
+[2025-11-17T21:49:55.562Z] Scraping: data-reference-webhooks-events-collection-item-changed
+  ✓ Saved: data-reference-webhooks-events-collection-item-changed.md (160 words)
+[2025-11-17T21:50:02.133Z] Scraping: data-reference-webhooks-events-collection-item-created
+  ✓ Saved: data-reference-webhooks-events-collection-item-created.md (160 words)
+[2025-11-17T21:50:07.913Z] Scraping: data-reference-webhooks-events-collection-item-deleted
+  ✓ Saved: data-reference-webhooks-events-collection-item-deleted.md (165 words)
+[2025-11-17T21:50:13.960Z] Scraping: data-reference-webhooks-events-collection-item-published
+  ✓ Saved: data-reference-webhooks-events-collection-item-published.md (167 words)
+[2025-11-17T21:50:19.163Z] Scraping: data-reference-webhooks-events-collection-item-unpublished
+  ✓ Saved: data-reference-webhooks-events-collection-item-unpublished.md (171 words)
+[2025-11-17T21:50:24.687Z] Scraping: data-reference-webhooks-events-comment-created
+  ✓ Saved: data-reference-webhooks-events-comment-created.md (225 words)
+[2025-11-17T21:50:30.331Z] Scraping: data-reference-webhooks-events-ecomm-inventory-changed
+  ✓ Saved: data-reference-webhooks-events-ecomm-inventory-changed.md (158 words)
+[2025-11-17T21:50:37.681Z] Scraping: data-reference-webhooks-events-ecomm-new-order
+  ✓ Saved: data-reference-webhooks-events-ecomm-new-order.md (158 words)
+[2025-11-17T21:50:43.901Z] Scraping: data-reference-webhooks-events-ecomm-order-changed
+  ✓ Saved: data-reference-webhooks-events-ecomm-order-changed.md (158 words)
+[2025-11-17T21:50:49.424Z] Scraping: data-reference-webhooks-events-form-submission
+  ✓ Saved: data-reference-webhooks-events-form-submission.md (166 words)
+[2025-11-17T21:50:54.828Z] Scraping: data-reference-webhooks-events-page-created
+  ✓ Saved: data-reference-webhooks-events-page-created.md (164 words)
+[2025-11-17T21:51:01.648Z] Scraping: data-reference-webhooks-events-page-deleted
+  ✓ Saved: data-reference-webhooks-events-page-deleted.md (166 words)
+[2025-11-17T21:51:07.290Z] Scraping: data-reference-webhooks-events-page-metadata-updated
+  ✓ Saved: data-reference-webhooks-events-page-metadata-updated.md (167 words)
+[2025-11-17T21:51:12.320Z] Scraping: data-reference-webhooks-events-site-publish
+  ✓ Saved: data-reference-webhooks-events-site-publish.md (166 words)
+[2025-11-17T21:51:17.546Z] Scraping: data-reference-webhooks-events-user-account-added
+  ✓ Saved: data-reference-webhooks-events-user-account-added.md (190 words)
+[2025-11-17T21:51:22.677Z] Scraping: data-reference-webhooks-events-user-account-deleted
+  ✓ Saved: data-reference-webhooks-events-user-account-deleted.md (190 words)
+[2025-11-17T21:51:28.045Z] Scraping: data-reference-webhooks-events-user-account-updated
+  ✓ Saved: data-reference-webhooks-events-user-account-updated.md (190 words)
+[2025-11-17T21:51:33.062Z] Scraping: data-reference-webhooks-get
+  ✓ Saved: data-reference-webhooks-get.md (305 words)
+[2025-11-17T21:51:38.665Z] Scraping: data-reference-webhooks-list
+  ✓ Saved: data-reference-webhooks-list.md (209 words)
+[2025-11-17T21:51:43.939Z] Scraping: data-v1-0-0-changelog
+  ✓ Saved: data-v1-0-0-changelog.md (3475 words)
+[2025-11-17T21:51:50.212Z] Scraping: data-v1-0-0-docs-get-a-site-token
+  ✓ Saved: data-v1-0-0-docs-get-a-site-token.md (997 words)
+[2025-11-17T21:51:57.153Z] Scraping: data-v1-0-0-reference-cms-collections-get-collection
+  ✓ Saved: data-v1-0-0-reference-cms-collections-get-collection.md (269 words)
+[2025-11-17T21:52:06.901Z] Scraping: data-v1-0-0-reference-cms-collections-list-collections
+  ✓ Saved: data-v1-0-0-reference-cms-collections-list-collections.md (271 words)
+[2025-11-17T21:52:13.459Z] Scraping: data-v1-0-0-reference-cms-items-collection-item-changed
+  ✓ Saved: data-v1-0-0-reference-cms-items-collection-item-changed.md (223 words)
+[2025-11-17T21:52:23.534Z] Scraping: data-v1-0-0-reference-cms-items-collection-item-created
+  ✓ Saved: data-v1-0-0-reference-cms-items-collection-item-created.md (223 words)
+
+📊 Progress saved: 250/50 URLs
+
+━━━ BATCH 6/14 (URLs 251-50) ━━━
+
+[2025-11-17T21:52:30.540Z] Scraping: data-v1-0-0-reference-cms-items-collection-item-deleted
+  ✓ Saved: data-v1-0-0-reference-cms-items-collection-item-deleted.md (171 words)
+[2025-11-17T21:52:37.010Z] Scraping: data-v1-0-0-reference-cms-items-collection-item-unpublished
+  ✓ Saved: data-v1-0-0-reference-cms-items-collection-item-unpublished.md (171 words)
+[2025-11-17T21:52:44.424Z] Scraping: data-v1-0-0-reference-cms-items-create-item
+  ✓ Saved: data-v1-0-0-reference-cms-items-create-item.md (338 words)
+[2025-11-17T21:52:49.626Z] Scraping: data-v1-0-0-reference-cms-items-get-item
+  ✓ Saved: data-v1-0-0-reference-cms-items-get-item.md (251 words)
+[2025-11-17T21:52:59.045Z] Scraping: data-v1-0-0-reference-cms-items-list-items
+  ✓ Saved: data-v1-0-0-reference-cms-items-list-items.md (271 words)
+[2025-11-17T21:53:04.298Z] Scraping: data-v1-0-0-reference-cms-items-patch-item
+  ✓ Saved: data-v1-0-0-reference-cms-items-patch-item.md (340 words)
+[2025-11-17T21:53:11.078Z] Scraping: data-v1-0-0-reference-cms-items-publish-items
+  ✓ Saved: data-v1-0-0-reference-cms-items-publish-items.md (226 words)
+[2025-11-17T21:53:16.500Z] Scraping: data-v1-0-0-reference-cms-items-remove-item
+  ✓ Saved: data-v1-0-0-reference-cms-items-remove-item.md (246 words)
+[2025-11-17T21:53:22.742Z] Scraping: data-v1-0-0-reference-cms-items-remove-items
+  ✓ Saved: data-v1-0-0-reference-cms-items-remove-items.md (270 words)
+[2025-11-17T21:53:30.852Z] Scraping: data-v1-0-0-reference-cms-items-update-item
+  ✓ Saved: data-v1-0-0-reference-cms-items-update-item.md (337 words)
+[2025-11-17T21:53:36.001Z] Scraping: data-v1-0-0-reference-collection-item-changed
+  ✓ Saved: data-v1-0-0-reference-collection-item-changed.md (296 words)
+[2025-11-17T21:53:42.071Z] Scraping: data-v1-0-0-reference-collection-item-created
+  ✓ Saved: data-v1-0-0-reference-collection-item-created.md (296 words)
+[2025-11-17T21:53:47.637Z] Scraping: data-v1-0-0-reference-collection-item-deleted
+  ✓ Saved: data-v1-0-0-reference-collection-item-deleted.md (183 words)
+[2025-11-17T21:53:52.535Z] Scraping: data-v1-0-0-reference-collection-item-unpublished
+  ✗ Error scraping data-v1-0-0-reference-collection-item-unpublished: Unexpected error occurred while trying to scrape URL. Status code: 502
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T21:56:47.027Z] Scraping: data-v1-0-0-reference-collection-item-unpublished
+  ✓ Saved: data-v1-0-0-reference-collection-item-unpublished.md (183 words)
+[2025-11-17T21:56:53.146Z] Scraping: data-v1-0-0-reference-ecomm-inventory-changed
+  ✓ Saved: data-v1-0-0-reference-ecomm-inventory-changed.md (195 words)
+[2025-11-17T21:57:02.558Z] Scraping: data-v1-0-0-reference-ecomm-new-order
+  ✓ Saved: data-v1-0-0-reference-ecomm-new-order.md (1044 words)
+[2025-11-17T21:57:09.330Z] Scraping: data-v1-0-0-reference-ecomm-order-changed
+  ✓ Saved: data-v1-0-0-reference-ecomm-order-changed.md (1044 words)
+[2025-11-17T21:57:17.292Z] Scraping: data-v1-0-0-reference-ecommerce-inventory-ecomm-inventory-changed
+  ✗ Error scraping data-v1-0-0-reference-ecommerce-inventory-ecomm-inventory-changed: Failed to scrape URL. Status code: 408. Error: Scrape timed out
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T21:57:48.475Z] Scraping: data-v1-0-0-reference-ecommerce-inventory-ecomm-inventory-changed
+  ✓ Saved: data-v1-0-0-reference-ecommerce-inventory-ecomm-inventory-changed.md (178 words)
+[2025-11-17T21:57:53.629Z] Scraping: data-v1-0-0-reference-ecommerce-inventory-list-inventory
+  ✓ Saved: data-v1-0-0-reference-ecommerce-inventory-list-inventory.md (233 words)
+[2025-11-17T21:57:59.342Z] Scraping: data-v1-0-0-reference-ecommerce-inventory-update-inventory
+  ✓ Saved: data-v1-0-0-reference-ecommerce-inventory-update-inventory.md (288 words)
+[2025-11-17T21:58:04.290Z] Scraping: data-v1-0-0-reference-ecommerce-orders-ecomm-new-order
+  ✓ Saved: data-v1-0-0-reference-ecommerce-orders-ecomm-new-order.md (567 words)
+[2025-11-17T21:58:12.696Z] Scraping: data-v1-0-0-reference-ecommerce-orders-ecomm-order-changed
+  ✓ Saved: data-v1-0-0-reference-ecommerce-orders-ecomm-order-changed.md (567 words)
+[2025-11-17T21:58:18.385Z] Scraping: data-v1-0-0-reference-ecommerce-orders-fulfill-order
+  ✓ Saved: data-v1-0-0-reference-ecommerce-orders-fulfill-order.md (681 words)
+[2025-11-17T21:58:28.136Z] Scraping: data-v1-0-0-reference-ecommerce-orders-get-order
+  ✓ Saved: data-v1-0-0-reference-ecommerce-orders-get-order.md (690 words)
+[2025-11-17T21:58:33.867Z] Scraping: data-v1-0-0-reference-ecommerce-orders-list-orders
+  ✓ Saved: data-v1-0-0-reference-ecommerce-orders-list-orders.md (694 words)
+[2025-11-17T21:58:39.633Z] Scraping: data-v1-0-0-reference-ecommerce-orders-refund-order
+  ✓ Saved: data-v1-0-0-reference-ecommerce-orders-refund-order.md (680 words)
+[2025-11-17T21:58:45.821Z] Scraping: data-v1-0-0-reference-ecommerce-orders-unfulfill-order
+  ✓ Saved: data-v1-0-0-reference-ecommerce-orders-unfulfill-order.md (662 words)
+[2025-11-17T21:58:52.042Z] Scraping: data-v1-0-0-reference-ecommerce-orders-update-order
+  ✓ Saved: data-v1-0-0-reference-ecommerce-orders-update-order.md (691 words)
+[2025-11-17T21:58:57.627Z] Scraping: data-v1-0-0-reference-ecommerce-products-sk-us-create-product
+  ✓ Saved: data-v1-0-0-reference-ecommerce-products-sk-us-create-product.md (423 words)
+[2025-11-17T21:59:03.129Z] Scraping: data-v1-0-0-reference-ecommerce-products-sk-us-create-skus
+  ✓ Saved: data-v1-0-0-reference-ecommerce-products-sk-us-create-skus.md (307 words)
+[2025-11-17T21:59:10.865Z] Scraping: data-v1-0-0-reference-ecommerce-products-sk-us-get-product
+  ✓ Saved: data-v1-0-0-reference-ecommerce-products-sk-us-get-product.md (279 words)
+[2025-11-17T21:59:17.228Z] Scraping: data-v1-0-0-reference-ecommerce-products-sk-us-list-products
+  ✗ Error scraping data-v1-0-0-reference-ecommerce-products-sk-us-list-products: Failed to scrape URL. Status code: 408. Error: Scrape timed out
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T21:59:53.176Z] Scraping: data-v1-0-0-reference-ecommerce-products-sk-us-list-products
+  ✓ Saved: data-v1-0-0-reference-ecommerce-products-sk-us-list-products.md (317 words)
+[2025-11-17T21:59:54.726Z] Scraping: data-v1-0-0-reference-ecommerce-products-sk-us-update-product
+  ✓ Saved: data-v1-0-0-reference-ecommerce-products-sk-us-update-product.md (340 words)
+[2025-11-17T21:59:59.980Z] Scraping: data-v1-0-0-reference-ecommerce-products-sk-us-update-sku
+  ✓ Saved: data-v1-0-0-reference-ecommerce-products-sk-us-update-sku.md (346 words)
+[2025-11-17T22:00:05.908Z] Scraping: data-v1-0-0-reference-ecommerce-settings-ecommerce-settings
+  ✓ Saved: data-v1-0-0-reference-ecommerce-settings-ecommerce-settings.md (224 words)
+[2025-11-17T22:00:11.663Z] Scraping: data-v1-0-0-reference-form-submission
+  ✓ Saved: data-v1-0-0-reference-form-submission.md (234 words)
+[2025-11-17T22:00:19.397Z] Scraping: data-v1-0-0-reference-memberships-user-account-added
+  ✓ Saved: data-v1-0-0-reference-memberships-user-account-added.md (304 words)
+[2025-11-17T22:00:25.470Z] Scraping: data-v1-0-0-reference-memberships-user-account-updated
+  ✓ Saved: data-v1-0-0-reference-memberships-user-account-updated.md (304 words)
+[2025-11-17T22:00:31.582Z] Scraping: data-v1-0-0-reference-meta-get-authorized-info
+  ✓ Saved: data-v1-0-0-reference-meta-get-authorized-info.md (278 words)
+[2025-11-17T22:00:37.461Z] Scraping: data-v1-0-0-reference-meta-get-authorized-user
+  ✓ Saved: data-v1-0-0-reference-meta-get-authorized-user.md (213 words)
+[2025-11-17T22:00:44.646Z] Scraping: data-v1-0-0-reference-site-publish
+  ✓ Saved: data-v1-0-0-reference-site-publish.md (252 words)
+[2025-11-17T22:00:50.762Z] Scraping: data-v1-0-0-reference-sites-sites-form-submission
+  ✓ Saved: data-v1-0-0-reference-sites-sites-form-submission.md (195 words)
+[2025-11-17T22:00:58.099Z] Scraping: data-v1-0-0-reference-sites-sites-get-site
+  ✓ Saved: data-v1-0-0-reference-sites-sites-get-site.md (252 words)
+[2025-11-17T22:01:05.602Z] Scraping: data-v1-0-0-reference-sites-sites-list-domains
+  ✓ Saved: data-v1-0-0-reference-sites-sites-list-domains.md (208 words)
+[2025-11-17T22:01:11.158Z] Scraping: data-v1-0-0-reference-sites-sites-list-sites
+  ✓ Saved: data-v1-0-0-reference-sites-sites-list-sites.md (248 words)
+[2025-11-17T22:01:17.028Z] Scraping: data-v1-0-0-reference-sites-sites-publish-site
+  ✓ Saved: data-v1-0-0-reference-sites-sites-publish-site.md (216 words)
+[2025-11-17T22:01:24.172Z] Scraping: data-v1-0-0-reference-sites-sites-site-publish
+  ✓ Saved: data-v1-0-0-reference-sites-sites-site-publish.md (187 words)
+[2025-11-17T22:01:31.693Z] Scraping: data-v1-0-0-reference-sites-webhooks-create-webhook
+  ✓ Saved: data-v1-0-0-reference-sites-webhooks-create-webhook.md (493 words)
+[2025-11-17T22:01:49.674Z] Scraping: data-v1-0-0-reference-sites-webhooks-get-webhook
+  ✓ Saved: data-v1-0-0-reference-sites-webhooks-get-webhook.md (356 words)
+[2025-11-17T22:01:55.997Z] Scraping: data-v1-0-0-reference-sites-webhooks-list-webhooks
+  ✓ Saved: data-v1-0-0-reference-sites-webhooks-list-webhooks.md (353 words)
+
+📊 Progress saved: 300/50 URLs
+
+━━━ BATCH 7/14 (URLs 301-50) ━━━
+
+[2025-11-17T22:02:03.417Z] Scraping: data-v1-0-0-reference-sites-webhooks-remove-webhook
+  ✓ Saved: data-v1-0-0-reference-sites-webhooks-remove-webhook.md (203 words)
+[2025-11-17T22:02:08.858Z] Scraping: data-v1-0-0-reference-user-account-deleted
+  ✓ Saved: data-v1-0-0-reference-user-account-deleted.md (303 words)
+[2025-11-17T22:02:14.182Z] Scraping: data-v1-0-0-reference-user-accounts-access-groups-list-access-groups
+  ✓ Saved: data-v1-0-0-reference-user-accounts-access-groups-list-access-groups.md (298 words)
+[2025-11-17T22:02:25.719Z] Scraping: data-v1-0-0-reference-user-accounts-access-groups-update-user-access-groups
+  ✓ Saved: data-v1-0-0-reference-user-accounts-access-groups-update-user-access-groups.md (332 words)
+[2025-11-17T22:02:34.949Z] Scraping: data-v1-0-0-reference-user-accounts-users-delete-user
+  ✓ Saved: data-v1-0-0-reference-user-accounts-users-delete-user.md (205 words)
+[2025-11-17T22:02:49.750Z] Scraping: data-v1-0-0-reference-user-accounts-users-get-user
+  ✓ Saved: data-v1-0-0-reference-user-accounts-users-get-user.md (297 words)
+[2025-11-17T22:02:55.045Z] Scraping: data-v1-0-0-reference-user-accounts-users-invite-user
+  ✓ Saved: data-v1-0-0-reference-user-accounts-users-invite-user.md (336 words)
+[2025-11-17T22:03:00.497Z] Scraping: data-v1-0-0-reference-user-accounts-users-list-users
+  ✓ Saved: data-v1-0-0-reference-user-accounts-users-list-users.md (302 words)
+[2025-11-17T22:03:06.169Z] Scraping: data-v1-0-0-reference-user-accounts-users-memberships-user-account-added
+  ✓ Saved: data-v1-0-0-reference-user-accounts-users-memberships-user-account-added.md (235 words)
+[2025-11-17T22:03:14.344Z] Scraping: data-v1-0-0-reference-user-accounts-users-memberships-user-account-deleted
+  ✓ Saved: data-v1-0-0-reference-user-accounts-users-memberships-user-account-deleted.md (235 words)
+[2025-11-17T22:03:20.589Z] Scraping: data-v1-0-0-reference-user-accounts-users-memberships-user-account-updated
+  ✓ Saved: data-v1-0-0-reference-user-accounts-users-memberships-user-account-updated.md (235 words)
+[2025-11-17T22:03:26.694Z] Scraping: data-v1-0-0-reference-user-accounts-users-update-user
+  ✓ Saved: data-v1-0-0-reference-user-accounts-users-update-user.md (308 words)
+[2025-11-17T22:03:32.631Z] Scraping: data-v2-0-0-beta-apps-docs-marketplace-guidelines
+  ✓ Saved: data-v2-0-0-beta-apps-docs-marketplace-guidelines.md (1730 words)
+[2025-11-17T22:03:37.849Z] Scraping: data-v2-0-0-beta-apps-docs-private-apps
+  ✓ Saved: data-v2-0-0-beta-apps-docs-private-apps.md (513 words)
+[2025-11-17T22:03:44.523Z] Scraping: data-v2-0-0-beta-changelog
+  ✓ Saved: data-v2-0-0-beta-changelog.md (1968 words)
+[2025-11-17T22:03:56.064Z] Scraping: data-v2-0-0-beta-changelog-08082025
+  ✓ Saved: data-v2-0-0-beta-changelog-08082025.md (187 words)
+[2025-11-17T22:04:03.095Z] Scraping: data-v2-0-0-beta-changelog-2024-10-1
+  ✓ Saved: data-v2-0-0-beta-changelog-2024-10-1.md (256 words)
+[2025-11-17T22:04:07.216Z] Scraping: data-v2-0-0-beta-changelog-2024-11-21
+  ✓ Saved: data-v2-0-0-beta-changelog-2024-11-21.md (137 words)
+[2025-11-17T22:04:13.524Z] Scraping: data-v2-0-0-beta-changelog-2024-12-17
+  ✓ Saved: data-v2-0-0-beta-changelog-2024-12-17.md (274 words)
+[2025-11-17T22:04:21.225Z] Scraping: data-v2-0-0-beta-changelog-2024-2-22
+  ✓ Saved: data-v2-0-0-beta-changelog-2024-2-22.md (195 words)
+[2025-11-17T22:04:25.894Z] Scraping: data-v2-0-0-beta-changelog-2024-7-25
+  ✓ Saved: data-v2-0-0-beta-changelog-2024-7-25.md (99 words)
+[2025-11-17T22:04:30.723Z] Scraping: data-v2-0-0-beta-changelog-2024-8-22
+  ✓ Saved: data-v2-0-0-beta-changelog-2024-8-22.md (302 words)
+[2025-11-17T22:04:37.069Z] Scraping: data-v2-0-0-beta-changelog-2024-8-9
+  ✓ Saved: data-v2-0-0-beta-changelog-2024-8-9.md (61 words)
+[2025-11-17T22:04:46.459Z] Scraping: data-v2-0-0-beta-changelog-2024-9-17
+  ✓ Saved: data-v2-0-0-beta-changelog-2024-9-17.md (429 words)
+[2025-11-17T22:04:53.246Z] Scraping: data-v2-0-0-beta-changelog-2025-1-16
+  ✓ Saved: data-v2-0-0-beta-changelog-2025-1-16.md (127 words)
+[2025-11-17T22:05:00.886Z] Scraping: data-v2-0-0-beta-changelog-2025-2-5
+  ✓ Saved: data-v2-0-0-beta-changelog-2025-2-5.md (138 words)
+[2025-11-17T22:05:07.075Z] Scraping: data-v2-0-0-beta-changelog-2025-3-12
+  ✓ Saved: data-v2-0-0-beta-changelog-2025-3-12.md (95 words)
+[2025-11-17T22:05:17.963Z] Scraping: data-v2-0-0-beta-changelog-2025-5-8
+  ✓ Saved: data-v2-0-0-beta-changelog-2025-5-8.md (48 words)
+[2025-11-17T22:05:21.959Z] Scraping: data-v2-0-0-beta-deep-linking
+  ✓ Saved: data-v2-0-0-beta-deep-linking.md (231 words)
+[2025-11-17T22:05:27.227Z] Scraping: data-v2-0-0-beta-designer-docs-design-guidelines
+  ✓ Saved: data-v2-0-0-beta-designer-docs-design-guidelines.md (1087 words)
+[2025-11-17T22:05:32.655Z] Scraping: data-v2-0-0-beta-docs-app-metrics
+  ✓ Saved: data-v2-0-0-beta-docs-app-metrics.md (279 words)
+[2025-11-17T22:05:37.220Z] Scraping: data-v2-0-0-beta-docs-cms-tutorial
+  ✓ Saved: data-v2-0-0-beta-docs-cms-tutorial.md (4157 words)
+[2025-11-17T22:05:42.139Z] Scraping: data-v2-0-0-beta-docs-designer-extensions
+  ✓ Saved: data-v2-0-0-beta-docs-designer-extensions.md (853 words)
+[2025-11-17T22:05:48.802Z] Scraping: data-v2-0-0-beta-docs-designer-extensions-getting-started
+  ✓ Saved: data-v2-0-0-beta-docs-designer-extensions-getting-started.md (1163 words)
+[2025-11-17T22:06:02.580Z] Scraping: data-v2-0-0-beta-docs-faqs-and-troubleshooting
+  ✓ Saved: data-v2-0-0-beta-docs-faqs-and-troubleshooting.md (633 words)
+[2025-11-17T22:06:07.032Z] Scraping: data-v2-0-0-beta-docs-getting-started-apps
+  ✓ Saved: data-v2-0-0-beta-docs-getting-started-apps.md (382 words)
+[2025-11-17T22:06:11.492Z] Scraping: data-v2-0-0-beta-docs-hybrid-apps
+  ✓ Saved: data-v2-0-0-beta-docs-hybrid-apps.md (71 words)
+[2025-11-17T22:06:16.760Z] Scraping: data-v2-0-0-beta-docs-localizing-components-beta
+  ✓ Saved: data-v2-0-0-beta-docs-localizing-components-beta.md (1643 words)
+[2025-11-17T22:06:23.026Z] Scraping: data-v2-0-0-beta-docs-marketing-your-app
+  ✓ Saved: data-v2-0-0-beta-docs-marketing-your-app.md (1064 words)
+[2025-11-17T22:06:27.785Z] Scraping: data-v2-0-0-beta-docs-marketplace-listing-your-app
+  ✓ Saved: data-v2-0-0-beta-docs-marketplace-listing-your-app.md (972 words)
+[2025-11-17T22:06:33.680Z] Scraping: data-v2-0-0-beta-docs-marketplace-overview
+  ✗ Error scraping data-v2-0-0-beta-docs-marketplace-overview: Unexpected error occurred while trying to scrape URL. Status code: 502
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T22:08:46.551Z] Scraping: data-v2-0-0-beta-docs-marketplace-overview
+  ✗ Error scraping data-v2-0-0-beta-docs-marketplace-overview: Unexpected error occurred while trying to scrape URL. Status code: 502
+  ↻ Retrying... (1 attempts remaining)
+[2025-11-17T22:10:58.631Z] Scraping: data-v2-0-0-beta-docs-marketplace-overview
+  ✓ Saved: data-v2-0-0-beta-docs-marketplace-overview.md (476 words)
+[2025-11-17T22:11:05.251Z] Scraping: data-v2-0-0-beta-docs-marketplace-submitting-your-app
+  ✓ Saved: data-v2-0-0-beta-docs-marketplace-submitting-your-app.md (1269 words)
+[2025-11-17T22:11:11.562Z] Scraping: data-v2-0-0-beta-docs-publishing-your-app
+  ✓ Saved: data-v2-0-0-beta-docs-publishing-your-app.md (892 words)
+[2025-11-17T22:11:19.196Z] Scraping: data-v2-0-0-beta-reference-all-events
+  ✓ Saved: data-v2-0-0-beta-reference-all-events.md (3591 words)
+[2025-11-17T22:11:23.848Z] Scraping: data-v2-0-0-beta-reference-app-subscriptions-app-subscriptions
+  ✓ Saved: data-v2-0-0-beta-reference-app-subscriptions-app-subscriptions.md (62 words)
+[2025-11-17T22:11:28.604Z] Scraping: data-v2-0-0-beta-reference-cms-collection-items-staged-items-create-items
+  ✓ Saved: data-v2-0-0-beta-reference-cms-collection-items-staged-items-create-items.md (246 words)
+[2025-11-17T22:11:33.660Z] Scraping: data-v2-0-0-beta-reference-enterprise-site-configuration-llms-txt-delete
+  ✓ Saved: data-v2-0-0-beta-reference-enterprise-site-configuration-llms-txt-delete.md (71 words)
+[2025-11-17T22:11:38.748Z] Scraping: data-v2-0-0-beta-reference-enterprise-site-configuration-llms-txt-get
+  ✓ Saved: data-v2-0-0-beta-reference-enterprise-site-configuration-llms-txt-get.md (80 words)
+[2025-11-17T22:11:43.392Z] Scraping: data-v2-0-0-beta-reference-enterprise-site-configuration-llms-txt-patch
+  ✓ Saved: data-v2-0-0-beta-reference-enterprise-site-configuration-llms-txt-patch.md (94 words)
+[2025-11-17T22:11:47.534Z] Scraping: data-v2-0-0-beta-reference-token-resolve
+  ✓ Saved: data-v2-0-0-beta-reference-token-resolve.md (117 words)
+
+📊 Progress saved: 350/50 URLs
+
+━━━ BATCH 8/14 (URLs 351-50) ━━━
+
+[2025-11-17T22:11:52.355Z] Scraping: data-v2-0-0-changelog
+  ✓ Saved: data-v2-0-0-changelog.md (3345 words)
+[2025-11-17T22:11:57.348Z] Scraping: data-v2-0-0-reference-field-types-item-values
+  ✓ Saved: data-v2-0-0-reference-field-types-item-values.md (890 words)
+[2025-11-17T22:12:02.665Z] Scraping: data-v2-0-0-reference-rest-introduction
+  ✓ Saved: data-v2-0-0-reference-rest-introduction.md (541 words)
+[2025-11-17T22:12:08.244Z] Scraping: designer-api-new-version
+  ✓ Saved: designer-api-new-version.md (356 words)
+[2025-11-17T22:12:12.056Z] Scraping: designer-01162025
+  ✗ Error scraping designer-01162025: Unexpected error occurred while trying to scrape URL. Status code: 502
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T22:14:30.435Z] Scraping: designer-01162025
+  ✓ Saved: designer-01162025.md (152 words)
+[2025-11-17T22:14:39.748Z] Scraping: designer-02062025
+  ✓ Saved: designer-02062025.md (213 words)
+[2025-11-17T22:14:48.163Z] Scraping: designer-02282025
+  ✓ Saved: designer-02282025.md (213 words)
+[2025-11-17T22:14:54.538Z] Scraping: designer-03122025
+  ✓ Saved: designer-03122025.md (265 words)
+[2025-11-17T22:15:04.644Z] Scraping: designer-04082025
+  ✓ Saved: designer-04082025.md (254 words)
+[2025-11-17T22:15:11.304Z] Scraping: designer-05012024
+  ✓ Saved: designer-05012024.md (320 words)
+[2025-11-17T22:15:22.349Z] Scraping: designer-05082025
+  ✓ Saved: designer-05082025.md (336 words)
+[2025-11-17T22:15:29.384Z] Scraping: designer-06182024
+  ✓ Saved: designer-06182024.md (367 words)
+[2025-11-17T22:15:37.945Z] Scraping: designer-06252025
+  ✓ Saved: designer-06252025.md (539 words)
+[2025-11-17T22:15:44.279Z] Scraping: designer-072524
+  ✓ Saved: designer-072524.md (170 words)
+[2025-11-17T22:15:50.915Z] Scraping: designer-080924
+  ✓ Saved: designer-080924.md (168 words)
+[2025-11-17T22:15:57.159Z] Scraping: designer-082224
+  ✓ Saved: designer-082224.md (192 words)
+[2025-11-17T22:16:03.919Z] Scraping: designer-09042025
+  ✓ Saved: designer-09042025.md (455 words)
+[2025-11-17T22:16:10.500Z] Scraping: designer-091724
+  ✓ Saved: designer-091724.md (230 words)
+[2025-11-17T22:16:16.170Z] Scraping: designer-100124
+  ✓ Saved: designer-100124.md (248 words)
+[2025-11-17T22:16:21.288Z] Scraping: designer-121724
+  ✓ Saved: designer-121724.md (265 words)
+[2025-11-17T22:16:27.980Z] Scraping: designer-changelog
+  ✓ Saved: designer-changelog.md (1906 words)
+[2025-11-17T22:16:34.215Z] Scraping: designer-changelog-08082025
+  ✓ Saved: designer-changelog-08082025.md (255 words)
+[2025-11-17T22:16:40.994Z] Scraping: designer-examples
+  ✓ Saved: designer-examples.md (175 words)
+[2025-11-17T22:16:46.399Z] Scraping: designer-guides-configuring-your-app
+  ✓ Saved: designer-guides-configuring-your-app.md (713 words)
+[2025-11-17T22:16:51.632Z] Scraping: designer-new-designer-api-endpoints
+  ✓ Saved: designer-new-designer-api-endpoints.md (417 words)
+[2025-11-17T22:16:59.927Z] Scraping: designer-reference-app-intents-and-connections
+  ✓ Saved: designer-reference-app-intents-and-connections.md (1747 words)
+[2025-11-17T22:17:05.755Z] Scraping: designer-reference-app-modes
+  ✓ Saved: designer-reference-app-modes.md (1773 words)
+[2025-11-17T22:17:11.218Z] Scraping: designer-reference-append
+  ✓ Saved: designer-reference-append.md (297 words)
+[2025-11-17T22:17:16.833Z] Scraping: designer-reference-asset-overview
+  ✓ Saved: designer-reference-asset-overview.md (430 words)
+[2025-11-17T22:17:24.926Z] Scraping: designer-reference-bulk-add-elements
+  ✓ Saved: designer-reference-bulk-add-elements.md (692 words)
+[2025-11-17T22:17:30.771Z] Scraping: designer-reference-check-description-is-used-as-search-description
+  ✓ Saved: designer-reference-check-description-is-used-as-search-description.md (228 words)
+[2025-11-17T22:17:37.960Z] Scraping: designer-reference-check-if-page-is-draft
+  ✓ Saved: designer-reference-check-if-page-is-draft.md (228 words)
+[2025-11-17T22:17:44.794Z] Scraping: designer-reference-check-if-page-is-excluded-from-search
+  ✓ Saved: designer-reference-check-if-page-is-excluded-from-search.md (236 words)
+[2025-11-17T22:17:52.574Z] Scraping: designer-reference-check-if-page-is-homepage
+  ✓ Saved: designer-reference-check-if-page-is-homepage.md (233 words)
+[2025-11-17T22:18:03.198Z] Scraping: designer-reference-check-if-page-is-password-protected
+  ✓ Saved: designer-reference-check-if-page-is-password-protected.md (229 words)
+[2025-11-17T22:18:09.065Z] Scraping: designer-reference-check-if-page-uses-title-as-search-title
+  ✓ Saved: designer-reference-check-if-page-uses-title-as-search-title.md (229 words)
+[2025-11-17T22:18:18.609Z] Scraping: designer-reference-clear-all-style-properties
+  ✓ Saved: designer-reference-clear-all-style-properties.md (197 words)
+[2025-11-17T22:18:23.674Z] Scraping: designer-reference-close-extension
+  ✓ Saved: designer-reference-close-extension.md (193 words)
+[2025-11-17T22:18:32.732Z] Scraping: designer-reference-component-element
+  ✓ Saved: designer-reference-component-element.md (290 words)
+[2025-11-17T22:18:40.918Z] Scraping: designer-reference-component-element-getcomponent
+  ✓ Saved: designer-reference-component-element-getcomponent.md (236 words)
+[2025-11-17T22:18:47.203Z] Scraping: designer-reference-components-overview
+  ✓ Saved: designer-reference-components-overview.md (729 words)
+[2025-11-17T22:18:53.378Z] Scraping: designer-reference-create-an-asset
+  ✓ Saved: designer-reference-create-an-asset.md (447 words)
+[2025-11-17T22:19:00.965Z] Scraping: designer-reference-create-asset-folder
+  ✓ Saved: designer-reference-create-asset-folder.md (324 words)
+[2025-11-17T22:19:09.161Z] Scraping: designer-reference-create-color-variable
+  ✓ Saved: designer-reference-create-color-variable.md (323 words)
+[2025-11-17T22:19:25.383Z] Scraping: designer-reference-create-component-definition
+  ✓ Saved: designer-reference-create-component-definition.md (272 words)
+[2025-11-17T22:19:31.116Z] Scraping: designer-reference-create-component-instance
+  ✓ Saved: designer-reference-create-component-instance.md (229 words)
+[2025-11-17T22:19:39.494Z] Scraping: designer-reference-create-folder
+  ✓ Saved: designer-reference-create-folder.md (207 words)
+[2025-11-17T22:19:45.311Z] Scraping: designer-reference-create-font-family-variable
+  ✓ Saved: designer-reference-create-font-family-variable.md (278 words)
+[2025-11-17T22:19:51.399Z] Scraping: designer-reference-create-number-variable
+  ✓ Saved: designer-reference-create-number-variable.md (297 words)
+[2025-11-17T22:19:59.008Z] Scraping: designer-reference-create-page
+  ✓ Saved: designer-reference-create-page.md (229 words)
+
+📊 Progress saved: 400/50 URLs
+
+━━━ BATCH 9/14 (URLs 401-50) ━━━
+
+[2025-11-17T22:20:05.089Z] Scraping: designer-reference-create-percentage-variable
+  ✓ Saved: designer-reference-create-percentage-variable.md (275 words)
+[2025-11-17T22:20:11.597Z] Scraping: designer-reference-create-size-variable
+  ✓ Saved: designer-reference-create-size-variable.md (752 words)
+[2025-11-17T22:20:19.104Z] Scraping: designer-reference-create-style
+  ✓ Saved: designer-reference-create-style.md (291 words)
+[2025-11-17T22:20:29.025Z] Scraping: designer-reference-create-variable-collection
+  ✓ Saved: designer-reference-create-variable-collection.md (210 words)
+[2025-11-17T22:20:36.824Z] Scraping: designer-reference-create-variable-mode
+  ✓ Saved: designer-reference-create-variable-mode.md (231 words)
+[2025-11-17T22:20:43.008Z] Scraping: designer-reference-creating-retrieving-elements
+  ✓ Saved: designer-reference-creating-retrieving-elements.md (907 words)
+[2025-11-17T22:20:54.090Z] Scraping: designer-reference-custom-attributes-getallcustomattributes
+  ✓ Saved: designer-reference-custom-attributes-getallcustomattributes.md (221 words)
+[2025-11-17T22:21:04.609Z] Scraping: designer-reference-custom-attributes-getcustomattribute
+  ✓ Saved: designer-reference-custom-attributes-getcustomattribute.md (234 words)
+[2025-11-17T22:21:15.216Z] Scraping: designer-reference-custom-attributes-removecustomattribute
+  ✓ Saved: designer-reference-custom-attributes-removecustomattribute.md (214 words)
+[2025-11-17T22:21:23.939Z] Scraping: designer-reference-custom-attributes-setcustomattribute
+  ✓ Saved: designer-reference-custom-attributes-setcustomattribute.md (238 words)
+[2025-11-17T22:21:29.878Z] Scraping: designer-reference-delete-component-definition
+  ✓ Saved: designer-reference-delete-component-definition.md (240 words)
+[2025-11-17T22:21:38.465Z] Scraping: designer-reference-designer-api-getting-started
+  ✓ Saved: designer-reference-designer-api-getting-started.md (1275 words)
+[2025-11-17T22:21:48.999Z] Scraping: designer-reference-dom-element
+  ✓ Saved: designer-reference-dom-element.md (408 words)
+[2025-11-17T22:22:13.282Z] Scraping: designer-reference-dom-element-getallattributes
+  ✓ Saved: designer-reference-dom-element-getallattributes.md (111 words)
+[2025-11-17T22:22:19.939Z] Scraping: designer-reference-dom-element-getattribute
+  ✓ Saved: designer-reference-dom-element-getattribute.md (169 words)
+[2025-11-17T22:22:25.159Z] Scraping: designer-reference-dom-element-gettag
+  ✓ Saved: designer-reference-dom-element-gettag.md (145 words)
+[2025-11-17T22:22:29.278Z] Scraping: designer-reference-dom-element-removeattribute
+  ✓ Saved: designer-reference-dom-element-removeattribute.md (250 words)
+[2025-11-17T22:22:38.334Z] Scraping: designer-reference-dom-element-setattribute
+  ✓ Saved: designer-reference-dom-element-setattribute.md (169 words)
+[2025-11-17T22:22:42.835Z] Scraping: designer-reference-dom-element-settag
+  ✓ Saved: designer-reference-dom-element-settag.md (120 words)
+[2025-11-17T22:22:47.898Z] Scraping: designer-reference-element-children-append
+  ✓ Saved: designer-reference-element-children-append.md (181 words)
+[2025-11-17T22:22:55.984Z] Scraping: designer-reference-element-children-getchildren
+  ✓ Saved: designer-reference-element-children-getchildren.md (206 words)
+[2025-11-17T22:23:01.888Z] Scraping: designer-reference-element-children-prepend
+  ✓ Saved: designer-reference-element-children-prepend.md (181 words)
+[2025-11-17T22:23:10.217Z] Scraping: designer-reference-element-presets
+  ✓ Saved: designer-reference-element-presets.md (1546 words)
+[2025-11-17T22:23:16.052Z] Scraping: designer-reference-element-properties-methods
+  ✓ Saved: designer-reference-element-properties-methods.md (381 words)
+[2025-11-17T22:23:21.105Z] Scraping: designer-reference-element-styles-getstyles
+  ✓ Saved: designer-reference-element-styles-getstyles.md (138 words)
+[2025-11-17T22:23:33.903Z] Scraping: designer-reference-element-styles-setstyles
+  ✓ Saved: designer-reference-element-styles-setstyles.md (86 words)
+[2025-11-17T22:23:40.327Z] Scraping: designer-reference-element-types-methods
+  ✓ Saved: designer-reference-element-types-methods.md (307 words)
+[2025-11-17T22:23:47.158Z] Scraping: designer-reference-elements-overview
+  ✓ Saved: designer-reference-elements-overview.md (185 words)
+[2025-11-17T22:23:51.782Z] Scraping: designer-reference-elements-children
+  ✓ Saved: designer-reference-elements-children.md (139 words)
+[2025-11-17T22:23:57.665Z] Scraping: designer-reference-elements-custom-attributes
+  ✓ Saved: designer-reference-elements-custom-attributes.md (140 words)
+[2025-11-17T22:24:01.597Z] Scraping: designer-reference-elements-styles
+  ✓ Saved: designer-reference-elements-styles.md (96 words)
+[2025-11-17T22:24:08.063Z] Scraping: designer-reference-elements-text-content
+  ✓ Saved: designer-reference-elements-text-content.md (98 words)
+[2025-11-17T22:24:14.215Z] Scraping: designer-reference-enter-component
+  ✓ Saved: designer-reference-enter-component.md (222 words)
+[2025-11-17T22:24:18.092Z] Scraping: designer-reference-error-handling
+  ✓ Saved: designer-reference-error-handling.md (650 words)
+[2025-11-17T22:24:24.269Z] Scraping: designer-reference-events
+  ✓ Saved: designer-reference-events.md (592 words)
+[2025-11-17T22:24:28.781Z] Scraping: designer-reference-exclude-page-from-search
+  ✓ Saved: designer-reference-exclude-page-from-search.md (102 words)
+[2025-11-17T22:24:33.296Z] Scraping: designer-reference-exit-component
+  ✓ Saved: designer-reference-exit-component.md (162 words)
+[2025-11-17T22:24:38.471Z] Scraping: designer-reference-extension-utilities
+  ✓ Saved: designer-reference-extension-utilities.md (141 words)
+[2025-11-17T22:24:43.017Z] Scraping: designer-reference-form-element-get-form-name
+  ✓ Saved: designer-reference-form-element-get-form-name.md (95 words)
+[2025-11-17T22:24:47.677Z] Scraping: designer-reference-form-element-get-form-settings
+  ✓ Saved: designer-reference-form-element-get-form-settings.md (241 words)
+[2025-11-17T22:24:51.678Z] Scraping: designer-reference-form-element-get-name-input-field
+  ✓ Saved: designer-reference-form-element-get-name-input-field.md (118 words)
+[2025-11-17T22:24:56.239Z] Scraping: designer-reference-form-element-get-required-status
+  ✓ Saved: designer-reference-form-element-get-required-status.md (135 words)
+[2025-11-17T22:25:01.026Z] Scraping: designer-reference-form-element-get-type-input-field
+  ✓ Saved: designer-reference-form-element-get-type-input-field.md (126 words)
+[2025-11-17T22:25:06.055Z] Scraping: designer-reference-form-element-set-form-name
+  ✓ Saved: designer-reference-form-element-set-form-name.md (103 words)
+[2025-11-17T22:25:10.391Z] Scraping: designer-reference-form-element-set-form-settings
+  ✓ Saved: designer-reference-form-element-set-form-settings.md (216 words)
+[2025-11-17T22:25:17.453Z] Scraping: designer-reference-form-element-set-name-input-field
+  ✓ Saved: designer-reference-form-element-set-name-input-field.md (108 words)
+[2025-11-17T22:25:23.156Z] Scraping: designer-reference-form-element-set-required-status
+  ✓ Saved: designer-reference-form-element-set-required-status.md (137 words)
+[2025-11-17T22:25:28.654Z] Scraping: designer-reference-form-element-set-type-input-field
+  ✓ Saved: designer-reference-form-element-set-type-input-field.md (98 words)
+[2025-11-17T22:25:33.309Z] Scraping: designer-reference-form-inputs
+  ✓ Saved: designer-reference-form-inputs.md (595 words)
+[2025-11-17T22:25:37.446Z] Scraping: designer-reference-forms
+  ✓ Saved: designer-reference-forms.md (671 words)
+
+📊 Progress saved: 450/50 URLs
+
+━━━ BATCH 10/14 (URLs 451-50) ━━━
+
+[2025-11-17T22:25:41.846Z] Scraping: designer-reference-get-all-asset-folders
+  ✓ Saved: designer-reference-get-all-asset-folders.md (72 words)
+[2025-11-17T22:25:46.180Z] Scraping: designer-reference-get-all-assets
+  ✓ Saved: designer-reference-get-all-assets.md (112 words)
+[2025-11-17T22:25:52.092Z] Scraping: designer-reference-get-all-elements
+  ✓ Saved: designer-reference-get-all-elements.md (174 words)
+[2025-11-17T22:25:56.698Z] Scraping: designer-reference-get-all-pages-and-folders
+  ✓ Saved: designer-reference-get-all-pages-and-folders.md (139 words)
+[2025-11-17T22:26:00.942Z] Scraping: designer-reference-get-all-styles
+  ✓ Saved: designer-reference-get-all-styles.md (146 words)
+[2025-11-17T22:26:06.522Z] Scraping: designer-reference-get-all-variable-collections
+  ✓ Saved: designer-reference-get-all-variable-collections.md (101 words)
+[2025-11-17T22:26:10.872Z] Scraping: designer-reference-get-all-variable-modes
+  ✓ Saved: designer-reference-get-all-variable-modes.md (93 words)
+[2025-11-17T22:26:15.379Z] Scraping: designer-reference-get-all-variables
+  ✓ Saved: designer-reference-get-all-variables.md (162 words)
+[2025-11-17T22:26:20.862Z] Scraping: designer-reference-get-alt-text
+  ✓ Saved: designer-reference-get-alt-text.md (108 words)
+[2025-11-17T22:26:25.363Z] Scraping: designer-reference-get-app-connections
+  ✓ Saved: designer-reference-get-app-connections.md (177 words)
+[2025-11-17T22:26:30.522Z] Scraping: designer-reference-get-asset-by-id
+  ✓ Saved: designer-reference-get-asset-by-id.md (105 words)
+[2025-11-17T22:26:35.292Z] Scraping: designer-reference-get-asset-folder-name
+  ✓ Saved: designer-reference-get-asset-folder-name.md (88 words)
+[2025-11-17T22:26:39.277Z] Scraping: designer-reference-get-asset-folder-parent
+  ✓ Saved: designer-reference-get-asset-folder-parent.md (126 words)
+[2025-11-17T22:26:45.950Z] Scraping: designer-reference-get-asset-mime-type
+  ✓ Saved: designer-reference-get-asset-mime-type.md (265 words)
+[2025-11-17T22:26:52.394Z] Scraping: designer-reference-get-asset-name
+  ✓ Saved: designer-reference-get-asset-name.md (259 words)
+[2025-11-17T22:26:59.603Z] Scraping: designer-reference-get-asset-url
+  ✓ Saved: designer-reference-get-asset-url.md (225 words)
+[2025-11-17T22:27:06.113Z] Scraping: designer-reference-get-breakpoint
+  ✓ Saved: designer-reference-get-breakpoint.md (203 words)
+[2025-11-17T22:27:10.579Z] Scraping: designer-reference-get-collection-id-from-cms-page
+  ✓ Saved: designer-reference-get-collection-id-from-cms-page.md (155 words)
+[2025-11-17T22:27:14.916Z] Scraping: designer-reference-get-collection-name
+  ✓ Saved: designer-reference-get-collection-name.md (97 words)
+[2025-11-17T22:27:18.917Z] Scraping: designer-reference-get-collection-name-from-cms-page
+  ✓ Saved: designer-reference-get-collection-name-from-cms-page.md (154 words)
+[2025-11-17T22:27:27.625Z] Scraping: designer-reference-get-component
+  ✓ Saved: designer-reference-get-component.md (110 words)
+[2025-11-17T22:27:31.739Z] Scraping: designer-reference-get-component-name
+  ✓ Saved: designer-reference-get-component-name.md (109 words)
+[2025-11-17T22:27:36.060Z] Scraping: designer-reference-get-components
+  ✓ Saved: designer-reference-get-components.md (139 words)
+[2025-11-17T22:27:39.870Z] Scraping: designer-reference-get-current-app-connection
+  ✓ Saved: designer-reference-get-current-app-connection.md (254 words)
+[2025-11-17T22:27:49.649Z] Scraping: designer-reference-get-current-app-connection-resource
+  ✓ Saved: designer-reference-get-current-app-connection-resource.md (323 words)
+[2025-11-17T22:27:54.880Z] Scraping: designer-reference-get-current-page
+  ✓ Saved: designer-reference-get-current-page.md (97 words)
+[2025-11-17T22:27:59.990Z] Scraping: designer-reference-get-default-variable-collection
+  ✓ Saved: designer-reference-get-default-variable-collection.md (115 words)
+[2025-11-17T22:28:04.361Z] Scraping: designer-reference-get-folder-name
+  ✓ Saved: designer-reference-get-folder-name.md (104 words)
+[2025-11-17T22:28:10.093Z] Scraping: designer-reference-get-folder-slug
+  ✓ Saved: designer-reference-get-folder-slug.md (120 words)
+[2025-11-17T22:28:18.560Z] Scraping: designer-reference-get-launch-context
+  ✓ Saved: designer-reference-get-launch-context.md (276 words)
+[2025-11-17T22:28:22.574Z] Scraping: designer-reference-get-open-graph-description
+  ✓ Saved: designer-reference-get-open-graph-description.md (103 words)
+[2025-11-17T22:28:27.048Z] Scraping: designer-reference-get-open-graph-image
+  ✓ Saved: designer-reference-get-open-graph-image.md (103 words)
+[2025-11-17T22:28:31.265Z] Scraping: designer-reference-get-open-graph-title
+  ✓ Saved: designer-reference-get-open-graph-title.md (103 words)
+[2025-11-17T22:28:35.997Z] Scraping: designer-reference-get-page-category
+  ✓ Saved: designer-reference-get-page-category.md (114 words)
+[2025-11-17T22:28:40.434Z] Scraping: designer-reference-get-page-description
+  ✓ Saved: designer-reference-get-page-description.md (96 words)
+[2025-11-17T22:28:47.527Z] Scraping: designer-reference-get-page-name
+  ✓ Saved: designer-reference-get-page-name.md (92 words)
+[2025-11-17T22:28:52.278Z] Scraping: designer-reference-get-page-publish-path
+  ✓ Saved: designer-reference-get-page-publish-path.md (99 words)
+[2025-11-17T22:28:56.257Z] Scraping: designer-reference-get-page-slug
+  ✓ Saved: designer-reference-get-page-slug.md (92 words)
+[2025-11-17T22:29:02.608Z] Scraping: designer-reference-get-page-title
+  ✓ Saved: designer-reference-get-page-title.md (92 words)
+[2025-11-17T22:29:07.314Z] Scraping: designer-reference-get-parent-folder
+  ✓ Saved: designer-reference-get-parent-folder.md (123 words)
+[2025-11-17T22:29:12.311Z] Scraping: designer-reference-get-pseudo-mode
+  ✓ Saved: designer-reference-get-pseudo-mode.md (257 words)
+[2025-11-17T22:29:16.679Z] Scraping: designer-reference-get-root-element
+  ✓ Saved: designer-reference-get-root-element.md (103 words)
+[2025-11-17T22:29:20.969Z] Scraping: designer-reference-get-search-description
+  ✓ Saved: designer-reference-get-search-description.md (95 words)
+[2025-11-17T22:29:26.939Z] Scraping: designer-reference-get-search-image
+  ✓ Saved: designer-reference-get-search-image.md (95 words)
+[2025-11-17T22:29:41.718Z] Scraping: designer-reference-get-search-title
+  ✓ Saved: designer-reference-get-search-title.md (94 words)
+[2025-11-17T22:29:45.761Z] Scraping: designer-reference-get-selected-element
+  ✓ Saved: designer-reference-get-selected-element.md (203 words)
+[2025-11-17T22:29:50.755Z] Scraping: designer-reference-get-site-info
+  ✓ Saved: designer-reference-get-site-info.md (255 words)
+[2025-11-17T22:29:54.998Z] Scraping: designer-reference-get-style-by-name
+  ✓ Saved: designer-reference-get-style-by-name.md (172 words)
+[2025-11-17T22:29:59.795Z] Scraping: designer-reference-get-style-properties
+  ✓ Saved: designer-reference-get-style-properties.md (289 words)
+[2025-11-17T22:30:03.953Z] Scraping: designer-reference-get-style-property
+  ✓ Saved: designer-reference-get-style-property.md (303 words)
+
+📊 Progress saved: 500/50 URLs
+
+━━━ BATCH 11/14 (URLs 501-50) ━━━
+
+[2025-11-17T22:30:08.848Z] Scraping: designer-reference-get-text-content
+  ✓ Saved: designer-reference-get-text-content.md (139 words)
+[2025-11-17T22:30:13.872Z] Scraping: designer-reference-get-user-id-token
+  ✓ Saved: designer-reference-get-user-id-token.md (133 words)
+[2025-11-17T22:30:18.465Z] Scraping: designer-reference-get-users-designer-capabilities
+  ✓ Saved: designer-reference-get-users-designer-capabilities.md (591 words)
+[2025-11-17T22:30:22.739Z] Scraping: designer-reference-get-utility-page-key
+  ✓ Saved: designer-reference-get-utility-page-key.md (188 words)
+[2025-11-17T22:30:26.764Z] Scraping: designer-reference-get-variable
+  ✓ Saved: designer-reference-get-variable.md (118 words)
+[2025-11-17T22:30:31.705Z] Scraping: designer-reference-get-variable-binding
+  ✓ Saved: designer-reference-get-variable-binding.md (141 words)
+[2025-11-17T22:30:35.813Z] Scraping: designer-reference-get-variable-by-name
+  ✓ Saved: designer-reference-get-variable-by-name.md (119 words)
+[2025-11-17T22:30:40.427Z] Scraping: designer-reference-get-variable-collection-by-id
+  ✓ Saved: designer-reference-get-variable-collection-by-id.md (104 words)
+[2025-11-17T22:30:45.114Z] Scraping: designer-reference-get-variable-css-name
+  ✗ Error scraping designer-reference-get-variable-css-name: Failed to scrape URL. Status code: 408. Error: Scrape timed out
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T22:32:13.766Z] Scraping: designer-reference-get-variable-css-name
+  ✓ Saved: designer-reference-get-variable-css-name.md (139 words)
+[2025-11-17T22:32:17.888Z] Scraping: designer-reference-get-variable-mode-by-id
+  ✗ Error scraping designer-reference-get-variable-mode-by-id: Unexpected error occurred while trying to scrape URL. Status code: 502
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T22:35:27.700Z] Scraping: designer-reference-get-variable-mode-by-id
+  ✓ Saved: designer-reference-get-variable-mode-by-id.md (221 words)
+[2025-11-17T22:35:34.017Z] Scraping: designer-reference-get-variable-mode-by-name
+  ✓ Saved: designer-reference-get-variable-mode-by-name.md (221 words)
+[2025-11-17T22:35:41.222Z] Scraping: designer-reference-get-variable-mode-name
+  ✓ Saved: designer-reference-get-variable-mode-name.md (215 words)
+[2025-11-17T22:35:48.762Z] Scraping: designer-reference-get-variable-mode-style
+  ✓ Saved: designer-reference-get-variable-mode-style.md (361 words)
+[2025-11-17T22:35:57.272Z] Scraping: designer-reference-get-variable-modes-style
+  ✓ Saved: designer-reference-get-variable-modes-style.md (376 words)
+[2025-11-17T22:36:03.816Z] Scraping: designer-reference-get-variable-name
+  ✓ Saved: designer-reference-get-variable-name.md (220 words)
+[2025-11-17T22:36:10.165Z] Scraping: designer-reference-get-variable-value
+  ✓ Saved: designer-reference-get-variable-value.md (483 words)
+[2025-11-17T22:36:18.870Z] Scraping: designer-reference-heading-element
+  ✓ Saved: designer-reference-heading-element.md (293 words)
+[2025-11-17T22:36:26.551Z] Scraping: designer-reference-heading-element-getheadinglevel
+  ✓ Saved: designer-reference-heading-element-getheadinglevel.md (238 words)
+[2025-11-17T22:36:35.559Z] Scraping: designer-reference-heading-element-setheadinglevel
+  ✓ Saved: designer-reference-heading-element-setheadinglevel.md (232 words)
+[2025-11-17T22:36:42.154Z] Scraping: designer-reference-image-element
+  ✓ Saved: designer-reference-image-element.md (337 words)
+[2025-11-17T22:36:48.235Z] Scraping: designer-reference-image-element-getalttext
+  ✓ Saved: designer-reference-image-element-getalttext.md (254 words)
+[2025-11-17T22:36:57.372Z] Scraping: designer-reference-image-element-getasset
+  ✓ Saved: designer-reference-image-element-getasset.md (256 words)
+[2025-11-17T22:37:03.848Z] Scraping: designer-reference-image-element-setalttext
+  ✓ Saved: designer-reference-image-element-setalttext.md (259 words)
+[2025-11-17T22:37:12.756Z] Scraping: designer-reference-image-element-setasset
+  ✓ Saved: designer-reference-image-element-setasset.md (268 words)
+[2025-11-17T22:37:18.920Z] Scraping: designer-reference-insert-element-after
+  ✓ Saved: designer-reference-insert-element-after.md (280 words)
+[2025-11-17T22:37:25.221Z] Scraping: designer-reference-insert-element-before
+  ✓ Saved: designer-reference-insert-element-before.md (280 words)
+[2025-11-17T22:37:31.674Z] Scraping: designer-reference-introduction
+  ✓ Saved: designer-reference-introduction.md (590 words)
+[2025-11-17T22:37:38.488Z] Scraping: designer-reference-link-element
+  ✓ Saved: designer-reference-link-element.md (313 words)
+[2025-11-17T22:37:48.320Z] Scraping: designer-reference-link-element-gettarget
+  ✓ Saved: designer-reference-link-element-gettarget.md (287 words)
+[2025-11-17T22:37:55.153Z] Scraping: designer-reference-link-element-setsettings
+  ✓ Saved: designer-reference-link-element-setsettings.md (303 words)
+[2025-11-17T22:37:59.568Z] Scraping: designer-reference-managing-variable-modes-style
+  ✓ Saved: designer-reference-managing-variable-modes-style.md (423 words)
+[2025-11-17T22:38:07.419Z] Scraping: designer-reference-migrating-to-v2
+  ✓ Saved: designer-reference-migrating-to-v2.md (516 words)
+[2025-11-17T22:38:13.462Z] Scraping: designer-reference-notify-user
+  ✓ Saved: designer-reference-notify-user.md (255 words)
+[2025-11-17T22:38:20.929Z] Scraping: designer-reference-pages-overview
+  ✓ Saved: designer-reference-pages-overview.md (320 words)
+[2025-11-17T22:38:27.189Z] Scraping: designer-reference-prepend
+  ✗ Error scraping designer-reference-prepend: Unexpected error occurred while trying to scrape URL. Status code: 502
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T22:41:05.170Z] Scraping: designer-reference-prepend
+  ✓ Saved: designer-reference-prepend.md (296 words)
+[2025-11-17T22:41:13.304Z] Scraping: designer-reference-remove-a-style-property
+  ✓ Saved: designer-reference-remove-a-style-property.md (351 words)
+[2025-11-17T22:41:21.603Z] Scraping: designer-reference-remove-all-variable-modes
+  ✓ Saved: designer-reference-remove-all-variable-modes.md (315 words)
+[2025-11-17T22:41:28.499Z] Scraping: designer-reference-remove-app-connection
+  ✓ Saved: designer-reference-remove-app-connection.md (286 words)
+[2025-11-17T22:41:36.094Z] Scraping: designer-reference-remove-element
+  ✓ Saved: designer-reference-remove-element.md (202 words)
+[2025-11-17T22:41:42.454Z] Scraping: designer-reference-remove-style
+  ✓ Saved: designer-reference-remove-style.md (239 words)
+[2025-11-17T22:41:49.485Z] Scraping: designer-reference-remove-style-properties
+  ✓ Saved: designer-reference-remove-style-properties.md (341 words)
+[2025-11-17T22:41:56.111Z] Scraping: designer-reference-remove-variable
+  ✓ Saved: designer-reference-remove-variable.md (208 words)
+[2025-11-17T22:42:04.704Z] Scraping: designer-reference-remove-variable-collection
+  ✓ Saved: designer-reference-remove-variable-collection.md (205 words)
+[2025-11-17T22:42:11.400Z] Scraping: designer-reference-remove-variable-mode
+  ✓ Saved: designer-reference-remove-variable-mode.md (204 words)
+[2025-11-17T22:42:18.236Z] Scraping: designer-reference-remove-variable-mode-style
+  ✓ Saved: designer-reference-remove-variable-mode-style.md (261 words)
+[2025-11-17T22:42:28.748Z] Scraping: designer-reference-remove-variable-modes-style
+  ✓ Saved: designer-reference-remove-variable-modes-style.md (362 words)
+[2025-11-17T22:42:34.989Z] Scraping: designer-reference-resize-extension
+  ✓ Saved: designer-reference-resize-extension.md (356 words)
+[2025-11-17T22:42:40.940Z] Scraping: designer-reference-set-alt-text
+  ✓ Saved: designer-reference-set-alt-text.md (276 words)
+[2025-11-17T22:42:47.494Z] Scraping: designer-reference-set-app-connection
+  ✓ Saved: designer-reference-set-app-connection.md (269 words)
+[2025-11-17T22:42:54.981Z] Scraping: designer-reference-set-asset-file
+  ✓ Saved: designer-reference-set-asset-file.md (228 words)
+
+📊 Progress saved: 550/50 URLs
+
+━━━ BATCH 12/14 (URLs 551-50) ━━━
+
+[2025-11-17T22:43:01.397Z] Scraping: designer-reference-set-asset-folder-parent
+  ✓ Saved: designer-reference-set-asset-folder-parent.md (229 words)
+[2025-11-17T22:43:09.870Z] Scraping: designer-reference-set-asset-name
+  ✓ Saved: designer-reference-set-asset-name.md (204 words)
+[2025-11-17T22:43:17.613Z] Scraping: designer-reference-set-component-name
+  ✓ Saved: designer-reference-set-component-name.md (218 words)
+[2025-11-17T22:43:24.866Z] Scraping: designer-reference-set-draft
+  ✓ Saved: designer-reference-set-draft.md (111 words)
+[2025-11-17T22:43:28.948Z] Scraping: designer-reference-set-folder-name
+  ✓ Saved: designer-reference-set-folder-name.md (106 words)
+[2025-11-17T22:43:35.486Z] Scraping: designer-reference-set-folder-slug
+  ✓ Saved: designer-reference-set-folder-slug.md (111 words)
+[2025-11-17T22:43:40.324Z] Scraping: designer-reference-set-open-graph-description
+  ✓ Saved: designer-reference-set-open-graph-description.md (114 words)
+[2025-11-17T22:43:44.347Z] Scraping: designer-reference-set-open-graph-image-url
+  ✗ Error scraping designer-reference-set-open-graph-image-url: Failed to scrape URL. Status code: 408. Error: Scrape timed out
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T22:44:15.407Z] Scraping: designer-reference-set-open-graph-image-url
+  ✓ Saved: designer-reference-set-open-graph-image-url.md (226 words)
+[2025-11-17T22:44:22.306Z] Scraping: designer-reference-set-open-graph-title
+  ✓ Saved: designer-reference-set-open-graph-title.md (230 words)
+[2025-11-17T22:44:29.468Z] Scraping: designer-reference-set-page-description
+  ✓ Saved: designer-reference-set-page-description.md (216 words)
+[2025-11-17T22:44:35.536Z] Scraping: designer-reference-set-page-name
+  ✓ Saved: designer-reference-set-page-name.md (212 words)
+[2025-11-17T22:44:42.147Z] Scraping: designer-reference-set-page-slug
+  ✓ Saved: designer-reference-set-page-slug.md (215 words)
+[2025-11-17T22:44:49.800Z] Scraping: designer-reference-set-page-title
+  ✓ Saved: designer-reference-set-page-title.md (216 words)
+[2025-11-17T22:44:57.291Z] Scraping: designer-reference-set-page-to-use-title-as-open-graph-title
+  ✓ Saved: designer-reference-set-page-to-use-title-as-open-graph-title.md (236 words)
+[2025-11-17T22:45:07.928Z] Scraping: designer-reference-set-parent-folder
+  ✓ Saved: designer-reference-set-parent-folder.md (240 words)
+[2025-11-17T22:45:15.702Z] Scraping: designer-reference-set-search-description
+  ✓ Saved: designer-reference-set-search-description.md (225 words)
+[2025-11-17T22:45:21.995Z] Scraping: designer-reference-set-search-image
+  ✓ Saved: designer-reference-set-search-image.md (105 words)
+[2025-11-17T22:45:26.155Z] Scraping: designer-reference-set-search-title
+  ✓ Saved: designer-reference-set-search-title.md (114 words)
+[2025-11-17T22:45:30.178Z] Scraping: designer-reference-set-selected-element
+  ✓ Saved: designer-reference-set-selected-element.md (283 words)
+[2025-11-17T22:45:37.273Z] Scraping: designer-reference-set-style-properties
+  ✓ Saved: designer-reference-set-style-properties.md (347 words)
+[2025-11-17T22:45:43.103Z] Scraping: designer-reference-set-style-property
+  ✓ Saved: designer-reference-set-style-property.md (373 words)
+[2025-11-17T22:45:49.429Z] Scraping: designer-reference-set-text-content
+  ✓ Saved: designer-reference-set-text-content.md (219 words)
+[2025-11-17T22:45:55.247Z] Scraping: designer-reference-set-variable-collection-name
+  ✓ Saved: designer-reference-set-variable-collection-name.md (205 words)
+[2025-11-17T22:46:00.469Z] Scraping: designer-reference-set-variable-mode-name
+  ✓ Saved: designer-reference-set-variable-mode-name.md (231 words)
+[2025-11-17T22:46:05.389Z] Scraping: designer-reference-set-variable-mode-style
+  ✓ Saved: designer-reference-set-variable-mode-style.md (398 words)
+[2025-11-17T22:46:11.168Z] Scraping: designer-reference-set-variable-modes-style
+  ✓ Saved: designer-reference-set-variable-modes-style.md (414 words)
+[2025-11-17T22:46:17.903Z] Scraping: designer-reference-set-variable-name
+  ✓ Saved: designer-reference-set-variable-name.md (223 words)
+[2025-11-17T22:46:25.373Z] Scraping: designer-reference-set-variable-value
+  ✓ Saved: designer-reference-set-variable-value.md (426 words)
+[2025-11-17T22:46:31.415Z] Scraping: designer-reference-string-element
+  ✓ Saved: designer-reference-string-element.md (288 words)
+[2025-11-17T22:46:36.610Z] Scraping: designer-reference-string-element-gettext
+  ✓ Saved: designer-reference-string-element-gettext.md (165 words)
+[2025-11-17T22:46:45.960Z] Scraping: designer-reference-string-element-settext
+  ✓ Saved: designer-reference-string-element-settext.md (257 words)
+[2025-11-17T22:46:51.898Z] Scraping: designer-reference-style-properties
+  ✓ Saved: designer-reference-style-properties.md (3409 words)
+[2025-11-17T22:46:58.207Z] Scraping: designer-reference-style-is-combo-class
+  ✓ Saved: designer-reference-style-is-combo-class.md (197 words)
+[2025-11-17T22:47:04.695Z] Scraping: designer-reference-styles-overview
+  ✓ Saved: designer-reference-styles-overview.md (821 words)
+[2025-11-17T22:47:11.687Z] Scraping: designer-reference-switch-page
+  ✓ Saved: designer-reference-switch-page.md (233 words)
+[2025-11-17T22:47:19.087Z] Scraping: designer-reference-use-description-as-open-graph-description
+  ✓ Saved: designer-reference-use-description-as-open-graph-description.md (242 words)
+[2025-11-17T22:47:29.929Z] Scraping: designer-reference-use-open-graph-image-as-search-image
+  ✓ Saved: designer-reference-use-open-graph-image-as-search-image.md (219 words)
+[2025-11-17T22:47:36.153Z] Scraping: designer-reference-use-page-description-as-search-description
+  ✓ Saved: designer-reference-use-page-description-as-search-description.md (219 words)
+[2025-11-17T22:47:42.685Z] Scraping: designer-reference-use-page-title-as-search-title
+  ✗ Error scraping designer-reference-use-page-title-as-search-title: Failed to scrape URL. Status code: 408. Error: Scrape timed out
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T22:48:13.748Z] Scraping: designer-reference-use-page-title-as-search-title
+  ✓ Saved: designer-reference-use-page-title-as-search-title.md (216 words)
+[2025-11-17T22:48:21.487Z] Scraping: designer-reference-user-changes-breakpoint
+  ✓ Saved: designer-reference-user-changes-breakpoint.md (453 words)
+[2025-11-17T22:48:27.851Z] Scraping: designer-reference-user-changes-cms-page
+  ✓ Saved: designer-reference-user-changes-cms-page.md (279 words)
+[2025-11-17T22:48:34.201Z] Scraping: designer-reference-user-changes-current-page
+  ✓ Saved: designer-reference-user-changes-current-page.md (276 words)
+[2025-11-17T22:48:41.101Z] Scraping: designer-reference-user-changes-mode
+  ✓ Saved: designer-reference-user-changes-mode.md (235 words)
+[2025-11-17T22:48:45.323Z] Scraping: designer-reference-user-changes-pseudo-mode
+  ✓ Saved: designer-reference-user-changes-pseudo-mode.md (327 words)
+[2025-11-17T22:48:49.863Z] Scraping: designer-reference-user-selects-element
+  ✓ Saved: designer-reference-user-selects-element.md (302 words)
+[2025-11-17T22:48:56.221Z] Scraping: designer-reference-uses-description-as-open-graph-description
+  ✓ Saved: designer-reference-uses-description-as-open-graph-description.md (245 words)
+[2025-11-17T22:49:02.226Z] Scraping: designer-reference-uses-title-as-open-graph-title
+  ✓ Saved: designer-reference-uses-title-as-open-graph-title.md (251 words)
+[2025-11-17T22:49:09.010Z] Scraping: designer-reference-variable-collections-overview
+  ✓ Saved: designer-reference-variable-collections-overview.md (173 words)
+[2025-11-17T22:49:13.264Z] Scraping: designer-reference-variable-modes
+  ✓ Saved: designer-reference-variable-modes.md (208 words)
+[2025-11-17T22:49:17.303Z] Scraping: designer-reference-variable-modes-style
+  ✓ Saved: designer-reference-variable-modes-style.md (93 words)
+
+📊 Progress saved: 600/50 URLs
+
+━━━ BATCH 13/14 (URLs 601-50) ━━━
+
+[2025-11-17T22:49:21.835Z] Scraping: designer-reference-variables-detail-overview
+  ✓ Saved: designer-reference-variables-detail-overview.md (868 words)
+[2025-11-17T22:49:27.018Z] Scraping: designer-reference-variables-overview
+  ✓ Saved: designer-reference-variables-overview.md (176 words)
+[2025-11-17T22:49:30.928Z] Scraping: designer-reference-webflow-cli
+  ✓ Saved: designer-reference-webflow-cli.md (337 words)
+[2025-11-17T22:49:35.021Z] Scraping: designer-set-page-metadata
+  ✓ Saved: designer-set-page-metadata.md (478 words)
+[2025-11-17T22:49:40.819Z] Scraping: devlink-docs-component-export
+  ✓ Saved: devlink-docs-component-export.md (387 words)
+[2025-11-17T22:49:49.363Z] Scraping: devlink-docs-component-export-design-guidelines-component-architecture
+  ✓ Saved: devlink-docs-component-export-design-guidelines-component-architecture.md (1399 words)
+[2025-11-17T22:50:01.182Z] Scraping: devlink-docs-component-export-design-guidelines-element-settings
+  ✓ Saved: devlink-docs-component-export-design-guidelines-element-settings.md (613 words)
+[2025-11-17T22:50:09.801Z] Scraping: devlink-docs-component-export-design-guidelines-interactions
+  ✓ Saved: devlink-docs-component-export-design-guidelines-interactions.md (243 words)
+[2025-11-17T22:50:19.974Z] Scraping: devlink-docs-component-export-design-guidelines-props-slots
+  ✓ Saved: devlink-docs-component-export-design-guidelines-props-slots.md (765 words)
+[2025-11-17T22:50:26.258Z] Scraping: devlink-docs-component-export-installation
+  ✓ Saved: devlink-docs-component-export-installation.md (711 words)
+[2025-11-17T22:50:35.947Z] Scraping: devlink-docs-component-export-resources
+  ✓ Saved: devlink-docs-component-export-resources.md (165 words)
+[2025-11-17T22:50:42.026Z] Scraping: devlink-docs-component-export-usage
+  ✓ Saved: devlink-docs-component-export-usage.md (517 words)
+[2025-11-17T22:50:48.416Z] Scraping: devlink-docs-component-export-usage-troubleshooting
+  ✓ Saved: devlink-docs-component-export-usage-troubleshooting.md (1162 words)
+[2025-11-17T22:50:53.428Z] Scraping: devlink-docs-component-export-whats-exported
+  ✓ Saved: devlink-docs-component-export-whats-exported.md (6411 words)
+[2025-11-17T22:51:04.135Z] Scraping: devlink-docs-quick-start-quick-start-component-export
+  ✓ Saved: devlink-docs-quick-start-quick-start-component-export.md (1052 words)
+[2025-11-17T22:51:11.483Z] Scraping: devlink-reference-cli
+  ✓ Saved: devlink-reference-cli.md (726 words)
+[2025-11-17T22:51:18.155Z] Scraping: devlink-reference-overview
+  ✓ Saved: devlink-reference-overview.md (396 words)
+[2025-11-17T22:51:24.692Z] Scraping: devlink-usage-framework-guides
+  ✓ Saved: devlink-usage-framework-guides.md (1231 words)
+[2025-11-17T22:51:31.163Z] Scraping: devlink-usage-styling-and-theming-overrides
+  ✓ Saved: devlink-usage-styling-and-theming-overrides.md (694 words)
+[2025-11-17T22:51:37.193Z] Scraping: flowkit-changelog
+  ✓ Saved: flowkit-changelog.md (270 words)
+[2025-11-17T22:51:46.922Z] Scraping: flowkit-changelog-2025-07-25
+  ✓ Saved: flowkit-changelog-2025-07-25.md (270 words)
+[2025-11-17T22:51:52.660Z] Scraping: flowkit-components
+  ✓ Saved: flowkit-components.md (240 words)
+[2025-11-17T22:51:57.858Z] Scraping: flowkit-components-accordion
+  ✓ Saved: flowkit-components-accordion.md (207 words)
+[2025-11-17T22:52:02.766Z] Scraping: flowkit-components-buttons
+  ✓ Saved: flowkit-components-buttons.md (433 words)
+[2025-11-17T22:52:07.594Z] Scraping: flowkit-components-cards
+  ✓ Saved: flowkit-components-cards.md (255 words)
+[2025-11-17T22:52:12.313Z] Scraping: flowkit-components-divider
+  ✓ Saved: flowkit-components-divider.md (194 words)
+[2025-11-17T22:52:17.796Z] Scraping: flowkit-components-dropdown
+  ✓ Saved: flowkit-components-dropdown.md (265 words)
+[2025-11-17T22:52:22.545Z] Scraping: flowkit-components-forms
+  ✓ Saved: flowkit-components-forms.md (281 words)
+[2025-11-17T22:52:27.634Z] Scraping: flowkit-components-images
+  ✓ Saved: flowkit-components-images.md (526 words)
+[2025-11-17T22:52:32.580Z] Scraping: flowkit-components-richtext
+  ✓ Saved: flowkit-components-richtext.md (235 words)
+[2025-11-17T22:52:37.571Z] Scraping: flowkit-components-slider
+  ✓ Saved: flowkit-components-slider.md (224 words)
+[2025-11-17T22:52:42.393Z] Scraping: flowkit-components-tabs
+  ✓ Saved: flowkit-components-tabs.md (188 words)
+[2025-11-17T22:52:49.640Z] Scraping: flowkit-components-tag
+  ✓ Saved: flowkit-components-tag.md (166 words)
+[2025-11-17T22:52:55.703Z] Scraping: flowkit-foundation-spacing
+  ✓ Saved: flowkit-foundation-spacing.md (371 words)
+[2025-11-17T22:53:05.351Z] Scraping: flowkit-getting-started-intro
+  ✓ Saved: flowkit-getting-started-intro.md (1288 words)
+[2025-11-17T22:53:10.533Z] Scraping: flowkit-getting-started-units
+  ✓ Saved: flowkit-getting-started-units.md (512 words)
+[2025-11-17T22:53:15.249Z] Scraping: flowkit-reference-utilities
+  ✓ Saved: flowkit-reference-utilities.md (1514 words)
+[2025-11-17T22:53:20.142Z] Scraping: flowkit-structure-flex
+  ✓ Saved: flowkit-structure-flex.md (476 words)
+[2025-11-17T22:53:25.641Z] Scraping: flowkit-structure-grid
+  ✓ Saved: flowkit-structure-grid.md (407 words)
+[2025-11-17T22:53:30.904Z] Scraping: flowkit-structure-page-structure
+  ✓ Saved: flowkit-structure-page-structure.md (473 words)
+[2025-11-17T22:53:36.877Z] Scraping: flowkit-v1-0-0-components-accordion
+  ✓ Saved: flowkit-v1-0-0-components-accordion.md (224 words)
+[2025-11-17T22:53:50.099Z] Scraping: flowkit-v1-0-0-components-buttons
+  ✓ Saved: flowkit-v1-0-0-components-buttons.md (539 words)
+[2025-11-17T22:54:03.916Z] Scraping: flowkit-v1-0-0-components-cards
+  ✓ Saved: flowkit-v1-0-0-components-cards.md (296 words)
+[2025-11-17T22:54:13.172Z] Scraping: flowkit-v1-0-0-components-divider
+  ✓ Saved: flowkit-v1-0-0-components-divider.md (215 words)
+[2025-11-17T22:54:32.591Z] Scraping: flowkit-v1-0-0-components-dropdown
+  ✓ Saved: flowkit-v1-0-0-components-dropdown.md (293 words)
+[2025-11-17T22:54:38.737Z] Scraping: flowkit-v1-0-0-components-forms
+  ✓ Saved: flowkit-v1-0-0-components-forms.md (346 words)
+[2025-11-17T22:54:44.371Z] Scraping: flowkit-v1-0-0-components-images
+  ✓ Saved: flowkit-v1-0-0-components-images.md (610 words)
+[2025-11-17T22:54:49.804Z] Scraping: flowkit-v1-0-0-components-richtext
+  ✓ Saved: flowkit-v1-0-0-components-richtext.md (251 words)
+[2025-11-17T22:54:55.629Z] Scraping: flowkit-v1-0-0-components-slider
+  ✓ Saved: flowkit-v1-0-0-components-slider.md (244 words)
+[2025-11-17T22:55:02.394Z] Scraping: flowkit-v1-0-0-components-tabs
+  ✓ Saved: flowkit-v1-0-0-components-tabs.md (229 words)
+
+📊 Progress saved: 650/50 URLs
+
+━━━ BATCH 14/14 (URLs 651-40) ━━━
+
+[2025-11-17T22:55:08.747Z] Scraping: flowkit-v1-0-0-foundation-spacing
+  ✓ Saved: flowkit-v1-0-0-foundation-spacing.md (452 words)
+[2025-11-17T22:55:17.138Z] Scraping: flowkit-v1-0-0-getting-started-intro
+  ✓ Saved: flowkit-v1-0-0-getting-started-intro.md (1032 words)
+[2025-11-17T22:55:22.741Z] Scraping: flowkit-v1-0-0-getting-started-units
+  ✓ Saved: flowkit-v1-0-0-getting-started-units.md (528 words)
+[2025-11-17T22:55:27.606Z] Scraping: flowkit-v1-0-0-reference-flowkit-beta-components-tag
+  ✓ Saved: flowkit-v1-0-0-reference-flowkit-beta-components-tag.md (196 words)
+[2025-11-17T22:55:32.712Z] Scraping: flowkit-v1-0-0-reference-utilities
+  ✓ Saved: flowkit-v1-0-0-reference-utilities.md (1861 words)
+[2025-11-17T22:55:38.942Z] Scraping: flowkit-v1-0-0-structure-flex
+  ✓ Saved: flowkit-v1-0-0-structure-flex.md (707 words)
+[2025-11-17T22:55:48.061Z] Scraping: flowkit-v1-0-0-structure-grid
+  ✓ Saved: flowkit-v1-0-0-structure-grid.md (374 words)
+[2025-11-17T22:55:53.900Z] Scraping: flowkit-v1-0-0-structure-page-structure
+  ✓ Saved: flowkit-v1-0-0-structure-page-structure.md (535 words)
+[2025-11-17T22:55:59.551Z] Scraping: flowkit-v1-0-0-variables-border
+  ✓ Saved: flowkit-v1-0-0-variables-border.md (362 words)
+[2025-11-17T22:56:04.534Z] Scraping: flowkit-v1-0-0-variables-color
+  ✓ Saved: flowkit-v1-0-0-variables-color.md (458 words)
+[2025-11-17T22:56:12.951Z] Scraping: flowkit-v1-0-0-variables-overview
+  ✓ Saved: flowkit-v1-0-0-variables-overview.md (273 words)
+[2025-11-17T22:56:20.344Z] Scraping: flowkit-v1-0-0-variables-typography
+  ✓ Saved: flowkit-v1-0-0-variables-typography.md (680 words)
+[2025-11-17T22:56:26.270Z] Scraping: flowkit-variables-border
+  ✓ Saved: flowkit-variables-border.md (347 words)
+[2025-11-17T22:56:32.168Z] Scraping: flowkit-variables-color
+  ✓ Saved: flowkit-variables-color.md (479 words)
+[2025-11-17T22:56:38.242Z] Scraping: flowkit-variables-overview
+  ✓ Saved: flowkit-variables-overview.md (230 words)
+[2025-11-17T22:56:44.717Z] Scraping: flowkit-variables-typography
+  ✓ Saved: flowkit-variables-typography.md (660 words)
+[2025-11-17T22:56:53.554Z] Scraping: llms-txt
+  ✓ Saved: llms-txt.md (12138 words)
+[2025-11-17T22:56:57.826Z] Scraping: sitemap-xml
+  ✓ Saved: sitemap-xml.md (1 words)
+[2025-11-17T22:56:59.261Z] Scraping: submit
+  ✓ Saved: submit.md (29 words)
+[2025-11-17T22:57:03.288Z] Scraping: webflow-cloud-add-key-value-store
+  ✓ Saved: webflow-cloud-add-key-value-store.md (2367 words)
+[2025-11-17T22:57:10.005Z] Scraping: webflow-cloud-add-object-storage
+  ✓ Saved: webflow-cloud-add-object-storage.md (7364 words)
+[2025-11-17T22:57:19.575Z] Scraping: webflow-cloud-add-sqlite
+  ✓ Saved: webflow-cloud-add-sqlite.md (1992 words)
+[2025-11-17T22:57:28.462Z] Scraping: webflow-cloud-bring-your-own-app
+  ✓ Saved: webflow-cloud-bring-your-own-app.md (2160 words)
+[2025-11-17T22:57:34.190Z] Scraping: webflow-cloud-changelog
+  ✓ Saved: webflow-cloud-changelog.md (553 words)
+[2025-11-17T22:57:40.093Z] Scraping: webflow-cloud-changelog-20250716
+  ✓ Saved: webflow-cloud-changelog-20250716.md (392 words)
+[2025-11-17T22:57:47.563Z] Scraping: webflow-cloud-changelog-20251106
+  ✗ Error scraping webflow-cloud-changelog-20251106: Failed to scrape URL. Status code: 408. Error: Scrape timed out
+  ↻ Retrying... (2 attempts remaining)
+[2025-11-17T22:58:47.862Z] Scraping: webflow-cloud-changelog-20251106
+  ✓ Saved: webflow-cloud-changelog-20251106.md (270 words)
+[2025-11-17T22:58:49.162Z] Scraping: webflow-cloud-deployments
+  ✓ Saved: webflow-cloud-deployments.md (1199 words)
+[2025-11-17T22:58:56.890Z] Scraping: webflow-cloud-environment
+  ✓ Saved: webflow-cloud-environment.md (383 words)
+[2025-11-17T22:59:04.167Z] Scraping: webflow-cloud-environment-configuration
+  ✓ Saved: webflow-cloud-environment-configuration.md (899 words)
+[2025-11-17T22:59:10.660Z] Scraping: webflow-cloud-environment-framework-customization
+  ✓ Saved: webflow-cloud-environment-framework-customization.md (1189 words)
+[2025-11-17T22:59:16.751Z] Scraping: webflow-cloud-environment-nodejs-compatibility
+  ✓ Saved: webflow-cloud-environment-nodejs-compatibility.md (941 words)
+[2025-11-17T22:59:21.736Z] Scraping: webflow-cloud-environments
+  ✓ Saved: webflow-cloud-environments.md (1436 words)
+[2025-11-17T22:59:27.778Z] Scraping: webflow-cloud-getting-started
+  ✓ Saved: webflow-cloud-getting-started.md (1585 words)
+[2025-11-17T22:59:32.977Z] Scraping: webflow-cloud-intro
+  ✓ Saved: webflow-cloud-intro.md (539 words)
+[2025-11-17T22:59:38.093Z] Scraping: webflow-cloud-limits
+  ✓ Saved: webflow-cloud-limits.md (1109 words)
+[2025-11-17T22:59:44.577Z] Scraping: webflow-cloud-storing-data-key-value-store
+  ✓ Saved: webflow-cloud-storing-data-key-value-store.md (1514 words)
+[2025-11-17T22:59:50.411Z] Scraping: webflow-cloud-storing-data-object-storage
+  ✓ Saved: webflow-cloud-storing-data-object-storage.md (1714 words)
+[2025-11-17T22:59:56.543Z] Scraping: webflow-cloud-storing-data-overview
+  ✓ Saved: webflow-cloud-storing-data-overview.md (1473 words)
+[2025-11-17T23:00:05.040Z] Scraping: webflow-cloud-storing-data-sqlite
+  ✓ Saved: webflow-cloud-storing-data-sqlite.md (1520 words)
+[2025-11-17T23:00:16.275Z] Scraping: webflow-cloud-usage
+  ✓ Saved: webflow-cloud-usage.md (664 words)
+
+📊 Progress saved: 690/40 URLs
+
+📋 Metadata saved: /Users/ryan.hodge/Projects/webflow-rag/etl/input/webflow-developers/metadata.json
+📋 Scrape log saved: /Users/ryan.hodge/Projects/webflow-rag/etl/input/webflow-developers/scrape-log.json
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎉 SCRAPE COMPLETE!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 Summary:
+  Total URLs: 690
+  Successfully scraped: 690
+  Failed: 0 (0.0%)
+  Firecrawl credits used: 690
+  Total word count: ~337,228 words
+  Average article length: 488 words
+  Duration: 103m 39s
+
+📁 Output: /Users/ryan.hodge/Projects/webflow-rag/etl/input/webflow-developers/articles
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+

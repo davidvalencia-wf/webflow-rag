@@ -1,0 +1,22 @@
+⬆️  Webflow RAG - Data Uploader
+
+📖 Loading embeddings...
+✓ Loaded 5119 chunks with embeddings
+
+🗄️  Connecting to D1 database...
+📁 Using D1 database: /Users/ryan.hodge/Projects/webflow-rag/apps/web/.wrangler/state/v3/d1/miniflare-D1DatabaseObject/f14d75e93135ed216c3e1ea09df8505c91eb065291fc3549a8db3437c788963a.sqlite
+
+📝 Inserting documents into D1...
+✓ Inserted 690 documents
+
+📝 Inserting chunks into D1...
+
+❌ Upload failed: SqliteError: FOREIGN KEY constraint failed
+    at insertChunks (/Users/ryan.hodge/Projects/webflow-rag/etl/uploader.ts:165:31)
+    at main (/Users/ryan.hodge/Projects/webflow-rag/etl/uploader.ts:296:25)
+    at <anonymous> (/Users/ryan.hodge/Projects/webflow-rag/etl/uploader.ts:333:3)
+    at ModuleJob.run (node:internal/modules/esm/module_job:325:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:606:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+  code: 'SQLITE_CONSTRAINT_FOREIGNKEY'
+}

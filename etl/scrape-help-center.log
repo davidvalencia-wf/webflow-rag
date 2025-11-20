@@ -1,0 +1,59 @@
+🚀 STARTING PRODUCTION SCRAPE: Webflow Help Center
+📅 Started at: 2025-11-17T19:06:29.497Z
+
+📊 Total articles to scrape: 50
+
+
+━━━ BATCH 1/5 (Articles 1-10) ━━━
+
+[2025-11-17T19:06:29.500Z] Scraping: 4402997698195-Getting-started-with-Webflow
+  ✗ Error scraping 4402997698195-Getting-started-with-Webflow: Unexpected error occurred while trying to scrape URL. Status code: 401
+  ↻ Retrying... (2 attempts remaining)
+
+[2025-11-17T19:06:31.728Z] Scraping: 4402997698195-Getting-started-with-Webflow
+  ✗ Error scraping 4402997698195-Getting-started-with-Webflow: Unexpected error occurred while trying to scrape URL. Status code: 401
+  ↻ Retrying... (1 attempts remaining)
+
+[2025-11-17T19:06:33.815Z] Scraping: 4402997698195-Getting-started-with-Webflow
+  ✗ Error scraping 4402997698195-Getting-started-with-Webflow: Unexpected error occurred while trying to scrape URL. Status code: 401
+
+[2025-11-17T19:06:34.419Z] Scraping: 4403151967379-CMS-collections-overview
+  ✗ Error scraping 4403151967379-CMS-collections-overview: Unexpected error occurred while trying to scrape URL. Status code: 401
+  ↻ Retrying... (2 attempts remaining)
+
+[2025-11-17T19:06:36.532Z] Scraping: 4403151967379-CMS-collections-overview
+  ✗ Error scraping 4403151967379-CMS-collections-overview: Unexpected error occurred while trying to scrape URL. Status code: 401
+  ↻ Retrying... (1 attempts remaining)
+
+[2025-11-17T19:06:38.614Z] Scraping: 4403151967379-CMS-collections-overview
+  ✗ Error scraping 4403151967379-CMS-collections-overview: Unexpected error occurred while trying to scrape URL. Status code: 401
+
+[2025-11-17T19:06:39.193Z] Scraping: 4402934797587-Create-a-CMS-collection
+  ✗ Error scraping 4402934797587-Create-a-CMS-collection: Unexpected error occurred while trying to scrape URL. Status code: 401
+  ↻ Retrying... (2 attempts remaining)
+
+[2025-11-17T19:06:41.282Z] Scraping: 4402934797587-Create-a-CMS-collection
+  ✗ Error scraping 4402934797587-Create-a-CMS-collection: Unexpected error occurred while trying to scrape URL. Status code: 401
+  ↻ Retrying... (1 attempts remaining)
+
+[2025-11-17T19:06:43.357Z] Scraping: 4402934797587-Create-a-CMS-collection
+  ✗ Error scraping 4402934797587-Create-a-CMS-collection: Unexpected error occurred while trying to scrape URL. Status code: 401
+
+[2025-11-17T19:06:43.974Z] Scraping: 4403196330131-Add-CMS-items
+  ✗ Error scraping 4403196330131-Add-CMS-items: Unexpected error occurred while trying to scrape URL. Status code: 401
+  ↻ Retrying... (2 attempts remaining)
+
+[2025-11-17T19:06:46.075Z] Scraping: 4403196330131-Add-CMS-items
+  ✗ Error scraping 4403196330131-Add-CMS-items: Unexpected error occurred while trying to scrape URL. Status code: 401
+  ↻ Retrying... (1 attempts remaining)
+
+[2025-11-17T19:06:48.201Z] Scraping: 4403196330131-Add-CMS-items
+  ✗ Error scraping 4403196330131-Add-CMS-items: Unexpected error occurred while trying to scrape URL. Status code: 401
+
+[2025-11-17T19:06:48.837Z] Scraping: 4403156888339-Design-with-CMS-content
+  ✗ Error scraping 4403156888339-Design-with-CMS-content: Unexpected error occurred while trying to scrape URL. Status code: 401
+  ↻ Retrying... (2 attempts remaining)
+
+[2025-11-17T19:06:50.913Z] Scraping: 4403156888339-Design-with-CMS-content
+  ✗ Error scraping 4403156888339-Design-with-CMS-content: Unexpected error occurred while trying to scrape URL. Status code: 401
+  ↻ Retrying... (1 attempts remaining)

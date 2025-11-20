@@ -1,0 +1,504 @@
+{
+  "started_at": "2025-11-13T13:16:29.594Z",
+  "completed_at": "2025-11-13T14:26:55.197Z",
+  "duration_seconds": 4225,
+  "articles_attempted": 106,
+  "articles_succeeded": 24,
+  "articles_failed": 82,
+  "failures": [
+    {
+      "url": "https://webflow.com/updates/ssl",
+      "slug": "ssl",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:17:07.153Z"
+    },
+    {
+      "url": "https://webflow.com/updates/hsts",
+      "slug": "hsts",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:18:02.240Z"
+    },
+    {
+      "url": "https://webflow.com/updates/localizationavailabilityupdate",
+      "slug": "localizationavailabilityupdate",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:18:26.556Z"
+    },
+    {
+      "url": "https://webflow.com/updates/symbols",
+      "slug": "symbols",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:19:25.203Z"
+    },
+    {
+      "url": "https://webflow.com/updates/developer-resources",
+      "slug": "developer-resources",
+      "error": "Content too short: 47 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:19:50.238Z"
+    },
+    {
+      "url": "https://webflow.com/updates/client-payments",
+      "slug": "client-payments",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:20:41.597Z"
+    },
+    {
+      "url": "https://webflow.com/updates/api-keys",
+      "slug": "api-keys",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T13:21:05.800Z"
+    },
+    {
+      "url": "https://webflow.com/updates/creator-profiles",
+      "slug": "creator-profiles",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:22:11.243Z"
+    },
+    {
+      "url": "https://webflow.com/updates/webflow-redesign",
+      "slug": "webflow-redesign",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:23:02.614Z"
+    },
+    {
+      "url": "https://webflow.com/updates/scim-provisioning",
+      "slug": "scim-provisioning",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:23:34.169Z"
+    },
+    {
+      "url": "https://webflow.com/updates/merge-summary",
+      "slug": "merge-summary",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:24:31.693Z"
+    },
+    {
+      "url": "https://webflow.com/updates/dropdown-menu",
+      "slug": "dropdown-menu",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T13:24:55.903Z"
+    },
+    {
+      "url": "https://webflow.com/updates/marketo-integration",
+      "slug": "marketo-integration",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:25:47.453Z"
+    },
+    {
+      "url": "https://webflow.com/updates/csv-import",
+      "slug": "csv-import",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:26:47.512Z"
+    },
+    {
+      "url": "https://webflow.com/updates/dashboard-folders",
+      "slug": "dashboard-folders",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:27:51.446Z"
+    },
+    {
+      "url": "https://webflow.com/updates/blending-mode",
+      "slug": "blending-mode",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:28:29.919Z"
+    },
+    {
+      "url": "https://webflow.com/updates/aspect-ratio",
+      "slug": "aspect-ratio",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:29:07.485Z"
+    },
+    {
+      "url": "https://webflow.com/updates/mailchimp-integration",
+      "slug": "mailchimp-integration",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:30:26.486Z"
+    },
+    {
+      "url": "https://webflow.com/updates/private-staging",
+      "slug": "private-staging",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T13:31:04.536Z"
+    },
+    {
+      "url": "https://webflow.com/updates/libraries-panel",
+      "slug": "libraries-panel",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:32:09.327Z"
+    },
+    {
+      "url": "https://webflow.com/updates/variable-modes",
+      "slug": "variable-modes",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:32:47.745Z"
+    },
+    {
+      "url": "https://webflow.com/updates/component-ux",
+      "slug": "component-ux",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:33:25.364Z"
+    },
+    {
+      "url": "https://webflow.com/updates/cloud-storage",
+      "slug": "cloud-storage",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:34:02.433Z"
+    },
+    {
+      "url": "https://webflow.com/updates/slash-commands",
+      "slug": "slash-commands",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T13:34:39.847Z"
+    },
+    {
+      "url": "https://webflow.com/updates/html-embeds",
+      "slug": "html-embeds",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:35:43.261Z"
+    },
+    {
+      "url": "https://webflow.com/updates/text-columns",
+      "slug": "text-columns",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:36:20.182Z"
+    },
+    {
+      "url": "https://webflow.com/updates/rich-text",
+      "slug": "rich-text",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:36:59.881Z"
+    },
+    {
+      "url": "https://webflow.com/updates/component-groups",
+      "slug": "component-groups",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:37:56.158Z"
+    },
+    {
+      "url": "https://webflow.com/updates/cms-whitelabeling",
+      "slug": "cms-whitelabeling",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:38:34.710Z"
+    },
+    {
+      "url": "https://webflow.com/updates/quick-find",
+      "slug": "quick-find",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:39:31.655Z"
+    },
+    {
+      "url": "https://webflow.com/updates/publishing-workflows",
+      "slug": "publishing-workflows",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:40:18.549Z"
+    },
+    {
+      "url": "https://webflow.com/updates/password-protection",
+      "slug": "password-protection",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:40:59.257Z"
+    },
+    {
+      "url": "https://webflow.com/updates/improvements-to-components",
+      "slug": "improvements-to-components",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T13:41:36.673Z"
+    },
+    {
+      "url": "https://webflow.com/updates/variant-selector-button",
+      "slug": "variant-selector-button",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:42:32.308Z"
+    },
+    {
+      "url": "https://webflow.com/updates/introducing-webflow-analyze",
+      "slug": "introducing-webflow-analyze",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:43:11.307Z"
+    },
+    {
+      "url": "https://webflow.com/updates/localization-enterprise-availability",
+      "slug": "localization-enterprise-availability",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T13:43:48.891Z"
+    },
+    {
+      "url": "https://webflow.com/updates/client-payments-enhancements",
+      "slug": "client-payments-enhancements",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:44:52.991Z"
+    },
+    {
+      "url": "https://webflow.com/updates/ai-site-builder",
+      "slug": "ai-site-builder",
+      "error": "Content too short: 9 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:45:31.053Z"
+    },
+    {
+      "url": "https://webflow.com/updates/limited-designer-role",
+      "slug": "limited-designer-role",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:46:13.684Z"
+    },
+    {
+      "url": "https://webflow.com/updates/machine-translation-glossary",
+      "slug": "machine-translation-glossary",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:46:53.672Z"
+    },
+    {
+      "url": "https://webflow.com/updates/enterprise-phone-support",
+      "slug": "enterprise-phone-support",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T13:47:30.952Z"
+    },
+    {
+      "url": "https://webflow.com/updates/localized-page-branching",
+      "slug": "localized-page-branching",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:48:35.716Z"
+    },
+    {
+      "url": "https://webflow.com/updates/two-factor-authentication",
+      "slug": "two-factor-authentication",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:49:13.344Z"
+    },
+    {
+      "url": "https://webflow.com/updates/gsap-becomes-free",
+      "slug": "gsap-becomes-free",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:49:51.057Z"
+    },
+    {
+      "url": "https://webflow.com/updates/background-color-overlays",
+      "slug": "background-color-overlays",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:50:33.419Z"
+    },
+    {
+      "url": "https://webflow.com/updates/rich-text-improvements",
+      "slug": "rich-text-improvements",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:51:45.041Z"
+    },
+    {
+      "url": "https://webflow.com/updates/custom-ssl-certificates",
+      "slug": "custom-ssl-certificates",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T13:52:23.142Z"
+    },
+    {
+      "url": "https://webflow.com/updates/guest-role-enhancements",
+      "slug": "guest-role-enhancements",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:53:52.572Z"
+    },
+    {
+      "url": "https://webflow.com/updates/api-updates-q323",
+      "slug": "api-updates-q323",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:54:30.732Z"
+    },
+    {
+      "url": "https://webflow.com/updates/interactive-google-maps",
+      "slug": "interactive-google-maps",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T13:55:09.417Z"
+    },
+    {
+      "url": "https://webflow.com/updates/design-approval-enhancements",
+      "slug": "design-approval-enhancements",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:55:48.620Z"
+    },
+    {
+      "url": "https://webflow.com/updates/easier-class-renaming",
+      "slug": "easier-class-renaming",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:56:46.562Z"
+    },
+    {
+      "url": "https://webflow.com/updates/search-for-swatches",
+      "slug": "search-for-swatches",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T13:57:27.614Z"
+    },
+    {
+      "url": "https://webflow.com/updates/dashboard-list-view",
+      "slug": "dashboard-list-view",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:58:05.593Z"
+    },
+    {
+      "url": "https://webflow.com/updates/changes-to-forms",
+      "slug": "changes-to-forms",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T13:59:15.891Z"
+    },
+    {
+      "url": "https://webflow.com/updates/additional-form-improvements",
+      "slug": "additional-form-improvements",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T13:59:53.211Z"
+    },
+    {
+      "url": "https://webflow.com/updates/apps-updates-july",
+      "slug": "apps-updates-july",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:04:08.814Z"
+    },
+    {
+      "url": "https://webflow.com/updates/cms-auto-save",
+      "slug": "cms-auto-save",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:05:00.107Z"
+    },
+    {
+      "url": "https://webflow.com/updates/cms-api-improvements",
+      "slug": "cms-api-improvements",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:05:53.750Z"
+    },
+    {
+      "url": "https://webflow.com/updates/html5-background-videos",
+      "slug": "html5-background-videos",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:06:41.785Z"
+    },
+    {
+      "url": "https://webflow.com/updates/extended-element-conversions",
+      "slug": "extended-element-conversions",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:07:44.910Z"
+    },
+    {
+      "url": "https://webflow.com/updates/per-page-password-protection",
+      "slug": "per-page-password-protection",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:08:22.807Z"
+    },
+    {
+      "url": "https://webflow.com/updates/hire-a-webflow-expert",
+      "slug": "hire-a-webflow-expert",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:09:19.890Z"
+    },
+    {
+      "url": "https://webflow.com/updates/easier-godaddy-domain-connection",
+      "slug": "easier-godaddy-domain-connection",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T14:09:57.079Z"
+    },
+    {
+      "url": "https://webflow.com/updates/site-activity-log-filters",
+      "slug": "site-activity-log-filters",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:11:02.054Z"
+    },
+    {
+      "url": "https://webflow.com/updates/site-access-default-setting",
+      "slug": "site-access-default-setting",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:12:26.300Z"
+    },
+    {
+      "url": "https://webflow.com/updates/flexbox-css3-flexible-boxes",
+      "slug": "flexbox-css3-flexible-boxes",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:13:07.260Z"
+    },
+    {
+      "url": "https://webflow.com/updates/style-form-placeholder-text",
+      "slug": "style-form-placeholder-text",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T14:13:43.643Z"
+    },
+    {
+      "url": "https://webflow.com/updates/introducing-the-custom-element",
+      "slug": "introducing-the-custom-element",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:15:14.285Z"
+    },
+    {
+      "url": "https://webflow.com/updates/sso-enhancements",
+      "slug": "sso-enhancements",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:16:11.399Z"
+    },
+    {
+      "url": "https://webflow.com/updates/custom-301-redirects",
+      "slug": "custom-301-redirects",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:16:49.355Z"
+    },
+    {
+      "url": "https://webflow.com/updates/interactions-quick-effects",
+      "slug": "interactions-quick-effects",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T14:17:26.720Z"
+    },
+    {
+      "url": "https://webflow.com/updates/og-asset-updates",
+      "slug": "og-asset-updates",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:18:30.578Z"
+    },
+    {
+      "url": "https://webflow.com/updates/site-activity-log",
+      "slug": "site-activity-log",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:19:08.129Z"
+    },
+    {
+      "url": "https://webflow.com/updates/certified-partner-program",
+      "slug": "certified-partner-program",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:19:46.419Z"
+    },
+    {
+      "url": "https://webflow.com/updates/open-graph-og-settings",
+      "slug": "open-graph-og-settings",
+      "error": "Content too short: 13 words (likely extraction failed)",
+      "timestamp": "2025-11-13T14:20:25.453Z"
+    },
+    {
+      "url": "https://webflow.com/updates/interactions-2-0-1",
+      "slug": "interactions-2-0-1",
+      "error": "Unexpected error occurred while trying to scrape URL. Status code: 429",
+      "timestamp": "2025-11-13T14:21:02.377Z"
+    },
+    {
+      "url": "https://webflow.com/updates/custom-favicon-and-webclip",
+      "slug": "custom-favicon-and-webclip",
+      "error": "Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.",
+      "timestamp": "2025-11-13T14:24:32.195Z"
+    },
+    {
+      "url": "https://webflow.com/updates/position-sticky",
+      "slug": "position-sticky",
+      "error": "Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.",
+      "timestamp": "2025-11-13T14:24:52.805Z"
+    },
+    {
+      "url": "https://webflow.com/updates/branch-staging",
+      "slug": "branch-staging",
+      "error": "Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.",
+      "timestamp": "2025-11-13T14:25:41.874Z"
+    },
+    {
+      "url": "https://webflow.com/updates/find-component-instances",
+      "slug": "find-component-instances",
+      "error": "Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.",
+      "timestamp": "2025-11-13T14:26:02.433Z"
+    },
+    {
+      "url": "https://webflow.com/updates/responsive-design",
+      "slug": "responsive-design",
+      "error": "Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.",
+      "timestamp": "2025-11-13T14:26:50.190Z"
+    }
+  ],
+  "credits_used": 24,
+  "credits_remaining": 476
+}

@@ -1,0 +1,183 @@
+⬆️  Webflow RAG - Data Uploader
+
+📖 Loading embeddings...
+✓ Loaded 5119 chunks with embeddings
+
+🗄️  Connecting to D1 database...
+📁 Using D1 database: /Users/ryan.hodge/Projects/webflow-rag/apps/web/.wrangler/state/v3/d1/miniflare-D1DatabaseObject/f14d75e93135ed216c3e1ea09df8505c91eb065291fc3549a8db3437c788963a.sqlite
+
+📝 Inserting documents into D1...
+✓ Inserted 744 documents
+
+📝 Inserting chunks into D1...
+✓ Inserted 5119 chunks
+
+
+🔄 Uploading vectors to Pinecone in 52 batches...
+
+Batch 1/52 (vectors 1-100):
+   ✓ Uploaded 100 vectors
+
+Batch 2/52 (vectors 101-200):
+   ✓ Uploaded 100 vectors
+
+Batch 3/52 (vectors 201-300):
+   ✓ Uploaded 100 vectors
+
+Batch 4/52 (vectors 301-400):
+   ✓ Uploaded 100 vectors
+
+Batch 5/52 (vectors 401-500):
+   ✓ Uploaded 100 vectors
+
+Batch 6/52 (vectors 501-600):
+   ✓ Uploaded 100 vectors
+
+Batch 7/52 (vectors 601-700):
+   ✓ Uploaded 100 vectors
+
+Batch 8/52 (vectors 701-800):
+   ✓ Uploaded 100 vectors
+
+Batch 9/52 (vectors 801-900):
+   ✓ Uploaded 100 vectors
+
+Batch 10/52 (vectors 901-1000):
+   ✓ Uploaded 100 vectors
+
+Batch 11/52 (vectors 1001-1100):
+   ✓ Uploaded 100 vectors
+
+Batch 12/52 (vectors 1101-1200):
+   ✓ Uploaded 100 vectors
+
+Batch 13/52 (vectors 1201-1300):
+   ✓ Uploaded 100 vectors
+
+Batch 14/52 (vectors 1301-1400):
+   ✓ Uploaded 100 vectors
+
+Batch 15/52 (vectors 1401-1500):
+   ✓ Uploaded 100 vectors
+
+Batch 16/52 (vectors 1501-1600):
+   ✓ Uploaded 100 vectors
+
+Batch 17/52 (vectors 1601-1700):
+   ✓ Uploaded 100 vectors
+
+Batch 18/52 (vectors 1701-1800):
+   ✓ Uploaded 100 vectors
+
+Batch 19/52 (vectors 1801-1900):
+   ✓ Uploaded 100 vectors
+
+Batch 20/52 (vectors 1901-2000):
+   ✓ Uploaded 100 vectors
+
+Batch 21/52 (vectors 2001-2100):
+   ✓ Uploaded 100 vectors
+
+Batch 22/52 (vectors 2101-2200):
+   ✓ Uploaded 100 vectors
+
+Batch 23/52 (vectors 2201-2300):
+   ✓ Uploaded 100 vectors
+
+Batch 24/52 (vectors 2301-2400):
+   ✓ Uploaded 100 vectors
+
+Batch 25/52 (vectors 2401-2500):
+   ✓ Uploaded 100 vectors
+
+Batch 26/52 (vectors 2501-2600):
+   ✓ Uploaded 100 vectors
+
+Batch 27/52 (vectors 2601-2700):
+   ✓ Uploaded 100 vectors
+
+Batch 28/52 (vectors 2701-2800):
+   ✓ Uploaded 100 vectors
+
+Batch 29/52 (vectors 2801-2900):
+   ✓ Uploaded 100 vectors
+
+Batch 30/52 (vectors 2901-3000):
+   ✓ Uploaded 100 vectors
+
+Batch 31/52 (vectors 3001-3100):
+   ✓ Uploaded 100 vectors
+
+Batch 32/52 (vectors 3101-3200):
+   ✓ Uploaded 100 vectors
+
+Batch 33/52 (vectors 3201-3300):
+   ✓ Uploaded 100 vectors
+
+Batch 34/52 (vectors 3301-3400):
+   ✓ Uploaded 100 vectors
+
+Batch 35/52 (vectors 3401-3500):
+   ✓ Uploaded 100 vectors
+
+Batch 36/52 (vectors 3501-3600):
+   ✓ Uploaded 100 vectors
+
+Batch 37/52 (vectors 3601-3700):
+   ✓ Uploaded 100 vectors
+
+Batch 38/52 (vectors 3701-3800):
+   ✓ Uploaded 100 vectors
+
+Batch 39/52 (vectors 3801-3900):
+   ✓ Uploaded 100 vectors
+
+Batch 40/52 (vectors 3901-4000):
+   ✓ Uploaded 100 vectors
+
+Batch 41/52 (vectors 4001-4100):
+   ✓ Uploaded 100 vectors
+
+Batch 42/52 (vectors 4101-4200):
+   ✓ Uploaded 100 vectors
+
+Batch 43/52 (vectors 4201-4300):
+   ✓ Uploaded 100 vectors
+
+Batch 44/52 (vectors 4301-4400):
+   ✓ Uploaded 100 vectors
+
+Batch 45/52 (vectors 4401-4500):
+   ✓ Uploaded 100 vectors
+
+Batch 46/52 (vectors 4501-4600):
+   ✓ Uploaded 100 vectors
+
+Batch 47/52 (vectors 4601-4700):
+   ✓ Uploaded 100 vectors
+
+Batch 48/52 (vectors 4701-4800):
+   ✓ Uploaded 100 vectors
+
+Batch 49/52 (vectors 4801-4900):
+   ✓ Uploaded 100 vectors
+
+Batch 50/52 (vectors 4901-5000):
+   ✓ Uploaded 100 vectors
+
+Batch 51/52 (vectors 5001-5100):
+   ✓ Uploaded 100 vectors
+
+Batch 52/52 (vectors 5101-5119):
+   ✓ Uploaded 19 vectors
+
+============================================================
+✅ Upload Complete!
+
+📊 Statistics:
+   Documents inserted: 744
+   Chunks inserted: 5119
+   Vectors uploaded: 5119
+   Duplicates skipped: 0
+   Time elapsed: 63.9s
+============================================================

@@ -1,0 +1,9 @@
+packages:
+  - apps/*
+  - packages/*
+  - etl
+  - scripts
+
+onlyBuiltDependencies:
+  - sharp
+  - unrs-resolver

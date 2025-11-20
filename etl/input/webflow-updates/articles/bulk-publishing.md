@@ -1,0 +1,5 @@
+## Why we’re working on this
+When we launched [individual CMS item publishing](https://webflow.com/feature/publish-individual-cms-items) in 2018, our goal was to reduce the need to publish your entire site at once, given how that can disrupt in-progress design changes and slow down your workflows. This same logic drove the release of [individual item unpublishing](https://webflow.com/feature/remove-cms-content-without-publishing-your-entire-site) this spring, and today drives the release of bulk actions for both.
+For example, imagine you’ve just [imported](https://university.webflow.com/lesson/import-collection-items) a few hundred blog posts to your site and want to get them live without publishing your entire website. Before today, you couldn’t — but now with bulk publishing controls, it’s simple: select your new items, open up the “Update items” dropdown, and…you guessed it…hit publish. Bada bing, bada boom!
+In summary, we’re hoping this makes your life a bit easier and your work days a little bit shorter.
+* * *

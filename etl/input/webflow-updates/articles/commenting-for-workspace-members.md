@@ -1,0 +1,9 @@
+## Free commenter role coming soon
+While today’s release is aimed at streamlining feedback between those of you already working and building within Webflow, in the coming months we’ll expand beyond Workspace members and introduce a **free** commenting role so you can invite additional stakeholders to leave feedback on designs.
+## How to leave comments
+Now when you open the Designer in Webflow, you’ll notice a new icon on the top bar which switches you into a commenting mode. Here you’ll be able to see where feedback has been shared as you navigate around the site, and click on different elements to leave a new comment (fun fact: you can even leave comments at the [breakpoint level](https://university.webflow.com/lesson/intro-to-breakpoints), and Enterprise teams can comment on [branched pages](https://university.webflow.com/lesson/page-branching)).
+The panel on the right side will show you all comments with the ability to navigate directly to the location where feedback was left by clicking on a comment in that list.
+![Click on a comment in the comments panel to navigate directly to where the feedback was left.](https://cdn.prod.website-files.com/687e8d1b96312cc631cafec7/68c38776207b7c5053dc1c6b_64f9399ca7d13575ff21d688_1lv4ItyvAHtQfiq_glW0BQ5voWNyE_2N80LzvX-ZFzrcKb3NGDNR6B18iN80LC5OFmanLM2FS0wespWy8sAHBnosp530p1W_mHdjZfgqWIz1HO4C6m2vp4aeyC4AzFVRrgitc99SdnFX9fNIzmpzu84.jpeg)
+Click on a comment in the comments panel to navigate directly to where the feedback was left.
+Commenting is available today on all of our [Workspace plans](https://webflow.com/pricing#workspaces). To learn more about how it works, check out [our detailed article on Webflow University](https://university.webflow.com/lesson/comments).
+* * *

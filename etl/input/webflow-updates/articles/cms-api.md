@@ -1,0 +1,3 @@
+## Work directly with the JSON underlying your CMS
+Work with Webflow’s CMS API to bring content in from external data sources, connect an existing CMS, or connect Webflow’s CMS with a mobile app. The API lets you add, update, and delete items from your collections, right from the terminal. Check out the documentation at [developers.webflow.com](https://developers.webflow.com/v2.0.0-beta/data/docs/working-with-the-cms).
+* * *

@@ -1,0 +1,34 @@
+🔄 Universal Document Chunker - Multi-Source Processing
+
+============================================================
+
+📋 Discovered 3 source(s): webflow-developers, webflow-updates, webflow-way
+
+📂 Processing source: webflow-developers
+   Found 690 markdown files
+   ✓ Processed 690 documents → 4646 chunks (avg 7 chunks/doc)
+
+📂 Processing source: webflow-updates
+   Found 24 markdown files
+   ✓ Processed 24 documents → 68 chunks (avg 3 chunks/doc)
+
+📂 Processing source: webflow-way
+   Found 30 markdown files
+   ✓ Processed 30 documents → 405 chunks (avg 14 chunks/doc)
+
+============================================================
+✅ Chunking Complete!
+
+📊 Summary by Source:
+   webflow-developers        690 docs → 4646 chunks
+   webflow-way                30 docs →  405 chunks
+   webflow-updates            24 docs →   68 chunks
+
+📊 Overall Statistics:
+   Total documents: 744
+   Total chunks: 5119
+   Average chunks/doc: 7
+   Average tokens/chunk: 120
+
+📁 Output: /Users/ryan.hodge/Projects/webflow-rag/etl/output/chunks/all-sources-chunks-2025-11-17T23-10-53-795Z.json
+============================================================

@@ -1,0 +1,239 @@
+
+🚀 HTTP Scraper: webflow-university
+📅 Started: 2025-11-17T18:49:44.738Z
+📊 Total URLs: 76
+
+[1/76] https://university.webflow.com/lesson/intro-to-the-designer
+  [Attempt 1/3] intro-to-the-designer
+    ❌ Failed: Request failed with status code 403
+
+[2/76] https://university.webflow.com/lesson/the-box-model
+  [Attempt 1/3] the-box-model
+    ❌ Failed: Request failed with status code 403
+
+[3/76] https://university.webflow.com/lesson/layout
+  [Attempt 1/3] layout
+    ❌ Failed: Request failed with status code 404
+
+[4/76] https://university.webflow.com/lesson/flexbox
+  [Attempt 1/3] flexbox
+    ❌ Failed: Request failed with status code 404
+
+[5/76] https://university.webflow.com/lesson/css-grid
+  [Attempt 1/3] css-grid
+    ❌ Failed: Request failed with status code 404
+
+[6/76] https://university.webflow.com/lesson/positioning
+  [Attempt 1/3] positioning
+    ❌ Failed: Request failed with status code 404
+
+[7/76] https://university.webflow.com/lesson/intro-to-html-and-css
+  [Attempt 1/3] intro-to-html-and-css
+    ❌ Failed: Request failed with status code 404
+
+[8/76] https://university.webflow.com/lesson/elements-panel
+  [Attempt 1/3] elements-panel
+    ❌ Failed: Request failed with status code 403
+
+[9/76] https://university.webflow.com/lesson/navigator
+  [Attempt 1/3] navigator
+    ❌ Failed: Request failed with status code 403
+
+[10/76] https://university.webflow.com/lesson/style-panel
+  [Attempt 1/3] style-panel
+    ❌ Failed: Request failed with status code 404
+
+[11/76] https://university.webflow.com/lesson/intro-to-cms
+  [Attempt 1/3] intro-to-cms
+    ❌ Failed: Request failed with status code 404
+
+[12/76] https://university.webflow.com/lesson/creating-a-collection
+  [Attempt 1/3] creating-a-collection
+    ❌ Failed: Request failed with status code 404
+
+[13/76] https://university.webflow.com/lesson/collection-fields
+  [Attempt 1/3] collection-fields
+    ❌ Failed: Request failed with status code 403
+
+[14/76] https://university.webflow.com/lesson/collection-lists
+  [Attempt 1/3] collection-lists
+    ❌ Failed: Request failed with status code 404
+
+[15/76] https://university.webflow.com/lesson/collection-pages
+  [Attempt 1/3] collection-pages
+    ❌ Failed: Request failed with status code 404
+
+[16/76] https://university.webflow.com/lesson/reference-fields
+  [Attempt 1/3] reference-fields
+    ❌ Failed: Request failed with status code 404
+
+[17/76] https://university.webflow.com/lesson/multi-reference-fields
+  [Attempt 1/3] multi-reference-fields
+    ❌ Failed: Request failed with status code 404
+
+[18/76] https://university.webflow.com/lesson/filtering-collection-lists
+  [Attempt 1/3] filtering-collection-lists
+    ❌ Failed: Request failed with status code 403
+
+[19/76] https://university.webflow.com/lesson/conditional-visibility
+  [Attempt 1/3] conditional-visibility
+    ❌ Failed: Request failed with status code 403
+
+[20/76] https://university.webflow.com/lesson/cms-pagination
+  [Attempt 1/3] cms-pagination
+    ❌ Failed: Request failed with status code 404
+
+[21/76] https://university.webflow.com/lesson/intro-to-interactions
+  [Attempt 1/3] intro-to-interactions
+    ❌ Failed: Request failed with status code 403
+
+[22/76] https://university.webflow.com/lesson/trigger-types
+  [Attempt 1/3] trigger-types
+    ❌ Failed: Request failed with status code 404
+
+[23/76] https://university.webflow.com/lesson/while-scrolling-in-view
+  [Attempt 1/3] while-scrolling-in-view
+    ❌ Failed: Request failed with status code 404
+
+[24/76] https://university.webflow.com/lesson/scroll-effects
+  [Attempt 1/3] scroll-effects
+    ❌ Failed: Request failed with status code 404
+
+[25/76] https://university.webflow.com/lesson/hover-animations
+  [Attempt 1/3] hover-animations
+    ❌ Failed: Request failed with status code 404
+
+[26/76] https://university.webflow.com/lesson/page-load-animations
+  [Attempt 1/3] page-load-animations
+    ❌ Failed: Request failed with status code 404
+
+[27/76] https://university.webflow.com/lesson/timed-animations
+  [Attempt 1/3] timed-animations
+    ❌ Failed: Request failed with status code 404
+
+[28/76] https://university.webflow.com/lesson/component-animations
+  [Attempt 1/3] component-animations
+    ❌ Failed: Request failed with status code 404
+
+[29/76] https://university.webflow.com/lesson/intro-to-breakpoints
+  [Attempt 1/3] intro-to-breakpoints
+    ❌ Failed: Request failed with status code 403
+
+[30/76] https://university.webflow.com/lesson/mobile-first-design
+  [Attempt 1/3] mobile-first-design
+    ❌ Failed: Request failed with status code 404
+
+[31/76] https://university.webflow.com/lesson/responsive-images
+  [Attempt 1/3] responsive-images
+    ❌ Failed: Request failed with status code 403
+
+[32/76] https://university.webflow.com/lesson/responsive-typography
+  [Attempt 1/3] responsive-typography
+    ❌ Failed: Request failed with status code 404
+
+[33/76] https://university.webflow.com/lesson/hiding-elements
+  [Attempt 1/3] hiding-elements
+    ❌ Failed: Request failed with status code 404
+
+[34/76] https://university.webflow.com/lesson/intro-to-components
+  [Attempt 1/3] intro-to-components
+    ❌ Failed: Request failed with status code 404
+
+[35/76] https://university.webflow.com/lesson/creating-components
+  [Attempt 1/3] creating-components
+    ❌ Failed: Request failed with status code 404
+
+[36/76] https://university.webflow.com/lesson/component-variants
+  [Attempt 1/3] component-variants
+    ❌ Failed: Request failed with status code 404
+
+[37/76] https://university.webflow.com/lesson/component-slots
+  [Attempt 1/3] component-slots
+    ❌ Failed: Request failed with status code 404
+
+[38/76] https://university.webflow.com/lesson/overriding-components
+  [Attempt 1/3] overriding-components
+    ❌ Failed: Request failed with status code 404
+
+[39/76] https://university.webflow.com/lesson/intro-to-forms
+  [Attempt 1/3] intro-to-forms
+    ❌ Failed: Request failed with status code 403
+
+[40/76] https://university.webflow.com/lesson/form-fields
+  [Attempt 1/3] form-fields
+    ❌ Failed: Request failed with status code 404
+
+[41/76] https://university.webflow.com/lesson/form-validation
+  [Attempt 1/3] form-validation
+    ❌ Failed: Request failed with status code 404
+
+[42/76] https://university.webflow.com/lesson/form-success-state
+  [Attempt 1/3] form-success-state
+    ❌ Failed: Request failed with status code 404
+
+[43/76] https://university.webflow.com/lesson/custom-forms
+  [Attempt 1/3] custom-forms
+    ❌ Failed: Request failed with status code 404
+
+[44/76] https://university.webflow.com/lesson/intro-to-ecommerce
+  [Attempt 1/3] intro-to-ecommerce
+    ❌ Failed: Request failed with status code 404
+
+[45/76] https://university.webflow.com/lesson/product-pages
+  [Attempt 1/3] product-pages
+    ❌ Failed: Request failed with status code 404
+
+[46/76] https://university.webflow.com/lesson/shopping-cart
+  [Attempt 1/3] shopping-cart
+    ❌ Failed: Request failed with status code 404
+
+[47/76] https://university.webflow.com/lesson/checkout-flow
+  [Attempt 1/3] checkout-flow
+    ❌ Failed: Request failed with status code 404
+
+[48/76] https://university.webflow.com/lesson/seo-basics
+  [Attempt 1/3] seo-basics
+    ❌ Failed: Request failed with status code 404
+
+[49/76] https://university.webflow.com/lesson/meta-tags
+  [Attempt 1/3] meta-tags
+    ❌ Failed: Request failed with status code 404
+
+[50/76] https://university.webflow.com/lesson/open-graph-settings
+  [Attempt 1/3] open-graph-settings
+    ❌ Failed: Request failed with status code 403
+
+[51/76] https://university.webflow.com/lesson/image-optimization
+  [Attempt 1/3] image-optimization
+    ❌ Failed: Request failed with status code 404
+
+[52/76] https://university.webflow.com/lesson/lazy-loading
+  [Attempt 1/3] lazy-loading
+    ❌ Failed: Request failed with status code 404
+
+[53/76] https://university.webflow.com/lesson/site-speed
+  [Attempt 1/3] site-speed
+    ❌ Failed: Request failed with status code 404
+
+[54/76] https://university.webflow.com/lesson/custom-code
+  [Attempt 1/3] custom-code
+    ❌ Failed: Request failed with status code 403
+
+[55/76] https://university.webflow.com/lesson/embed-elements
+  [Attempt 1/3] embed-elements
+    ❌ Failed: Request failed with status code 404
+
+[56/76] https://university.webflow.com/lesson/html-embeds
+  [Attempt 1/3] html-embeds
+    ❌ Failed: Request failed with status code 404
+
+[57/76] https://university.webflow.com/lesson/javascript-interactions
+  [Attempt 1/3] javascript-interactions
+    ❌ Failed: Request failed with status code 404
+
+[58/76] https://university.webflow.com/lesson/custom-attributes
+  [Attempt 1/3] custom-attributes
+    ❌ Failed: Request failed with status code 403
+
+[59/76] https://university.webflow.com/lesson/publishing-your-site
+  [Attempt 1/3] publishing-your-site

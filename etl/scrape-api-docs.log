@@ -1,0 +1,161 @@
+🚀 STARTING PRODUCTION SCRAPE: Webflow API Documentation
+📅 Started at: 2025-11-17T19:30:05.569Z
+
+📊 Total articles to scrape: 40
+
+
+━━━ BATCH 1/4 (Articles 1-10) ━━━
+
+[2025-11-17T19:30:05.572Z] Scraping: getting-started
+  ✓ Saved: getting-started.md (174 words)
+
+[2025-11-17T19:30:22.146Z] Scraping: authentication
+  ✓ Saved: authentication.md (172 words)
+
+[2025-11-17T19:30:37.304Z] Scraping: rate-limits
+  ✓ Saved: rate-limits.md (173 words)
+
+[2025-11-17T19:30:52.361Z] Scraping: errors
+  ✓ Saved: errors.md (170 words)
+
+[2025-11-17T19:31:12.286Z] Scraping: sites
+  ✓ Saved: sites.md (171 words)
+
+[2025-11-17T19:31:33.119Z] Scraping: list-sites
+  ✓ Saved: list-sites.md (171 words)
+
+[2025-11-17T19:31:52.268Z] Scraping: get-site
+  ✓ Saved: get-site.md (309 words)
+
+[2025-11-17T19:32:06.119Z] Scraping: publish-site
+  ✓ Saved: publish-site.md (175 words)
+
+[2025-11-17T19:32:18.891Z] Scraping: collections
+  ✓ Saved: collections.md (181 words)
+
+[2025-11-17T19:32:28.921Z] Scraping: list-collections
+  ✓ Saved: list-collections.md (188 words)
+
+📊 Progress saved: 10/40 articles
+
+━━━ BATCH 2/4 (Articles 11-20) ━━━
+
+[2025-11-17T19:32:39.884Z] Scraping: get-collection
+  ✓ Saved: get-collection.md (172 words)
+
+[2025-11-17T19:32:55.787Z] Scraping: items
+  ✓ Saved: items.md (172 words)
+
+[2025-11-17T19:33:07.938Z] Scraping: list-items
+  ✓ Saved: list-items.md (175 words)
+
+[2025-11-17T19:33:19.408Z] Scraping: get-item
+  ✓ Saved: get-item.md (193 words)
+
+[2025-11-17T19:33:31.394Z] Scraping: create-item
+  ✓ Saved: create-item.md (363 words)
+
+[2025-11-17T19:33:43.363Z] Scraping: update-item
+  ✓ Saved: update-item.md (193 words)
+
+[2025-11-17T19:33:59.248Z] Scraping: delete-item
+  ✓ Saved: delete-item.md (193 words)
+
+[2025-11-17T19:34:13.353Z] Scraping: publish-item
+  ✓ Saved: publish-item.md (193 words)
+
+[2025-11-17T19:34:30.591Z] Scraping: pages
+  ✓ Saved: pages.md (172 words)
+
+[2025-11-17T19:34:45.018Z] Scraping: list-pages
+  ✓ Saved: list-pages.md (230 words)
+
+📊 Progress saved: 20/40 articles
+
+━━━ BATCH 3/4 (Articles 21-30) ━━━
+
+[2025-11-17T19:34:58.636Z] Scraping: get-page
+  ✓ Saved: get-page.md (177 words)
+
+[2025-11-17T19:35:10.126Z] Scraping: update-page-content
+  ✓ Saved: update-page-content.md (176 words)
+
+[2025-11-17T19:35:21.629Z] Scraping: assets
+  ✓ Saved: assets.md (215 words)
+
+[2025-11-17T19:35:36.160Z] Scraping: list-assets
+  ✓ Saved: list-assets.md (215 words)
+
+[2025-11-17T19:35:48.361Z] Scraping: get-asset
+  ✓ Saved: get-asset.md (270 words)
+
+[2025-11-17T19:36:02.916Z] Scraping: create-asset
+  ✓ Saved: create-asset.md (353 words)
+
+[2025-11-17T19:36:15.161Z] Scraping: users
+  ✓ Saved: users.md (288 words)
+
+[2025-11-17T19:36:42.684Z] Scraping: list-users
+  ✓ Saved: list-users.md (288 words)
+
+[2025-11-17T19:36:57.254Z] Scraping: get-user
+  ✓ Saved: get-user.md (286 words)
+
+[2025-11-17T19:37:10.050Z] Scraping: ecommerce
+  ✓ Saved: ecommerce.md (277 words)
+
+📊 Progress saved: 30/40 articles
+
+━━━ BATCH 4/4 (Articles 31-40) ━━━
+
+[2025-11-17T19:37:27.368Z] Scraping: products
+  ✓ Saved: products.md (172 words)
+
+[2025-11-17T19:37:40.228Z] Scraping: list-products
+  ✓ Saved: list-products.md (277 words)
+
+[2025-11-17T19:37:51.295Z] Scraping: get-product
+  ✓ Saved: get-product.md (219 words)
+
+[2025-11-17T19:38:02.551Z] Scraping: create-product
+  ✓ Saved: create-product.md (375 words)
+
+[2025-11-17T19:38:31.125Z] Scraping: update-product
+  ✓ Saved: update-product.md (353 words)
+
+[2025-11-17T19:38:42.952Z] Scraping: orders
+  ✓ Saved: orders.md (172 words)
+
+[2025-11-17T19:38:55.088Z] Scraping: list-orders
+  ✓ Saved: list-orders.md (239 words)
+
+[2025-11-17T19:39:15.458Z] Scraping: get-order
+  ✓ Saved: get-order.md (763 words)
+
+[2025-11-17T19:39:27.241Z] Scraping: update-order
+  ✓ Saved: update-order.md (805 words)
+
+[2025-11-17T19:39:42.350Z] Scraping: webhooks
+  ✓ Saved: webhooks.md (2546 words)
+
+📊 Progress saved: 40/40 articles
+
+📋 Scrape log saved: /Users/ryan.hodge/Projects/webflow-rag/etl/input/webflow-api-docs/scrape-log.json
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎉 SCRAPE COMPLETE!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 Summary:
+  Total articles: 40
+  Successfully scraped: 40
+  Failed: 0 (0.0%)
+  Firecrawl credits used: 40
+  Total word count: ~12,406 words
+  Average article length: 310 words
+  Duration: 9m 47s
+
+📁 Output: /Users/ryan.hodge/Projects/webflow-rag/etl/input/webflow-api-docs/articles
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+

@@ -1,0 +1,4840 @@
+{
+  "source": "webflow-developers",
+  "scraped_at": "2025-11-17T23:00:22.460Z",
+  "total_urls": 690,
+  "articles_scraped": 690,
+  "articles_failed": 0,
+  "firecrawl_credits_used": 690,
+  "articles": [
+    {
+      "url": "https://developers.webflow.com/apps/changelog",
+      "slug": "apps-changelog",
+      "file": "apps-changelog.md",
+      "scraped": true,
+      "word_count": 112
+    },
+    {
+      "url": "https://developers.webflow.com/apps/data/docs/register-an-app",
+      "slug": "apps-data-docs-register-an-app",
+      "file": "apps-data-docs-register-an-app.md",
+      "scraped": true,
+      "word_count": 1378
+    },
+    {
+      "url": "https://developers.webflow.com/apps/docs/designer-extensions",
+      "slug": "apps-docs-designer-extensions",
+      "file": "apps-docs-designer-extensions.md",
+      "scraped": true,
+      "word_count": 965
+    },
+    {
+      "url": "https://developers.webflow.com/apps/docs/publishing-your-app",
+      "slug": "apps-docs-publishing-your-app",
+      "file": "apps-docs-publishing-your-app.md",
+      "scraped": true,
+      "word_count": 892
+    },
+    {
+      "url": "https://developers.webflow.com/browser/changelog",
+      "slug": "browser-changelog",
+      "file": "browser-changelog.md",
+      "scraped": true,
+      "word_count": 112
+    },
+    {
+      "url": "https://developers.webflow.com/browser/introduction",
+      "slug": "browser-introduction",
+      "file": "browser-introduction.md",
+      "scraped": true,
+      "word_count": 503
+    },
+    {
+      "url": "https://developers.webflow.com/browser/optimize/attributes",
+      "slug": "browser-optimize-attributes",
+      "file": "browser-optimize-attributes.md",
+      "scraped": true,
+      "word_count": 546
+    },
+    {
+      "url": "https://developers.webflow.com/browser/optimize/deleteAllAttributes",
+      "slug": "browser-optimize-deleteallattributes",
+      "file": "browser-optimize-deleteallattributes.md",
+      "scraped": true,
+      "word_count": 217
+    },
+    {
+      "url": "https://developers.webflow.com/browser/optimize/deleteAttributes",
+      "slug": "browser-optimize-deleteattributes",
+      "file": "browser-optimize-deleteattributes.md",
+      "scraped": true,
+      "word_count": 253
+    },
+    {
+      "url": "https://developers.webflow.com/browser/optimize/getAllAttributes",
+      "slug": "browser-optimize-getallattributes",
+      "file": "browser-optimize-getallattributes.md",
+      "scraped": true,
+      "word_count": 210
+    },
+    {
+      "url": "https://developers.webflow.com/browser/optimize/getAttributes",
+      "slug": "browser-optimize-getattributes",
+      "file": "browser-optimize-getattributes.md",
+      "scraped": true,
+      "word_count": 233
+    },
+    {
+      "url": "https://developers.webflow.com/browser/optimize/introduction",
+      "slug": "browser-optimize-introduction",
+      "file": "browser-optimize-introduction.md",
+      "scraped": true,
+      "word_count": 503
+    },
+    {
+      "url": "https://developers.webflow.com/browser/optimize/onVariationRecorded",
+      "slug": "browser-optimize-onvariationrecorded",
+      "file": "browser-optimize-onvariationrecorded.md",
+      "scraped": true,
+      "word_count": 586
+    },
+    {
+      "url": "https://developers.webflow.com/browser/optimize/quickstart",
+      "slug": "browser-optimize-quickstart",
+      "file": "browser-optimize-quickstart.md",
+      "scraped": true,
+      "word_count": 615
+    },
+    {
+      "url": "https://developers.webflow.com/browser/optimize/setAttributes",
+      "slug": "browser-optimize-setattributes",
+      "file": "browser-optimize-setattributes.md",
+      "scraped": true,
+      "word_count": 423
+    },
+    {
+      "url": "https://developers.webflow.com/browser/optimize/variations",
+      "slug": "browser-optimize-variations",
+      "file": "browser-optimize-variations.md",
+      "scraped": true,
+      "word_count": 285
+    },
+    {
+      "url": "https://developers.webflow.com/browser/reference/allow-user-tracking",
+      "slug": "browser-reference-allow-user-tracking",
+      "file": "browser-reference-allow-user-tracking.md",
+      "scraped": true,
+      "word_count": 205
+    },
+    {
+      "url": "https://developers.webflow.com/browser/reference/consent-management",
+      "slug": "browser-reference-consent-management",
+      "file": "browser-reference-consent-management.md",
+      "scraped": true,
+      "word_count": 1337
+    },
+    {
+      "url": "https://developers.webflow.com/browser/reference/deny-user-tracking",
+      "slug": "browser-reference-deny-user-tracking",
+      "file": "browser-reference-deny-user-tracking.md",
+      "scraped": true,
+      "word_count": 192
+    },
+    {
+      "url": "https://developers.webflow.com/browser/reference/get-user-tracking-choice",
+      "slug": "browser-reference-get-user-tracking-choice",
+      "file": "browser-reference-get-user-tracking-choice.md",
+      "scraped": true,
+      "word_count": 202
+    },
+    {
+      "url": "https://developers.webflow.com/browser/reference/wf-ready",
+      "slug": "browser-reference-wf-ready",
+      "file": "browser-reference-wf-ready.md",
+      "scraped": true,
+      "word_count": 245
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/bundling-and-import",
+      "slug": "code-components-bundling-and-import",
+      "file": "code-components-bundling-and-import.md",
+      "scraped": true,
+      "word_count": 733
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/changelog",
+      "slug": "code-components-changelog",
+      "file": "code-components-changelog.md",
+      "scraped": true,
+      "word_count": 112
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/component-architecture",
+      "slug": "code-components-component-architecture",
+      "file": "code-components-component-architecture.md",
+      "scraped": true,
+      "word_count": 1372
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/define-code-component",
+      "slug": "code-components-define-code-component",
+      "file": "code-components-define-code-component.md",
+      "scraped": true,
+      "word_count": 1058
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/examples",
+      "slug": "code-components-examples",
+      "file": "code-components-examples.md",
+      "scraped": true,
+      "word_count": 262
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/faqs",
+      "slug": "code-components-faqs",
+      "file": "code-components-faqs.md",
+      "scraped": true,
+      "word_count": 927
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/frameworks-and-libraries",
+      "slug": "code-components-frameworks-and-libraries",
+      "file": "code-components-frameworks-and-libraries.md",
+      "scraped": true,
+      "word_count": 1412
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/installation",
+      "slug": "code-components-installation",
+      "file": "code-components-installation.md",
+      "scraped": true,
+      "word_count": 557
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/introduction",
+      "slug": "code-components-introduction",
+      "file": "code-components-introduction.md",
+      "scraped": true,
+      "word_count": 422
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/introduction/quick-start",
+      "slug": "code-components-introduction-quick-start",
+      "file": "code-components-introduction-quick-start.md",
+      "scraped": true,
+      "word_count": 1408
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/cli",
+      "slug": "code-components-reference-cli",
+      "file": "code-components-reference-cli.md",
+      "scraped": true,
+      "word_count": 726
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/hooks/declareComponent",
+      "slug": "code-components-reference-hooks-declarecomponent",
+      "file": "code-components-reference-hooks-declarecomponent.md",
+      "scraped": true,
+      "word_count": 365
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/hooks/useWebflowContext",
+      "slug": "code-components-reference-hooks-usewebflowcontext",
+      "file": "code-components-reference-hooks-usewebflowcontext.md",
+      "scraped": true,
+      "word_count": 618
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/prop-types",
+      "slug": "code-components-reference-prop-types",
+      "file": "code-components-reference-prop-types.md",
+      "scraped": true,
+      "word_count": 1007
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/prop-types/boolean",
+      "slug": "code-components-reference-prop-types-boolean",
+      "file": "code-components-reference-prop-types-boolean.md",
+      "scraped": true,
+      "word_count": 477
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/prop-types/id",
+      "slug": "code-components-reference-prop-types-id",
+      "file": "code-components-reference-prop-types-id.md",
+      "scraped": true,
+      "word_count": 377
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/prop-types/image",
+      "slug": "code-components-reference-prop-types-image",
+      "file": "code-components-reference-prop-types-image.md",
+      "scraped": true,
+      "word_count": 414
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/prop-types/link",
+      "slug": "code-components-reference-prop-types-link",
+      "file": "code-components-reference-prop-types-link.md",
+      "scraped": true,
+      "word_count": 459
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/prop-types/number",
+      "slug": "code-components-reference-prop-types-number",
+      "file": "code-components-reference-prop-types-number.md",
+      "scraped": true,
+      "word_count": 464
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/prop-types/rich-text",
+      "slug": "code-components-reference-prop-types-rich-text",
+      "file": "code-components-reference-prop-types-rich-text.md",
+      "scraped": true,
+      "word_count": 416
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/prop-types/slot",
+      "slug": "code-components-reference-prop-types-slot",
+      "file": "code-components-reference-prop-types-slot.md",
+      "scraped": true,
+      "word_count": 374
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/prop-types/text",
+      "slug": "code-components-reference-prop-types-text",
+      "file": "code-components-reference-prop-types-text.md",
+      "scraped": true,
+      "word_count": 386
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/prop-types/text-node",
+      "slug": "code-components-reference-prop-types-text-node",
+      "file": "code-components-reference-prop-types-text-node.md",
+      "scraped": true,
+      "word_count": 463
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/prop-types/variant",
+      "slug": "code-components-reference-prop-types-variant",
+      "file": "code-components-reference-prop-types-variant.md",
+      "scraped": true,
+      "word_count": 427
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/reference/prop-types/visibility",
+      "slug": "code-components-reference-prop-types-visibility",
+      "file": "code-components-reference-prop-types-visibility.md",
+      "scraped": true,
+      "word_count": 399
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/styling-components",
+      "slug": "code-components-styling-components",
+      "file": "code-components-styling-components.md",
+      "scraped": true,
+      "word_count": 537
+    },
+    {
+      "url": "https://developers.webflow.com/code-components/webpack-configuration-overrides",
+      "slug": "code-components-webpack-configuration-overrides",
+      "file": "code-components-webpack-configuration-overrides.md",
+      "scraped": true,
+      "word_count": 1118
+    },
+    {
+      "url": "https://developers.webflow.com/data/09042025",
+      "slug": "data-09042025",
+      "file": "data-09042025.md",
+      "scraped": true,
+      "word_count": 455
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/04082025",
+      "slug": "data-changelog-04082025",
+      "file": "data-changelog-04082025.md",
+      "scraped": true,
+      "word_count": 291
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/04082025-mcp-server",
+      "slug": "data-changelog-04082025-mcp-server",
+      "file": "data-changelog-04082025-mcp-server.md",
+      "scraped": true,
+      "word_count": 298
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/05-01-2024",
+      "slug": "data-changelog-05-01-2024",
+      "file": "data-changelog-05-01-2024.md",
+      "scraped": true,
+      "word_count": 296
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/05082025",
+      "slug": "data-changelog-05082025",
+      "file": "data-changelog-05082025.md",
+      "scraped": true,
+      "word_count": 438
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/05132025-mcp-server",
+      "slug": "data-changelog-05132025-mcp-server",
+      "file": "data-changelog-05132025-mcp-server.md",
+      "scraped": true,
+      "word_count": 320
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/06182024",
+      "slug": "data-changelog-06182024",
+      "file": "data-changelog-06182024.md",
+      "scraped": true,
+      "word_count": 381
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/06232025",
+      "slug": "data-changelog-06232025",
+      "file": "data-changelog-06232025.md",
+      "scraped": true,
+      "word_count": 685
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/08082025",
+      "slug": "data-changelog-08082025",
+      "file": "data-changelog-08082025.md",
+      "scraped": true,
+      "word_count": 395
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/082224",
+      "slug": "data-changelog-082224",
+      "file": "data-changelog-082224.md",
+      "scraped": true,
+      "word_count": 225
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/10232024",
+      "slug": "data-changelog-10232024",
+      "file": "data-changelog-10232024.md",
+      "scraped": true,
+      "word_count": 317
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/1082025",
+      "slug": "data-changelog-1082025",
+      "file": "data-changelog-1082025.md",
+      "scraped": true,
+      "word_count": 276
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/11212024",
+      "slug": "data-changelog-11212024",
+      "file": "data-changelog-11212024.md",
+      "scraped": true,
+      "word_count": 242
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/121724",
+      "slug": "data-changelog-121724",
+      "file": "data-changelog-121724.md",
+      "scraped": true,
+      "word_count": 364
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/121724-breaking",
+      "slug": "data-changelog-121724-breaking",
+      "file": "data-changelog-121724-breaking.md",
+      "scraped": true,
+      "word_count": 437
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/2017/2/2",
+      "slug": "data-changelog-2017-2-2",
+      "file": "data-changelog-2017-2-2.md",
+      "scraped": true,
+      "word_count": 141
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/2023/1/20",
+      "slug": "data-changelog-2023-1-20",
+      "file": "data-changelog-2023-1-20.md",
+      "scraped": true,
+      "word_count": 148
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/2024/2/21",
+      "slug": "data-changelog-2024-2-21",
+      "file": "data-changelog-2024-2-21.md",
+      "scraped": true,
+      "word_count": 420
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/2025/1/16",
+      "slug": "data-changelog-2025-1-16",
+      "file": "data-changelog-2025-1-16.md",
+      "scraped": true,
+      "word_count": 215
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/2025/2/28",
+      "slug": "data-changelog-2025-2-28",
+      "file": "data-changelog-2025-2-28.md",
+      "scraped": true,
+      "word_count": 222
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/2025/2/5",
+      "slug": "data-changelog-2025-2-5",
+      "file": "data-changelog-2025-2-5.md",
+      "scraped": true,
+      "word_count": 263
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/2025/3/12",
+      "slug": "data-changelog-2025-3-12",
+      "file": "data-changelog-2025-3-12.md",
+      "scraped": true,
+      "word_count": 166
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/2025/8/12",
+      "slug": "data-changelog-2025-8-12",
+      "file": "data-changelog-2025-8-12.md",
+      "scraped": true,
+      "word_count": 1117
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/api-version-defaults-and-docs-update",
+      "slug": "data-changelog-api-version-defaults-and-docs-update",
+      "file": "data-changelog-api-version-defaults-and-docs-update.md",
+      "scraped": true,
+      "word_count": 193
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/developer-api-release",
+      "slug": "data-changelog-developer-api-release",
+      "file": "data-changelog-developer-api-release.md",
+      "scraped": true,
+      "word_count": 125
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/march-2020-updates",
+      "slug": "data-changelog-march-2020-updates",
+      "file": "data-changelog-march-2020-updates.md",
+      "scraped": true,
+      "word_count": 243
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/multi-item-publishunpublish",
+      "slug": "data-changelog-multi-item-publishunpublish",
+      "file": "data-changelog-multi-item-publishunpublish.md",
+      "scraped": true,
+      "word_count": 171
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/new-cms-apis-and-updated-webhooks",
+      "slug": "data-changelog-new-cms-apis-and-updated-webhooks",
+      "file": "data-changelog-new-cms-apis-and-updated-webhooks.md",
+      "scraped": true,
+      "word_count": 345
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/publish-site-api-new-rate-limits",
+      "slug": "data-changelog-publish-site-api-new-rate-limits",
+      "file": "data-changelog-publish-site-api-new-rate-limits.md",
+      "scraped": true,
+      "word_count": 268
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/user-access-groups-added",
+      "slug": "data-changelog-user-access-groups-added",
+      "file": "data-changelog-user-access-groups-added.md",
+      "scraped": true,
+      "word_count": 167
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/users-memberships-api",
+      "slug": "data-changelog-users-memberships-api",
+      "file": "data-changelog-users-memberships-api.md",
+      "scraped": true,
+      "word_count": 223
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/webflow-api-changed-endpoints",
+      "slug": "data-changelog-webflow-api-changed-endpoints",
+      "file": "data-changelog-webflow-api-changed-endpoints.md",
+      "scraped": true,
+      "word_count": 3819
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/webflow-api-new-endpoints",
+      "slug": "data-changelog-webflow-api-new-endpoints",
+      "file": "data-changelog-webflow-api-new-endpoints.md",
+      "scraped": true,
+      "word_count": 462
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/webflow-api-removed-endpoints",
+      "slug": "data-changelog-webflow-api-removed-endpoints",
+      "file": "data-changelog-webflow-api-removed-endpoints.md",
+      "scraped": true,
+      "word_count": 221
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/webflow-sdk-update-to-071",
+      "slug": "data-changelog-webflow-sdk-update-to-071",
+      "file": "data-changelog-webflow-sdk-update-to-071.md",
+      "scraped": true,
+      "word_count": 147
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/webflow-sdk-update-to-072",
+      "slug": "data-changelog-webflow-sdk-update-to-072",
+      "file": "data-changelog-webflow-sdk-update-to-072.md",
+      "scraped": true,
+      "word_count": 141
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/webflow-sdk-v080",
+      "slug": "data-changelog-webflow-sdk-v080",
+      "file": "data-changelog-webflow-sdk-v080.md",
+      "scraped": true,
+      "word_count": 149
+    },
+    {
+      "url": "https://developers.webflow.com/data/changelog/webhook-signatures",
+      "slug": "data-changelog-webhook-signatures",
+      "file": "data-changelog-webhook-signatures.md",
+      "scraped": true,
+      "word_count": 459
+    },
+    {
+      "url": "https://developers.webflow.com/data/developer-terms-of-service",
+      "slug": "data-developer-terms-of-service",
+      "file": "data-developer-terms-of-service.md",
+      "scraped": true,
+      "word_count": 6234
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/ai-tools",
+      "slug": "data-docs-ai-tools",
+      "file": "data-docs-ai-tools.md",
+      "scraped": true,
+      "word_count": 2384
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/custom-code-preview-mode",
+      "slug": "data-docs-custom-code-preview-mode",
+      "file": "data-docs-custom-code-preview-mode.md",
+      "scraped": true,
+      "word_count": 425
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/data-clients",
+      "slug": "data-docs-data-clients",
+      "file": "data-docs-data-clients.md",
+      "scraped": true,
+      "word_count": 608
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/developer-workspace",
+      "slug": "data-docs-developer-workspace",
+      "file": "data-docs-developer-workspace.md",
+      "scraped": true,
+      "word_count": 524
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/migrating-to-v2",
+      "slug": "data-docs-migrating-to-v2",
+      "file": "data-docs-migrating-to-v2.md",
+      "scraped": true,
+      "word_count": 1463
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/register-an-app",
+      "slug": "data-docs-register-an-app",
+      "file": "data-docs-register-an-app.md",
+      "scraped": true,
+      "word_count": 1378
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/webflow-v1-api-deprecation-notice",
+      "slug": "data-docs-webflow-v1-api-deprecation-notice",
+      "file": "data-docs-webflow-v1-api-deprecation-notice.md",
+      "scraped": true,
+      "word_count": 456
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/working-with-assets",
+      "slug": "data-docs-working-with-assets",
+      "file": "data-docs-working-with-assets.md",
+      "scraped": true,
+      "word_count": 2644
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/working-with-custom-code",
+      "slug": "data-docs-working-with-custom-code",
+      "file": "data-docs-working-with-custom-code.md",
+      "scraped": true,
+      "word_count": 1505
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/working-with-localization",
+      "slug": "data-docs-working-with-localization",
+      "file": "data-docs-working-with-localization.md",
+      "scraped": true,
+      "word_count": 1330
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/working-with-localization/localize-components",
+      "slug": "data-docs-working-with-localization-localize-components",
+      "file": "data-docs-working-with-localization-localize-components.md",
+      "scraped": true,
+      "word_count": 3075
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/working-with-localization/localize-pages",
+      "slug": "data-docs-working-with-localization-localize-pages",
+      "file": "data-docs-working-with-localization-localize-pages.md",
+      "scraped": true,
+      "word_count": 2222
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/working-with-the-cms/content-delivery",
+      "slug": "data-docs-working-with-the-cms-content-delivery",
+      "file": "data-docs-working-with-the-cms-content-delivery.md",
+      "scraped": true,
+      "word_count": 816
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/working-with-the-cms/localization",
+      "slug": "data-docs-working-with-the-cms-localization",
+      "file": "data-docs-working-with-the-cms-localization.md",
+      "scraped": true,
+      "word_count": 878
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/working-with-the-cms/manage-collections-and-items",
+      "slug": "data-docs-working-with-the-cms-manage-collections-and-items",
+      "file": "data-docs-working-with-the-cms-manage-collections-and-items.md",
+      "scraped": true,
+      "word_count": 2207
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/working-with-the-cms/publishing",
+      "slug": "data-docs-working-with-the-cms-publishing",
+      "file": "data-docs-working-with-the-cms-publishing.md",
+      "scraped": true,
+      "word_count": 1117
+    },
+    {
+      "url": "https://developers.webflow.com/data/docs/working-with-webhooks",
+      "slug": "data-docs-working-with-webhooks",
+      "file": "data-docs-working-with-webhooks.md",
+      "scraped": true,
+      "word_count": 2546
+    },
+    {
+      "url": "https://developers.webflow.com/data/examples",
+      "slug": "data-examples",
+      "file": "data-examples.md",
+      "scraped": true,
+      "word_count": 195
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/all-events",
+      "slug": "data-reference-all-events",
+      "file": "data-reference-all-events.md",
+      "scraped": true,
+      "word_count": 3906
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/assets/asset-folders/create-folder",
+      "slug": "data-reference-assets-asset-folders-create-folder",
+      "file": "data-reference-assets-asset-folders-create-folder.md",
+      "scraped": true,
+      "word_count": 290
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/assets/asset-folders/get-folder",
+      "slug": "data-reference-assets-asset-folders-get-folder",
+      "file": "data-reference-assets-asset-folders-get-folder.md",
+      "scraped": true,
+      "word_count": 261
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/assets/asset-folders/list-folders",
+      "slug": "data-reference-assets-asset-folders-list-folders",
+      "file": "data-reference-assets-asset-folders-list-folders.md",
+      "scraped": true,
+      "word_count": 197
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/assets/assets/create",
+      "slug": "data-reference-assets-assets-create",
+      "file": "data-reference-assets-assets-create.md",
+      "scraped": true,
+      "word_count": 353
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/assets/assets/delete",
+      "slug": "data-reference-assets-assets-delete",
+      "file": "data-reference-assets-assets-delete.md",
+      "scraped": true,
+      "word_count": 179
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/assets/assets/get",
+      "slug": "data-reference-assets-assets-get",
+      "file": "data-reference-assets-assets-get.md",
+      "scraped": true,
+      "word_count": 270
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/assets/assets/list",
+      "slug": "data-reference-assets-assets-list",
+      "file": "data-reference-assets-assets-list.md",
+      "scraped": true,
+      "word_count": 215
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/assets/assets/update",
+      "slug": "data-reference-assets-assets-update",
+      "file": "data-reference-assets-assets-update.md",
+      "scraped": true,
+      "word_count": 297
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms",
+      "slug": "data-reference-cms",
+      "file": "data-reference-cms.md",
+      "scraped": true,
+      "word_count": 1205
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-fields/create",
+      "slug": "data-reference-cms-collection-fields-create",
+      "file": "data-reference-cms-collection-fields-create.md",
+      "scraped": true,
+      "word_count": 251
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-fields/delete",
+      "slug": "data-reference-cms-collection-fields-delete",
+      "file": "data-reference-cms-collection-fields-delete.md",
+      "scraped": true,
+      "word_count": 198
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-fields/update",
+      "slug": "data-reference-cms-collection-fields-update",
+      "file": "data-reference-cms-collection-fields-update.md",
+      "scraped": true,
+      "word_count": 313
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/live-items/create-item-live",
+      "slug": "data-reference-cms-collection-items-live-items-create-item-live",
+      "file": "data-reference-cms-collection-items-live-items-create-item-live.md",
+      "scraped": true,
+      "word_count": 373
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/live-items/delete-item-live",
+      "slug": "data-reference-cms-collection-items-live-items-delete-item-live",
+      "file": "data-reference-cms-collection-items-live-items-delete-item-live.md",
+      "scraped": true,
+      "word_count": 234
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/live-items/delete-items-live",
+      "slug": "data-reference-cms-collection-items-live-items-delete-items-live",
+      "file": "data-reference-cms-collection-items-live-items-delete-items-live.md",
+      "scraped": true,
+      "word_count": 220
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/live-items/get-item-live",
+      "slug": "data-reference-cms-collection-items-live-items-get-item-live",
+      "file": "data-reference-cms-collection-items-live-items-get-item-live.md",
+      "scraped": true,
+      "word_count": 339
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/live-items/list-items-live",
+      "slug": "data-reference-cms-collection-items-live-items-list-items-live",
+      "file": "data-reference-cms-collection-items-live-items-list-items-live.md",
+      "scraped": true,
+      "word_count": 346
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/live-items/update-item-live",
+      "slug": "data-reference-cms-collection-items-live-items-update-item-live",
+      "file": "data-reference-cms-collection-items-live-items-update-item-live.md",
+      "scraped": true,
+      "word_count": 341
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/live-items/update-items-live",
+      "slug": "data-reference-cms-collection-items-live-items-update-items-live",
+      "file": "data-reference-cms-collection-items-live-items-update-items-live.md",
+      "scraped": true,
+      "word_count": 262
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/staged-items/create-item",
+      "slug": "data-reference-cms-collection-items-staged-items-create-item",
+      "file": "data-reference-cms-collection-items-staged-items-create-item.md",
+      "scraped": true,
+      "word_count": 363
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/staged-items/delete-item",
+      "slug": "data-reference-cms-collection-items-staged-items-delete-item",
+      "file": "data-reference-cms-collection-items-staged-items-delete-item.md",
+      "scraped": true,
+      "word_count": 219
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/staged-items/delete-items",
+      "slug": "data-reference-cms-collection-items-staged-items-delete-items",
+      "file": "data-reference-cms-collection-items-staged-items-delete-items.md",
+      "scraped": true,
+      "word_count": 211
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/staged-items/get-item",
+      "slug": "data-reference-cms-collection-items-staged-items-get-item",
+      "file": "data-reference-cms-collection-items-staged-items-get-item.md",
+      "scraped": true,
+      "word_count": 295
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/staged-items/list-items",
+      "slug": "data-reference-cms-collection-items-staged-items-list-items",
+      "file": "data-reference-cms-collection-items-staged-items-list-items.md",
+      "scraped": true,
+      "word_count": 303
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/staged-items/publish-item",
+      "slug": "data-reference-cms-collection-items-staged-items-publish-item",
+      "file": "data-reference-cms-collection-items-staged-items-publish-item.md",
+      "scraped": true,
+      "word_count": 225
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/staged-items/update-item",
+      "slug": "data-reference-cms-collection-items-staged-items-update-item",
+      "file": "data-reference-cms-collection-items-staged-items-update-item.md",
+      "scraped": true,
+      "word_count": 325
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collection-items/staged-items/update-items",
+      "slug": "data-reference-cms-collection-items-staged-items-update-items",
+      "file": "data-reference-cms-collection-items-staged-items-update-items.md",
+      "scraped": true,
+      "word_count": 323
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collections/create",
+      "slug": "data-reference-cms-collections-create",
+      "file": "data-reference-cms-collections-create.md",
+      "scraped": true,
+      "word_count": 359
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collections/delete",
+      "slug": "data-reference-cms-collections-delete",
+      "file": "data-reference-cms-collections-delete.md",
+      "scraped": true,
+      "word_count": 179
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collections/get",
+      "slug": "data-reference-cms-collections-get",
+      "file": "data-reference-cms-collections-get.md",
+      "scraped": true,
+      "word_count": 254
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/cms/collections/list",
+      "slug": "data-reference-cms-collections-list",
+      "file": "data-reference-cms-collections-list.md",
+      "scraped": true,
+      "word_count": 188
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/comments/get-comment-thread",
+      "slug": "data-reference-comments-get-comment-thread",
+      "file": "data-reference-comments-get-comment-thread.md",
+      "scraped": true,
+      "word_count": 390
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/comments/list-comment-replies",
+      "slug": "data-reference-comments-list-comment-replies",
+      "file": "data-reference-comments-list-comment-replies.md",
+      "scraped": true,
+      "word_count": 280
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/comments/list-comment-threads",
+      "slug": "data-reference-comments-list-comment-threads",
+      "file": "data-reference-comments-list-comment-threads.md",
+      "scraped": true,
+      "word_count": 271
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/custom-code/custom-code-pages/delete-custom-code",
+      "slug": "data-reference-custom-code-custom-code-pages-delete-custom-code",
+      "file": "data-reference-custom-code-custom-code-pages-delete-custom-code.md",
+      "scraped": true,
+      "word_count": 223
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/custom-code/custom-code-pages/get-custom-code",
+      "slug": "data-reference-custom-code-custom-code-pages-get-custom-code",
+      "file": "data-reference-custom-code-custom-code-pages-get-custom-code.md",
+      "scraped": true,
+      "word_count": 218
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/custom-code/custom-code-pages/upsert-custom-code",
+      "slug": "data-reference-custom-code-custom-code-pages-upsert-custom-code",
+      "file": "data-reference-custom-code-custom-code-pages-upsert-custom-code.md",
+      "scraped": true,
+      "word_count": 337
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/custom-code/custom-code-sites/delete-custom-code",
+      "slug": "data-reference-custom-code-custom-code-sites-delete-custom-code",
+      "file": "data-reference-custom-code-custom-code-sites-delete-custom-code.md",
+      "scraped": true,
+      "word_count": 223
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/custom-code/custom-code-sites/get-custom-code",
+      "slug": "data-reference-custom-code-custom-code-sites-get-custom-code",
+      "file": "data-reference-custom-code-custom-code-sites-get-custom-code.md",
+      "scraped": true,
+      "word_count": 274
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/custom-code/custom-code-sites/upsert-custom-code",
+      "slug": "data-reference-custom-code-custom-code-sites-upsert-custom-code",
+      "file": "data-reference-custom-code-custom-code-sites-upsert-custom-code.md",
+      "scraped": true,
+      "word_count": 336
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/custom-code/custom-code/list",
+      "slug": "data-reference-custom-code-custom-code-list",
+      "file": "data-reference-custom-code-custom-code-list.md",
+      "scraped": true,
+      "word_count": 260
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/custom-code/custom-code/list-custom-code-blocks",
+      "slug": "data-reference-custom-code-custom-code-list-custom-code-blocks",
+      "file": "data-reference-custom-code-custom-code-list-custom-code-blocks.md",
+      "scraped": true,
+      "word_count": 280
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/custom-code/custom-code/register-hosted",
+      "slug": "data-reference-custom-code-custom-code-register-hosted",
+      "file": "data-reference-custom-code-custom-code-register-hosted.md",
+      "scraped": true,
+      "word_count": 398
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/custom-code/custom-code/register-inline",
+      "slug": "data-reference-custom-code-custom-code-register-inline",
+      "file": "data-reference-custom-code-custom-code-register-inline.md",
+      "scraped": true,
+      "word_count": 418
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/inventory/list",
+      "slug": "data-reference-ecommerce-inventory-list",
+      "file": "data-reference-ecommerce-inventory-list.md",
+      "scraped": true,
+      "word_count": 234
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/inventory/update",
+      "slug": "data-reference-ecommerce-inventory-update",
+      "file": "data-reference-ecommerce-inventory-update.md",
+      "scraped": true,
+      "word_count": 306
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/orders/get",
+      "slug": "data-reference-ecommerce-orders-get",
+      "file": "data-reference-ecommerce-orders-get.md",
+      "scraped": true,
+      "word_count": 763
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/orders/list",
+      "slug": "data-reference-ecommerce-orders-list",
+      "file": "data-reference-ecommerce-orders-list.md",
+      "scraped": true,
+      "word_count": 239
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/orders/refund",
+      "slug": "data-reference-ecommerce-orders-refund",
+      "file": "data-reference-ecommerce-orders-refund.md",
+      "scraped": true,
+      "word_count": 786
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/orders/update",
+      "slug": "data-reference-ecommerce-orders-update",
+      "file": "data-reference-ecommerce-orders-update.md",
+      "scraped": true,
+      "word_count": 805
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/orders/update-fulfill",
+      "slug": "data-reference-ecommerce-orders-update-fulfill",
+      "file": "data-reference-ecommerce-orders-update-fulfill.md",
+      "scraped": true,
+      "word_count": 773
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/orders/update-unfulfill",
+      "slug": "data-reference-ecommerce-orders-update-unfulfill",
+      "file": "data-reference-ecommerce-orders-update-unfulfill.md",
+      "scraped": true,
+      "word_count": 754
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/products/create",
+      "slug": "data-reference-ecommerce-products-create",
+      "file": "data-reference-ecommerce-products-create.md",
+      "scraped": true,
+      "word_count": 375
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/products/create-sku",
+      "slug": "data-reference-ecommerce-products-create-sku",
+      "file": "data-reference-ecommerce-products-create-sku.md",
+      "scraped": true,
+      "word_count": 264
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/products/get",
+      "slug": "data-reference-ecommerce-products-get",
+      "file": "data-reference-ecommerce-products-get.md",
+      "scraped": true,
+      "word_count": 219
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/products/list",
+      "slug": "data-reference-ecommerce-products-list",
+      "file": "data-reference-ecommerce-products-list.md",
+      "scraped": true,
+      "word_count": 277
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/products/update",
+      "slug": "data-reference-ecommerce-products-update",
+      "file": "data-reference-ecommerce-products-update.md",
+      "scraped": true,
+      "word_count": 353
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/products/update-sku",
+      "slug": "data-reference-ecommerce-products-update-sku",
+      "file": "data-reference-ecommerce-products-update-sku.md",
+      "scraped": true,
+      "word_count": 303
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/ecommerce/settings/get-settings",
+      "slug": "data-reference-ecommerce-settings-get-settings",
+      "file": "data-reference-ecommerce-settings-get-settings.md",
+      "scraped": true,
+      "word_count": 212
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/site-activity-logs/list",
+      "slug": "data-reference-enterprise-site-activity-logs-list",
+      "file": "data-reference-enterprise-site-activity-logs-list.md",
+      "scraped": true,
+      "word_count": 226
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/site-configuration/301-redirects/create",
+      "slug": "data-reference-enterprise-site-configuration-301-redirects-create",
+      "file": "data-reference-enterprise-site-configuration-301-redirects-create.md",
+      "scraped": true,
+      "word_count": 290
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/site-configuration/301-redirects/delete",
+      "slug": "data-reference-enterprise-site-configuration-301-redirects-delete",
+      "file": "data-reference-enterprise-site-configuration-301-redirects-delete.md",
+      "scraped": true,
+      "word_count": 234
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/site-configuration/301-redirects/get",
+      "slug": "data-reference-enterprise-site-configuration-301-redirects-get",
+      "file": "data-reference-enterprise-site-configuration-301-redirects-get.md",
+      "scraped": true,
+      "word_count": 233
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/site-configuration/301-redirects/patch",
+      "slug": "data-reference-enterprise-site-configuration-301-redirects-patch",
+      "file": "data-reference-enterprise-site-configuration-301-redirects-patch.md",
+      "scraped": true,
+      "word_count": 256
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/site-configuration/robots-txt/delete",
+      "slug": "data-reference-enterprise-site-configuration-robots-txt-delete",
+      "file": "data-reference-enterprise-site-configuration-robots-txt-delete.md",
+      "scraped": true,
+      "word_count": 277
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/site-configuration/robots-txt/get",
+      "slug": "data-reference-enterprise-site-configuration-robots-txt-get",
+      "file": "data-reference-enterprise-site-configuration-robots-txt-get.md",
+      "scraped": true,
+      "word_count": 206
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/site-configuration/robots-txt/patch",
+      "slug": "data-reference-enterprise-site-configuration-robots-txt-patch",
+      "file": "data-reference-enterprise-site-configuration-robots-txt-patch.md",
+      "scraped": true,
+      "word_count": 231
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/site-configuration/robots-txt/put",
+      "slug": "data-reference-enterprise-site-configuration-robots-txt-put",
+      "file": "data-reference-enterprise-site-configuration-robots-txt-put.md",
+      "scraped": true,
+      "word_count": 231
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/site-configuration/well-known-files/delete",
+      "slug": "data-reference-enterprise-site-configuration-well-known-files-delete",
+      "file": "data-reference-enterprise-site-configuration-well-known-files-delete.md",
+      "scraped": true,
+      "word_count": 201
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/site-configuration/well-known-files/put",
+      "slug": "data-reference-enterprise-site-configuration-well-known-files-put",
+      "file": "data-reference-enterprise-site-configuration-well-known-files-put.md",
+      "scraped": true,
+      "word_count": 286
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/workspace-audit-logs/event-types",
+      "slug": "data-reference-enterprise-workspace-audit-logs-event-types",
+      "file": "data-reference-enterprise-workspace-audit-logs-event-types.md",
+      "scraped": true,
+      "word_count": 883
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/workspace-audit-logs/get",
+      "slug": "data-reference-enterprise-workspace-audit-logs-get",
+      "file": "data-reference-enterprise-workspace-audit-logs-get.md",
+      "scraped": true,
+      "word_count": 292
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/workspace-management/create",
+      "slug": "data-reference-enterprise-workspace-management-create",
+      "file": "data-reference-enterprise-workspace-management-create.md",
+      "scraped": true,
+      "word_count": 329
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/workspace-management/delete",
+      "slug": "data-reference-enterprise-workspace-management-delete",
+      "file": "data-reference-enterprise-workspace-management-delete.md",
+      "scraped": true,
+      "word_count": 188
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/workspace-management/get-site-plan",
+      "slug": "data-reference-enterprise-workspace-management-get-site-plan",
+      "file": "data-reference-enterprise-workspace-management-get-site-plan.md",
+      "scraped": true,
+      "word_count": 222
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/enterprise/workspace-management/update",
+      "slug": "data-reference-enterprise-workspace-management-update",
+      "file": "data-reference-enterprise-workspace-management-update.md",
+      "scraped": true,
+      "word_count": 342
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/error-handling",
+      "slug": "data-reference-error-handling",
+      "file": "data-reference-error-handling.md",
+      "scraped": true,
+      "word_count": 2546
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/field-types-item-values",
+      "slug": "data-reference-field-types-item-values",
+      "file": "data-reference-field-types-item-values.md",
+      "scraped": true,
+      "word_count": 1002
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/forms/form-submissions/delete-submission",
+      "slug": "data-reference-forms-form-submissions-delete-submission",
+      "file": "data-reference-forms-form-submissions-delete-submission.md",
+      "scraped": true,
+      "word_count": 181
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/forms/form-submissions/get-submission",
+      "slug": "data-reference-forms-form-submissions-get-submission",
+      "file": "data-reference-forms-form-submissions-get-submission.md",
+      "scraped": true,
+      "word_count": 249
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/forms/form-submissions/get-submission-by-site",
+      "slug": "data-reference-forms-form-submissions-get-submission-by-site",
+      "file": "data-reference-forms-form-submissions-get-submission-by-site.md",
+      "scraped": true,
+      "word_count": 259
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/forms/form-submissions/list-submissions",
+      "slug": "data-reference-forms-form-submissions-list-submissions",
+      "file": "data-reference-forms-form-submissions-list-submissions.md",
+      "scraped": true,
+      "word_count": 269
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/forms/form-submissions/list-submissions-by-site",
+      "slug": "data-reference-forms-form-submissions-list-submissions-by-site",
+      "file": "data-reference-forms-form-submissions-list-submissions-by-site.md",
+      "scraped": true,
+      "word_count": 260
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/forms/form-submissions/update-submission",
+      "slug": "data-reference-forms-form-submissions-update-submission",
+      "file": "data-reference-forms-form-submissions-update-submission.md",
+      "scraped": true,
+      "word_count": 275
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/forms/form-submissions/update-submission-by-site",
+      "slug": "data-reference-forms-form-submissions-update-submission-by-site",
+      "file": "data-reference-forms-form-submissions-update-submission-by-site.md",
+      "scraped": true,
+      "word_count": 286
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/forms/forms/get",
+      "slug": "data-reference-forms-forms-get",
+      "file": "data-reference-forms-forms-get.md",
+      "scraped": true,
+      "word_count": 328
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/forms/forms/list",
+      "slug": "data-reference-forms-forms-list",
+      "file": "data-reference-forms-forms-list.md",
+      "scraped": true,
+      "word_count": 220
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/forms/list-submissions-by-form-and-site",
+      "slug": "data-reference-forms-list-submissions-by-form-and-site",
+      "file": "data-reference-forms-list-submissions-by-form-and-site.md",
+      "scraped": true,
+      "word_count": 233
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/oauth-app",
+      "slug": "data-reference-oauth-app",
+      "file": "data-reference-oauth-app.md",
+      "scraped": true,
+      "word_count": 2693
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/pages-and-components/components/get-content",
+      "slug": "data-reference-pages-and-components-components-get-content",
+      "file": "data-reference-pages-and-components-components-get-content.md",
+      "scraped": true,
+      "word_count": 309
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/pages-and-components/components/get-properties",
+      "slug": "data-reference-pages-and-components-components-get-properties",
+      "file": "data-reference-pages-and-components-components-get-properties.md",
+      "scraped": true,
+      "word_count": 278
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/pages-and-components/components/list",
+      "slug": "data-reference-pages-and-components-components-list",
+      "file": "data-reference-pages-and-components-components-list.md",
+      "scraped": true,
+      "word_count": 230
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/pages-and-components/components/update-content",
+      "slug": "data-reference-pages-and-components-components-update-content",
+      "file": "data-reference-pages-and-components-components-update-content.md",
+      "scraped": true,
+      "word_count": 373
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/pages-and-components/components/update-properties",
+      "slug": "data-reference-pages-and-components-components-update-properties",
+      "file": "data-reference-pages-and-components-components-update-properties.md",
+      "scraped": true,
+      "word_count": 330
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/pages-and-components/pages/get-content",
+      "slug": "data-reference-pages-and-components-pages-get-content",
+      "file": "data-reference-pages-and-components-pages-get-content.md",
+      "scraped": true,
+      "word_count": 267
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/pages-and-components/pages/get-metadata",
+      "slug": "data-reference-pages-and-components-pages-get-metadata",
+      "file": "data-reference-pages-and-components-pages-get-metadata.md",
+      "scraped": true,
+      "word_count": 400
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/pages-and-components/pages/list",
+      "slug": "data-reference-pages-and-components-pages-list",
+      "file": "data-reference-pages-and-components-pages-list.md",
+      "scraped": true,
+      "word_count": 230
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/pages-and-components/pages/update-page-settings",
+      "slug": "data-reference-pages-and-components-pages-update-page-settings",
+      "file": "data-reference-pages-and-components-pages-update-page-settings.md",
+      "scraped": true,
+      "word_count": 454
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/pages-and-components/pages/update-static-content",
+      "slug": "data-reference-pages-and-components-pages-update-static-content",
+      "file": "data-reference-pages-and-components-pages-update-static-content.md",
+      "scraped": true,
+      "word_count": 341
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/rate-limits",
+      "slug": "data-reference-rate-limits",
+      "file": "data-reference-rate-limits.md",
+      "scraped": true,
+      "word_count": 735
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/rest-introduction",
+      "slug": "data-reference-rest-introduction",
+      "file": "data-reference-rest-introduction.md",
+      "scraped": true,
+      "word_count": 653
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/rest-introduction/quick-start",
+      "slug": "data-reference-rest-introduction-quick-start",
+      "file": "data-reference-rest-introduction-quick-start.md",
+      "scraped": true,
+      "word_count": 1305
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/scopes",
+      "slug": "data-reference-scopes",
+      "file": "data-reference-scopes.md",
+      "scraped": true,
+      "word_count": 546
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/sdks",
+      "slug": "data-reference-sdks",
+      "file": "data-reference-sdks.md",
+      "scraped": true,
+      "word_count": 174
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/sites/get",
+      "slug": "data-reference-sites-get",
+      "file": "data-reference-sites-get.md",
+      "scraped": true,
+      "word_count": 309
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/sites/get-custom-domain",
+      "slug": "data-reference-sites-get-custom-domain",
+      "file": "data-reference-sites-get-custom-domain.md",
+      "scraped": true,
+      "word_count": 186
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/sites/list",
+      "slug": "data-reference-sites-list",
+      "file": "data-reference-sites-list.md",
+      "scraped": true,
+      "word_count": 171
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/sites/publish",
+      "slug": "data-reference-sites-publish",
+      "file": "data-reference-sites-publish.md",
+      "scraped": true,
+      "word_count": 267
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/structure-1",
+      "slug": "data-reference-structure-1",
+      "file": "data-reference-structure-1.md",
+      "scraped": true,
+      "word_count": 380
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/token/introspect",
+      "slug": "data-reference-token-introspect",
+      "file": "data-reference-token-introspect.md",
+      "scraped": true,
+      "word_count": 186
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/users/access-groups/list",
+      "slug": "data-reference-users-access-groups-list",
+      "file": "data-reference-users-access-groups-list.md",
+      "scraped": true,
+      "word_count": 284
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/users/users/delete",
+      "slug": "data-reference-users-users-delete",
+      "file": "data-reference-users-users-delete.md",
+      "scraped": true,
+      "word_count": 188
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/users/users/get",
+      "slug": "data-reference-users-users-get",
+      "file": "data-reference-users-users-get.md",
+      "scraped": true,
+      "word_count": 286
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/users/users/invite",
+      "slug": "data-reference-users-users-invite",
+      "file": "data-reference-users-users-invite.md",
+      "scraped": true,
+      "word_count": 355
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/users/users/list",
+      "slug": "data-reference-users-users-list",
+      "file": "data-reference-users-users-list.md",
+      "scraped": true,
+      "word_count": 288
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/users/users/update",
+      "slug": "data-reference-users-users-update",
+      "file": "data-reference-users-users-update.md",
+      "scraped": true,
+      "word_count": 330
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/versioning",
+      "slug": "data-reference-versioning",
+      "file": "data-reference-versioning.md",
+      "scraped": true,
+      "word_count": 244
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/create",
+      "slug": "data-reference-webhooks-create",
+      "file": "data-reference-webhooks-create.md",
+      "scraped": true,
+      "word_count": 384
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/delete",
+      "slug": "data-reference-webhooks-delete",
+      "file": "data-reference-webhooks-delete.md",
+      "scraped": true,
+      "word_count": 190
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/collection-item-changed",
+      "slug": "data-reference-webhooks-events-collection-item-changed",
+      "file": "data-reference-webhooks-events-collection-item-changed.md",
+      "scraped": true,
+      "word_count": 160
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/collection-item-created",
+      "slug": "data-reference-webhooks-events-collection-item-created",
+      "file": "data-reference-webhooks-events-collection-item-created.md",
+      "scraped": true,
+      "word_count": 160
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/collection-item-deleted",
+      "slug": "data-reference-webhooks-events-collection-item-deleted",
+      "file": "data-reference-webhooks-events-collection-item-deleted.md",
+      "scraped": true,
+      "word_count": 165
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/collection-item-published",
+      "slug": "data-reference-webhooks-events-collection-item-published",
+      "file": "data-reference-webhooks-events-collection-item-published.md",
+      "scraped": true,
+      "word_count": 167
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/collection-item-unpublished",
+      "slug": "data-reference-webhooks-events-collection-item-unpublished",
+      "file": "data-reference-webhooks-events-collection-item-unpublished.md",
+      "scraped": true,
+      "word_count": 171
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/comment-created",
+      "slug": "data-reference-webhooks-events-comment-created",
+      "file": "data-reference-webhooks-events-comment-created.md",
+      "scraped": true,
+      "word_count": 225
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/ecomm-inventory-changed",
+      "slug": "data-reference-webhooks-events-ecomm-inventory-changed",
+      "file": "data-reference-webhooks-events-ecomm-inventory-changed.md",
+      "scraped": true,
+      "word_count": 158
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/ecomm-new-order",
+      "slug": "data-reference-webhooks-events-ecomm-new-order",
+      "file": "data-reference-webhooks-events-ecomm-new-order.md",
+      "scraped": true,
+      "word_count": 158
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/ecomm-order-changed",
+      "slug": "data-reference-webhooks-events-ecomm-order-changed",
+      "file": "data-reference-webhooks-events-ecomm-order-changed.md",
+      "scraped": true,
+      "word_count": 158
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/form-submission",
+      "slug": "data-reference-webhooks-events-form-submission",
+      "file": "data-reference-webhooks-events-form-submission.md",
+      "scraped": true,
+      "word_count": 166
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/page-created",
+      "slug": "data-reference-webhooks-events-page-created",
+      "file": "data-reference-webhooks-events-page-created.md",
+      "scraped": true,
+      "word_count": 164
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/page-deleted",
+      "slug": "data-reference-webhooks-events-page-deleted",
+      "file": "data-reference-webhooks-events-page-deleted.md",
+      "scraped": true,
+      "word_count": 166
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/page-metadata-updated",
+      "slug": "data-reference-webhooks-events-page-metadata-updated",
+      "file": "data-reference-webhooks-events-page-metadata-updated.md",
+      "scraped": true,
+      "word_count": 167
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/site-publish",
+      "slug": "data-reference-webhooks-events-site-publish",
+      "file": "data-reference-webhooks-events-site-publish.md",
+      "scraped": true,
+      "word_count": 166
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/user-account-added",
+      "slug": "data-reference-webhooks-events-user-account-added",
+      "file": "data-reference-webhooks-events-user-account-added.md",
+      "scraped": true,
+      "word_count": 190
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/user-account-deleted",
+      "slug": "data-reference-webhooks-events-user-account-deleted",
+      "file": "data-reference-webhooks-events-user-account-deleted.md",
+      "scraped": true,
+      "word_count": 190
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/events/user-account-updated",
+      "slug": "data-reference-webhooks-events-user-account-updated",
+      "file": "data-reference-webhooks-events-user-account-updated.md",
+      "scraped": true,
+      "word_count": 190
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/get",
+      "slug": "data-reference-webhooks-get",
+      "file": "data-reference-webhooks-get.md",
+      "scraped": true,
+      "word_count": 305
+    },
+    {
+      "url": "https://developers.webflow.com/data/reference/webhooks/list",
+      "slug": "data-reference-webhooks-list",
+      "file": "data-reference-webhooks-list.md",
+      "scraped": true,
+      "word_count": 209
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/changelog",
+      "slug": "data-v1-0-0-changelog",
+      "file": "data-v1-0-0-changelog.md",
+      "scraped": true,
+      "word_count": 3475
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/docs/get-a-site-token",
+      "slug": "data-v1-0-0-docs-get-a-site-token",
+      "file": "data-v1-0-0-docs-get-a-site-token.md",
+      "scraped": true,
+      "word_count": 997
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/cms/collections/get-collection",
+      "slug": "data-v1-0-0-reference-cms-collections-get-collection",
+      "file": "data-v1-0-0-reference-cms-collections-get-collection.md",
+      "scraped": true,
+      "word_count": 269
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/cms/collections/list-collections",
+      "slug": "data-v1-0-0-reference-cms-collections-list-collections",
+      "file": "data-v1-0-0-reference-cms-collections-list-collections.md",
+      "scraped": true,
+      "word_count": 271
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/cms/items/collection-item-changed",
+      "slug": "data-v1-0-0-reference-cms-items-collection-item-changed",
+      "file": "data-v1-0-0-reference-cms-items-collection-item-changed.md",
+      "scraped": true,
+      "word_count": 223
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/cms/items/collection-item-created",
+      "slug": "data-v1-0-0-reference-cms-items-collection-item-created",
+      "file": "data-v1-0-0-reference-cms-items-collection-item-created.md",
+      "scraped": true,
+      "word_count": 223
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/cms/items/collection-item-deleted",
+      "slug": "data-v1-0-0-reference-cms-items-collection-item-deleted",
+      "file": "data-v1-0-0-reference-cms-items-collection-item-deleted.md",
+      "scraped": true,
+      "word_count": 171
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/cms/items/collection-item-unpublished",
+      "slug": "data-v1-0-0-reference-cms-items-collection-item-unpublished",
+      "file": "data-v1-0-0-reference-cms-items-collection-item-unpublished.md",
+      "scraped": true,
+      "word_count": 171
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/cms/items/create-item",
+      "slug": "data-v1-0-0-reference-cms-items-create-item",
+      "file": "data-v1-0-0-reference-cms-items-create-item.md",
+      "scraped": true,
+      "word_count": 338
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/cms/items/get-item",
+      "slug": "data-v1-0-0-reference-cms-items-get-item",
+      "file": "data-v1-0-0-reference-cms-items-get-item.md",
+      "scraped": true,
+      "word_count": 251
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/cms/items/list-items",
+      "slug": "data-v1-0-0-reference-cms-items-list-items",
+      "file": "data-v1-0-0-reference-cms-items-list-items.md",
+      "scraped": true,
+      "word_count": 271
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/cms/items/patch-item",
+      "slug": "data-v1-0-0-reference-cms-items-patch-item",
+      "file": "data-v1-0-0-reference-cms-items-patch-item.md",
+      "scraped": true,
+      "word_count": 340
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/cms/items/publish-items",
+      "slug": "data-v1-0-0-reference-cms-items-publish-items",
+      "file": "data-v1-0-0-reference-cms-items-publish-items.md",
+      "scraped": true,
+      "word_count": 226
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/cms/items/remove-item",
+      "slug": "data-v1-0-0-reference-cms-items-remove-item",
+      "file": "data-v1-0-0-reference-cms-items-remove-item.md",
+      "scraped": true,
+      "word_count": 246
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/cms/items/remove-items",
+      "slug": "data-v1-0-0-reference-cms-items-remove-items",
+      "file": "data-v1-0-0-reference-cms-items-remove-items.md",
+      "scraped": true,
+      "word_count": 270
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/cms/items/update-item",
+      "slug": "data-v1-0-0-reference-cms-items-update-item",
+      "file": "data-v1-0-0-reference-cms-items-update-item.md",
+      "scraped": true,
+      "word_count": 337
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/collection_item_changed",
+      "slug": "data-v1-0-0-reference-collection-item-changed",
+      "file": "data-v1-0-0-reference-collection-item-changed.md",
+      "scraped": true,
+      "word_count": 296
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/collection_item_created",
+      "slug": "data-v1-0-0-reference-collection-item-created",
+      "file": "data-v1-0-0-reference-collection-item-created.md",
+      "scraped": true,
+      "word_count": 296
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/collection_item_deleted",
+      "slug": "data-v1-0-0-reference-collection-item-deleted",
+      "file": "data-v1-0-0-reference-collection-item-deleted.md",
+      "scraped": true,
+      "word_count": 183
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/collection_item_unpublished",
+      "slug": "data-v1-0-0-reference-collection-item-unpublished",
+      "file": "data-v1-0-0-reference-collection-item-unpublished.md",
+      "scraped": true,
+      "word_count": 183
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecomm_inventory_changed",
+      "slug": "data-v1-0-0-reference-ecomm-inventory-changed",
+      "file": "data-v1-0-0-reference-ecomm-inventory-changed.md",
+      "scraped": true,
+      "word_count": 195
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecomm_new_order",
+      "slug": "data-v1-0-0-reference-ecomm-new-order",
+      "file": "data-v1-0-0-reference-ecomm-new-order.md",
+      "scraped": true,
+      "word_count": 1044
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecomm_order_changed",
+      "slug": "data-v1-0-0-reference-ecomm-order-changed",
+      "file": "data-v1-0-0-reference-ecomm-order-changed.md",
+      "scraped": true,
+      "word_count": 1044
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/inventory/ecomm-inventory-changed",
+      "slug": "data-v1-0-0-reference-ecommerce-inventory-ecomm-inventory-changed",
+      "file": "data-v1-0-0-reference-ecommerce-inventory-ecomm-inventory-changed.md",
+      "scraped": true,
+      "word_count": 178
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/inventory/list-inventory",
+      "slug": "data-v1-0-0-reference-ecommerce-inventory-list-inventory",
+      "file": "data-v1-0-0-reference-ecommerce-inventory-list-inventory.md",
+      "scraped": true,
+      "word_count": 233
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/inventory/update-inventory",
+      "slug": "data-v1-0-0-reference-ecommerce-inventory-update-inventory",
+      "file": "data-v1-0-0-reference-ecommerce-inventory-update-inventory.md",
+      "scraped": true,
+      "word_count": 288
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/orders/ecomm-new-order",
+      "slug": "data-v1-0-0-reference-ecommerce-orders-ecomm-new-order",
+      "file": "data-v1-0-0-reference-ecommerce-orders-ecomm-new-order.md",
+      "scraped": true,
+      "word_count": 567
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/orders/ecomm-order-changed",
+      "slug": "data-v1-0-0-reference-ecommerce-orders-ecomm-order-changed",
+      "file": "data-v1-0-0-reference-ecommerce-orders-ecomm-order-changed.md",
+      "scraped": true,
+      "word_count": 567
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/orders/fulfill-order",
+      "slug": "data-v1-0-0-reference-ecommerce-orders-fulfill-order",
+      "file": "data-v1-0-0-reference-ecommerce-orders-fulfill-order.md",
+      "scraped": true,
+      "word_count": 681
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/orders/get-order",
+      "slug": "data-v1-0-0-reference-ecommerce-orders-get-order",
+      "file": "data-v1-0-0-reference-ecommerce-orders-get-order.md",
+      "scraped": true,
+      "word_count": 690
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/orders/list-orders",
+      "slug": "data-v1-0-0-reference-ecommerce-orders-list-orders",
+      "file": "data-v1-0-0-reference-ecommerce-orders-list-orders.md",
+      "scraped": true,
+      "word_count": 694
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/orders/refund-order",
+      "slug": "data-v1-0-0-reference-ecommerce-orders-refund-order",
+      "file": "data-v1-0-0-reference-ecommerce-orders-refund-order.md",
+      "scraped": true,
+      "word_count": 680
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/orders/unfulfill-order",
+      "slug": "data-v1-0-0-reference-ecommerce-orders-unfulfill-order",
+      "file": "data-v1-0-0-reference-ecommerce-orders-unfulfill-order.md",
+      "scraped": true,
+      "word_count": 662
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/orders/update-order",
+      "slug": "data-v1-0-0-reference-ecommerce-orders-update-order",
+      "file": "data-v1-0-0-reference-ecommerce-orders-update-order.md",
+      "scraped": true,
+      "word_count": 691
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/products-sk-us/create-product",
+      "slug": "data-v1-0-0-reference-ecommerce-products-sk-us-create-product",
+      "file": "data-v1-0-0-reference-ecommerce-products-sk-us-create-product.md",
+      "scraped": true,
+      "word_count": 423
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/products-sk-us/create-skus",
+      "slug": "data-v1-0-0-reference-ecommerce-products-sk-us-create-skus",
+      "file": "data-v1-0-0-reference-ecommerce-products-sk-us-create-skus.md",
+      "scraped": true,
+      "word_count": 307
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/products-sk-us/get-product",
+      "slug": "data-v1-0-0-reference-ecommerce-products-sk-us-get-product",
+      "file": "data-v1-0-0-reference-ecommerce-products-sk-us-get-product.md",
+      "scraped": true,
+      "word_count": 279
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/products-sk-us/list-products",
+      "slug": "data-v1-0-0-reference-ecommerce-products-sk-us-list-products",
+      "file": "data-v1-0-0-reference-ecommerce-products-sk-us-list-products.md",
+      "scraped": true,
+      "word_count": 317
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/products-sk-us/update-product",
+      "slug": "data-v1-0-0-reference-ecommerce-products-sk-us-update-product",
+      "file": "data-v1-0-0-reference-ecommerce-products-sk-us-update-product.md",
+      "scraped": true,
+      "word_count": 340
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/products-sk-us/update-sku",
+      "slug": "data-v1-0-0-reference-ecommerce-products-sk-us-update-sku",
+      "file": "data-v1-0-0-reference-ecommerce-products-sk-us-update-sku.md",
+      "scraped": true,
+      "word_count": 346
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/ecommerce/settings/ecommerce-settings",
+      "slug": "data-v1-0-0-reference-ecommerce-settings-ecommerce-settings",
+      "file": "data-v1-0-0-reference-ecommerce-settings-ecommerce-settings.md",
+      "scraped": true,
+      "word_count": 224
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/form_submission",
+      "slug": "data-v1-0-0-reference-form-submission",
+      "file": "data-v1-0-0-reference-form-submission.md",
+      "scraped": true,
+      "word_count": 234
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/memberships_user_account_added",
+      "slug": "data-v1-0-0-reference-memberships-user-account-added",
+      "file": "data-v1-0-0-reference-memberships-user-account-added.md",
+      "scraped": true,
+      "word_count": 304
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/memberships_user_account_updated",
+      "slug": "data-v1-0-0-reference-memberships-user-account-updated",
+      "file": "data-v1-0-0-reference-memberships-user-account-updated.md",
+      "scraped": true,
+      "word_count": 304
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/meta/get-authorized-info",
+      "slug": "data-v1-0-0-reference-meta-get-authorized-info",
+      "file": "data-v1-0-0-reference-meta-get-authorized-info.md",
+      "scraped": true,
+      "word_count": 278
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/meta/get-authorized-user",
+      "slug": "data-v1-0-0-reference-meta-get-authorized-user",
+      "file": "data-v1-0-0-reference-meta-get-authorized-user.md",
+      "scraped": true,
+      "word_count": 213
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/site_publish",
+      "slug": "data-v1-0-0-reference-site-publish",
+      "file": "data-v1-0-0-reference-site-publish.md",
+      "scraped": true,
+      "word_count": 252
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/sites/sites/form-submission",
+      "slug": "data-v1-0-0-reference-sites-sites-form-submission",
+      "file": "data-v1-0-0-reference-sites-sites-form-submission.md",
+      "scraped": true,
+      "word_count": 195
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/sites/sites/get-site",
+      "slug": "data-v1-0-0-reference-sites-sites-get-site",
+      "file": "data-v1-0-0-reference-sites-sites-get-site.md",
+      "scraped": true,
+      "word_count": 252
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/sites/sites/list-domains",
+      "slug": "data-v1-0-0-reference-sites-sites-list-domains",
+      "file": "data-v1-0-0-reference-sites-sites-list-domains.md",
+      "scraped": true,
+      "word_count": 208
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/sites/sites/list-sites",
+      "slug": "data-v1-0-0-reference-sites-sites-list-sites",
+      "file": "data-v1-0-0-reference-sites-sites-list-sites.md",
+      "scraped": true,
+      "word_count": 248
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/sites/sites/publish-site",
+      "slug": "data-v1-0-0-reference-sites-sites-publish-site",
+      "file": "data-v1-0-0-reference-sites-sites-publish-site.md",
+      "scraped": true,
+      "word_count": 216
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/sites/sites/site-publish",
+      "slug": "data-v1-0-0-reference-sites-sites-site-publish",
+      "file": "data-v1-0-0-reference-sites-sites-site-publish.md",
+      "scraped": true,
+      "word_count": 187
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/sites/webhooks/create-webhook",
+      "slug": "data-v1-0-0-reference-sites-webhooks-create-webhook",
+      "file": "data-v1-0-0-reference-sites-webhooks-create-webhook.md",
+      "scraped": true,
+      "word_count": 493
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/sites/webhooks/get-webhook",
+      "slug": "data-v1-0-0-reference-sites-webhooks-get-webhook",
+      "file": "data-v1-0-0-reference-sites-webhooks-get-webhook.md",
+      "scraped": true,
+      "word_count": 356
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/sites/webhooks/list-webhooks",
+      "slug": "data-v1-0-0-reference-sites-webhooks-list-webhooks",
+      "file": "data-v1-0-0-reference-sites-webhooks-list-webhooks.md",
+      "scraped": true,
+      "word_count": 353
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/sites/webhooks/remove-webhook",
+      "slug": "data-v1-0-0-reference-sites-webhooks-remove-webhook",
+      "file": "data-v1-0-0-reference-sites-webhooks-remove-webhook.md",
+      "scraped": true,
+      "word_count": 203
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/user-account-deleted",
+      "slug": "data-v1-0-0-reference-user-account-deleted",
+      "file": "data-v1-0-0-reference-user-account-deleted.md",
+      "scraped": true,
+      "word_count": 303
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/user-accounts/access-groups/list-access-groups",
+      "slug": "data-v1-0-0-reference-user-accounts-access-groups-list-access-groups",
+      "file": "data-v1-0-0-reference-user-accounts-access-groups-list-access-groups.md",
+      "scraped": true,
+      "word_count": 298
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/user-accounts/access-groups/update-user-access-groups",
+      "slug": "data-v1-0-0-reference-user-accounts-access-groups-update-user-access-groups",
+      "file": "data-v1-0-0-reference-user-accounts-access-groups-update-user-access-groups.md",
+      "scraped": true,
+      "word_count": 332
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/user-accounts/users/delete-user",
+      "slug": "data-v1-0-0-reference-user-accounts-users-delete-user",
+      "file": "data-v1-0-0-reference-user-accounts-users-delete-user.md",
+      "scraped": true,
+      "word_count": 205
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/user-accounts/users/get-user",
+      "slug": "data-v1-0-0-reference-user-accounts-users-get-user",
+      "file": "data-v1-0-0-reference-user-accounts-users-get-user.md",
+      "scraped": true,
+      "word_count": 297
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/user-accounts/users/invite-user",
+      "slug": "data-v1-0-0-reference-user-accounts-users-invite-user",
+      "file": "data-v1-0-0-reference-user-accounts-users-invite-user.md",
+      "scraped": true,
+      "word_count": 336
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/user-accounts/users/list-users",
+      "slug": "data-v1-0-0-reference-user-accounts-users-list-users",
+      "file": "data-v1-0-0-reference-user-accounts-users-list-users.md",
+      "scraped": true,
+      "word_count": 302
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/user-accounts/users/memberships-user-account-added",
+      "slug": "data-v1-0-0-reference-user-accounts-users-memberships-user-account-added",
+      "file": "data-v1-0-0-reference-user-accounts-users-memberships-user-account-added.md",
+      "scraped": true,
+      "word_count": 235
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/user-accounts/users/memberships-user-account-deleted",
+      "slug": "data-v1-0-0-reference-user-accounts-users-memberships-user-account-deleted",
+      "file": "data-v1-0-0-reference-user-accounts-users-memberships-user-account-deleted.md",
+      "scraped": true,
+      "word_count": 235
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/user-accounts/users/memberships-user-account-updated",
+      "slug": "data-v1-0-0-reference-user-accounts-users-memberships-user-account-updated",
+      "file": "data-v1-0-0-reference-user-accounts-users-memberships-user-account-updated.md",
+      "scraped": true,
+      "word_count": 235
+    },
+    {
+      "url": "https://developers.webflow.com/data/v1.0.0/reference/user-accounts/users/update-user",
+      "slug": "data-v1-0-0-reference-user-accounts-users-update-user",
+      "file": "data-v1-0-0-reference-user-accounts-users-update-user.md",
+      "scraped": true,
+      "word_count": 308
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/apps/docs/marketplace-guidelines",
+      "slug": "data-v2-0-0-beta-apps-docs-marketplace-guidelines",
+      "file": "data-v2-0-0-beta-apps-docs-marketplace-guidelines.md",
+      "scraped": true,
+      "word_count": 1730
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/apps/docs/private-apps",
+      "slug": "data-v2-0-0-beta-apps-docs-private-apps",
+      "file": "data-v2-0-0-beta-apps-docs-private-apps.md",
+      "scraped": true,
+      "word_count": 513
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/changelog",
+      "slug": "data-v2-0-0-beta-changelog",
+      "file": "data-v2-0-0-beta-changelog.md",
+      "scraped": true,
+      "word_count": 1968
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/changelog/08082025",
+      "slug": "data-v2-0-0-beta-changelog-08082025",
+      "file": "data-v2-0-0-beta-changelog-08082025.md",
+      "scraped": true,
+      "word_count": 187
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/changelog/2024/10/1",
+      "slug": "data-v2-0-0-beta-changelog-2024-10-1",
+      "file": "data-v2-0-0-beta-changelog-2024-10-1.md",
+      "scraped": true,
+      "word_count": 256
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/changelog/2024/11/21",
+      "slug": "data-v2-0-0-beta-changelog-2024-11-21",
+      "file": "data-v2-0-0-beta-changelog-2024-11-21.md",
+      "scraped": true,
+      "word_count": 137
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/changelog/2024/12/17",
+      "slug": "data-v2-0-0-beta-changelog-2024-12-17",
+      "file": "data-v2-0-0-beta-changelog-2024-12-17.md",
+      "scraped": true,
+      "word_count": 274
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/changelog/2024/2/22",
+      "slug": "data-v2-0-0-beta-changelog-2024-2-22",
+      "file": "data-v2-0-0-beta-changelog-2024-2-22.md",
+      "scraped": true,
+      "word_count": 195
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/changelog/2024/7/25",
+      "slug": "data-v2-0-0-beta-changelog-2024-7-25",
+      "file": "data-v2-0-0-beta-changelog-2024-7-25.md",
+      "scraped": true,
+      "word_count": 99
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/changelog/2024/8/22",
+      "slug": "data-v2-0-0-beta-changelog-2024-8-22",
+      "file": "data-v2-0-0-beta-changelog-2024-8-22.md",
+      "scraped": true,
+      "word_count": 302
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/changelog/2024/8/9",
+      "slug": "data-v2-0-0-beta-changelog-2024-8-9",
+      "file": "data-v2-0-0-beta-changelog-2024-8-9.md",
+      "scraped": true,
+      "word_count": 61
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/changelog/2024/9/17",
+      "slug": "data-v2-0-0-beta-changelog-2024-9-17",
+      "file": "data-v2-0-0-beta-changelog-2024-9-17.md",
+      "scraped": true,
+      "word_count": 429
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/changelog/2025/1/16",
+      "slug": "data-v2-0-0-beta-changelog-2025-1-16",
+      "file": "data-v2-0-0-beta-changelog-2025-1-16.md",
+      "scraped": true,
+      "word_count": 127
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/changelog/2025/2/5",
+      "slug": "data-v2-0-0-beta-changelog-2025-2-5",
+      "file": "data-v2-0-0-beta-changelog-2025-2-5.md",
+      "scraped": true,
+      "word_count": 138
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/changelog/2025/3/12",
+      "slug": "data-v2-0-0-beta-changelog-2025-3-12",
+      "file": "data-v2-0-0-beta-changelog-2025-3-12.md",
+      "scraped": true,
+      "word_count": 95
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/changelog/2025/5/8",
+      "slug": "data-v2-0-0-beta-changelog-2025-5-8",
+      "file": "data-v2-0-0-beta-changelog-2025-5-8.md",
+      "scraped": true,
+      "word_count": 48
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/deep-linking",
+      "slug": "data-v2-0-0-beta-deep-linking",
+      "file": "data-v2-0-0-beta-deep-linking.md",
+      "scraped": true,
+      "word_count": 231
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/designer/docs/design-guidelines",
+      "slug": "data-v2-0-0-beta-designer-docs-design-guidelines",
+      "file": "data-v2-0-0-beta-designer-docs-design-guidelines.md",
+      "scraped": true,
+      "word_count": 1087
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/docs/app-metrics",
+      "slug": "data-v2-0-0-beta-docs-app-metrics",
+      "file": "data-v2-0-0-beta-docs-app-metrics.md",
+      "scraped": true,
+      "word_count": 279
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/docs/cms-tutorial",
+      "slug": "data-v2-0-0-beta-docs-cms-tutorial",
+      "file": "data-v2-0-0-beta-docs-cms-tutorial.md",
+      "scraped": true,
+      "word_count": 4157
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/docs/designer-extensions",
+      "slug": "data-v2-0-0-beta-docs-designer-extensions",
+      "file": "data-v2-0-0-beta-docs-designer-extensions.md",
+      "scraped": true,
+      "word_count": 853
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/docs/designer-extensions/getting-started",
+      "slug": "data-v2-0-0-beta-docs-designer-extensions-getting-started",
+      "file": "data-v2-0-0-beta-docs-designer-extensions-getting-started.md",
+      "scraped": true,
+      "word_count": 1163
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/docs/faqs-and-troubleshooting",
+      "slug": "data-v2-0-0-beta-docs-faqs-and-troubleshooting",
+      "file": "data-v2-0-0-beta-docs-faqs-and-troubleshooting.md",
+      "scraped": true,
+      "word_count": 633
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/docs/getting-started-apps",
+      "slug": "data-v2-0-0-beta-docs-getting-started-apps",
+      "file": "data-v2-0-0-beta-docs-getting-started-apps.md",
+      "scraped": true,
+      "word_count": 382
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/docs/hybrid-apps",
+      "slug": "data-v2-0-0-beta-docs-hybrid-apps",
+      "file": "data-v2-0-0-beta-docs-hybrid-apps.md",
+      "scraped": true,
+      "word_count": 71
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/docs/localizing-components-beta",
+      "slug": "data-v2-0-0-beta-docs-localizing-components-beta",
+      "file": "data-v2-0-0-beta-docs-localizing-components-beta.md",
+      "scraped": true,
+      "word_count": 1643
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/docs/marketing-your-app",
+      "slug": "data-v2-0-0-beta-docs-marketing-your-app",
+      "file": "data-v2-0-0-beta-docs-marketing-your-app.md",
+      "scraped": true,
+      "word_count": 1064
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/docs/marketplace/listing-your-app",
+      "slug": "data-v2-0-0-beta-docs-marketplace-listing-your-app",
+      "file": "data-v2-0-0-beta-docs-marketplace-listing-your-app.md",
+      "scraped": true,
+      "word_count": 972
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/docs/marketplace/overview",
+      "slug": "data-v2-0-0-beta-docs-marketplace-overview",
+      "file": "data-v2-0-0-beta-docs-marketplace-overview.md",
+      "scraped": true,
+      "word_count": 476
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/docs/marketplace/submitting-your-app",
+      "slug": "data-v2-0-0-beta-docs-marketplace-submitting-your-app",
+      "file": "data-v2-0-0-beta-docs-marketplace-submitting-your-app.md",
+      "scraped": true,
+      "word_count": 1269
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/docs/publishing-your-app",
+      "slug": "data-v2-0-0-beta-docs-publishing-your-app",
+      "file": "data-v2-0-0-beta-docs-publishing-your-app.md",
+      "scraped": true,
+      "word_count": 892
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/reference/all-events",
+      "slug": "data-v2-0-0-beta-reference-all-events",
+      "file": "data-v2-0-0-beta-reference-all-events.md",
+      "scraped": true,
+      "word_count": 3591
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/reference/app-subscriptions/app-subscriptions",
+      "slug": "data-v2-0-0-beta-reference-app-subscriptions-app-subscriptions",
+      "file": "data-v2-0-0-beta-reference-app-subscriptions-app-subscriptions.md",
+      "scraped": true,
+      "word_count": 62
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/reference/cms/collection-items/staged-items/create-items",
+      "slug": "data-v2-0-0-beta-reference-cms-collection-items-staged-items-create-items",
+      "file": "data-v2-0-0-beta-reference-cms-collection-items-staged-items-create-items.md",
+      "scraped": true,
+      "word_count": 246
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/reference/enterprise/site-configuration/llms-txt/delete",
+      "slug": "data-v2-0-0-beta-reference-enterprise-site-configuration-llms-txt-delete",
+      "file": "data-v2-0-0-beta-reference-enterprise-site-configuration-llms-txt-delete.md",
+      "scraped": true,
+      "word_count": 71
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/reference/enterprise/site-configuration/llms-txt/get",
+      "slug": "data-v2-0-0-beta-reference-enterprise-site-configuration-llms-txt-get",
+      "file": "data-v2-0-0-beta-reference-enterprise-site-configuration-llms-txt-get.md",
+      "scraped": true,
+      "word_count": 80
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/reference/enterprise/site-configuration/llms-txt/patch",
+      "slug": "data-v2-0-0-beta-reference-enterprise-site-configuration-llms-txt-patch",
+      "file": "data-v2-0-0-beta-reference-enterprise-site-configuration-llms-txt-patch.md",
+      "scraped": true,
+      "word_count": 94
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0-beta/reference/token/resolve",
+      "slug": "data-v2-0-0-beta-reference-token-resolve",
+      "file": "data-v2-0-0-beta-reference-token-resolve.md",
+      "scraped": true,
+      "word_count": 117
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0/changelog",
+      "slug": "data-v2-0-0-changelog",
+      "file": "data-v2-0-0-changelog.md",
+      "scraped": true,
+      "word_count": 3345
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0/reference/field-types-item-values",
+      "slug": "data-v2-0-0-reference-field-types-item-values",
+      "file": "data-v2-0-0-reference-field-types-item-values.md",
+      "scraped": true,
+      "word_count": 890
+    },
+    {
+      "url": "https://developers.webflow.com/data/v2.0.0/reference/rest-introduction",
+      "slug": "data-v2-0-0-reference-rest-introduction",
+      "file": "data-v2-0-0-reference-rest-introduction.md",
+      "scraped": true,
+      "word_count": 541
+    },
+    {
+      "url": "https://developers.webflow.com/designer-api-new-version",
+      "slug": "designer-api-new-version",
+      "file": "designer-api-new-version.md",
+      "scraped": true,
+      "word_count": 356
+    },
+    {
+      "url": "https://developers.webflow.com/designer/01162025",
+      "slug": "designer-01162025",
+      "file": "designer-01162025.md",
+      "scraped": true,
+      "word_count": 152
+    },
+    {
+      "url": "https://developers.webflow.com/designer/02062025",
+      "slug": "designer-02062025",
+      "file": "designer-02062025.md",
+      "scraped": true,
+      "word_count": 213
+    },
+    {
+      "url": "https://developers.webflow.com/designer/02282025",
+      "slug": "designer-02282025",
+      "file": "designer-02282025.md",
+      "scraped": true,
+      "word_count": 213
+    },
+    {
+      "url": "https://developers.webflow.com/designer/03122025",
+      "slug": "designer-03122025",
+      "file": "designer-03122025.md",
+      "scraped": true,
+      "word_count": 265
+    },
+    {
+      "url": "https://developers.webflow.com/designer/04082025",
+      "slug": "designer-04082025",
+      "file": "designer-04082025.md",
+      "scraped": true,
+      "word_count": 254
+    },
+    {
+      "url": "https://developers.webflow.com/designer/05012024",
+      "slug": "designer-05012024",
+      "file": "designer-05012024.md",
+      "scraped": true,
+      "word_count": 320
+    },
+    {
+      "url": "https://developers.webflow.com/designer/05082025",
+      "slug": "designer-05082025",
+      "file": "designer-05082025.md",
+      "scraped": true,
+      "word_count": 336
+    },
+    {
+      "url": "https://developers.webflow.com/designer/06182024",
+      "slug": "designer-06182024",
+      "file": "designer-06182024.md",
+      "scraped": true,
+      "word_count": 367
+    },
+    {
+      "url": "https://developers.webflow.com/designer/06252025",
+      "slug": "designer-06252025",
+      "file": "designer-06252025.md",
+      "scraped": true,
+      "word_count": 539
+    },
+    {
+      "url": "https://developers.webflow.com/designer/072524",
+      "slug": "designer-072524",
+      "file": "designer-072524.md",
+      "scraped": true,
+      "word_count": 170
+    },
+    {
+      "url": "https://developers.webflow.com/designer/080924",
+      "slug": "designer-080924",
+      "file": "designer-080924.md",
+      "scraped": true,
+      "word_count": 168
+    },
+    {
+      "url": "https://developers.webflow.com/designer/082224",
+      "slug": "designer-082224",
+      "file": "designer-082224.md",
+      "scraped": true,
+      "word_count": 192
+    },
+    {
+      "url": "https://developers.webflow.com/designer/09042025",
+      "slug": "designer-09042025",
+      "file": "designer-09042025.md",
+      "scraped": true,
+      "word_count": 455
+    },
+    {
+      "url": "https://developers.webflow.com/designer/091724",
+      "slug": "designer-091724",
+      "file": "designer-091724.md",
+      "scraped": true,
+      "word_count": 230
+    },
+    {
+      "url": "https://developers.webflow.com/designer/100124",
+      "slug": "designer-100124",
+      "file": "designer-100124.md",
+      "scraped": true,
+      "word_count": 248
+    },
+    {
+      "url": "https://developers.webflow.com/designer/121724",
+      "slug": "designer-121724",
+      "file": "designer-121724.md",
+      "scraped": true,
+      "word_count": 265
+    },
+    {
+      "url": "https://developers.webflow.com/designer/changelog",
+      "slug": "designer-changelog",
+      "file": "designer-changelog.md",
+      "scraped": true,
+      "word_count": 1906
+    },
+    {
+      "url": "https://developers.webflow.com/designer/changelog/08082025",
+      "slug": "designer-changelog-08082025",
+      "file": "designer-changelog-08082025.md",
+      "scraped": true,
+      "word_count": 255
+    },
+    {
+      "url": "https://developers.webflow.com/designer/examples",
+      "slug": "designer-examples",
+      "file": "designer-examples.md",
+      "scraped": true,
+      "word_count": 175
+    },
+    {
+      "url": "https://developers.webflow.com/designer/guides/configuring-your-app",
+      "slug": "designer-guides-configuring-your-app",
+      "file": "designer-guides-configuring-your-app.md",
+      "scraped": true,
+      "word_count": 713
+    },
+    {
+      "url": "https://developers.webflow.com/designer/new-designer-api-endpoints",
+      "slug": "designer-new-designer-api-endpoints",
+      "file": "designer-new-designer-api-endpoints.md",
+      "scraped": true,
+      "word_count": 417
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/app-intents-and-connections",
+      "slug": "designer-reference-app-intents-and-connections",
+      "file": "designer-reference-app-intents-and-connections.md",
+      "scraped": true,
+      "word_count": 1747
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/app-modes",
+      "slug": "designer-reference-app-modes",
+      "file": "designer-reference-app-modes.md",
+      "scraped": true,
+      "word_count": 1773
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/append",
+      "slug": "designer-reference-append",
+      "file": "designer-reference-append.md",
+      "scraped": true,
+      "word_count": 297
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/asset-overview",
+      "slug": "designer-reference-asset-overview",
+      "file": "designer-reference-asset-overview.md",
+      "scraped": true,
+      "word_count": 430
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/bulk-add-elements",
+      "slug": "designer-reference-bulk-add-elements",
+      "file": "designer-reference-bulk-add-elements.md",
+      "scraped": true,
+      "word_count": 692
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/check-description-is-used-as-search-description",
+      "slug": "designer-reference-check-description-is-used-as-search-description",
+      "file": "designer-reference-check-description-is-used-as-search-description.md",
+      "scraped": true,
+      "word_count": 228
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/check-if-page-is-draft",
+      "slug": "designer-reference-check-if-page-is-draft",
+      "file": "designer-reference-check-if-page-is-draft.md",
+      "scraped": true,
+      "word_count": 228
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/check-if-page-is-excluded-from-search",
+      "slug": "designer-reference-check-if-page-is-excluded-from-search",
+      "file": "designer-reference-check-if-page-is-excluded-from-search.md",
+      "scraped": true,
+      "word_count": 236
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/check-if-page-is-homepage",
+      "slug": "designer-reference-check-if-page-is-homepage",
+      "file": "designer-reference-check-if-page-is-homepage.md",
+      "scraped": true,
+      "word_count": 233
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/check-if-page-is-password-protected",
+      "slug": "designer-reference-check-if-page-is-password-protected",
+      "file": "designer-reference-check-if-page-is-password-protected.md",
+      "scraped": true,
+      "word_count": 229
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/check-if-page-uses-title-as-search-title",
+      "slug": "designer-reference-check-if-page-uses-title-as-search-title",
+      "file": "designer-reference-check-if-page-uses-title-as-search-title.md",
+      "scraped": true,
+      "word_count": 229
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/clear-all-style-properties",
+      "slug": "designer-reference-clear-all-style-properties",
+      "file": "designer-reference-clear-all-style-properties.md",
+      "scraped": true,
+      "word_count": 197
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/close-extension",
+      "slug": "designer-reference-close-extension",
+      "file": "designer-reference-close-extension.md",
+      "scraped": true,
+      "word_count": 193
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/component-element",
+      "slug": "designer-reference-component-element",
+      "file": "designer-reference-component-element.md",
+      "scraped": true,
+      "word_count": 290
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/component-element/getComponent",
+      "slug": "designer-reference-component-element-getcomponent",
+      "file": "designer-reference-component-element-getcomponent.md",
+      "scraped": true,
+      "word_count": 236
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/components-overview",
+      "slug": "designer-reference-components-overview",
+      "file": "designer-reference-components-overview.md",
+      "scraped": true,
+      "word_count": 729
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/create-an-asset",
+      "slug": "designer-reference-create-an-asset",
+      "file": "designer-reference-create-an-asset.md",
+      "scraped": true,
+      "word_count": 447
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/create-asset-folder",
+      "slug": "designer-reference-create-asset-folder",
+      "file": "designer-reference-create-asset-folder.md",
+      "scraped": true,
+      "word_count": 324
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/create-color-variable",
+      "slug": "designer-reference-create-color-variable",
+      "file": "designer-reference-create-color-variable.md",
+      "scraped": true,
+      "word_count": 323
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/create-component-definition",
+      "slug": "designer-reference-create-component-definition",
+      "file": "designer-reference-create-component-definition.md",
+      "scraped": true,
+      "word_count": 272
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/create-component-instance",
+      "slug": "designer-reference-create-component-instance",
+      "file": "designer-reference-create-component-instance.md",
+      "scraped": true,
+      "word_count": 229
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/create-folder",
+      "slug": "designer-reference-create-folder",
+      "file": "designer-reference-create-folder.md",
+      "scraped": true,
+      "word_count": 207
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/create-font-family-variable",
+      "slug": "designer-reference-create-font-family-variable",
+      "file": "designer-reference-create-font-family-variable.md",
+      "scraped": true,
+      "word_count": 278
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/create-number-variable",
+      "slug": "designer-reference-create-number-variable",
+      "file": "designer-reference-create-number-variable.md",
+      "scraped": true,
+      "word_count": 297
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/create-page",
+      "slug": "designer-reference-create-page",
+      "file": "designer-reference-create-page.md",
+      "scraped": true,
+      "word_count": 229
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/create-percentage-variable",
+      "slug": "designer-reference-create-percentage-variable",
+      "file": "designer-reference-create-percentage-variable.md",
+      "scraped": true,
+      "word_count": 275
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/create-size-variable",
+      "slug": "designer-reference-create-size-variable",
+      "file": "designer-reference-create-size-variable.md",
+      "scraped": true,
+      "word_count": 752
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/create-style",
+      "slug": "designer-reference-create-style",
+      "file": "designer-reference-create-style.md",
+      "scraped": true,
+      "word_count": 291
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/create-variable-collection",
+      "slug": "designer-reference-create-variable-collection",
+      "file": "designer-reference-create-variable-collection.md",
+      "scraped": true,
+      "word_count": 210
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/create-variable-mode",
+      "slug": "designer-reference-create-variable-mode",
+      "file": "designer-reference-create-variable-mode.md",
+      "scraped": true,
+      "word_count": 231
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/creating-retrieving-elements",
+      "slug": "designer-reference-creating-retrieving-elements",
+      "file": "designer-reference-creating-retrieving-elements.md",
+      "scraped": true,
+      "word_count": 907
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/custom-attributes/getAllCustomAttributes",
+      "slug": "designer-reference-custom-attributes-getallcustomattributes",
+      "file": "designer-reference-custom-attributes-getallcustomattributes.md",
+      "scraped": true,
+      "word_count": 221
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/custom-attributes/getCustomAttribute",
+      "slug": "designer-reference-custom-attributes-getcustomattribute",
+      "file": "designer-reference-custom-attributes-getcustomattribute.md",
+      "scraped": true,
+      "word_count": 234
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/custom-attributes/removeCustomAttribute",
+      "slug": "designer-reference-custom-attributes-removecustomattribute",
+      "file": "designer-reference-custom-attributes-removecustomattribute.md",
+      "scraped": true,
+      "word_count": 214
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/custom-attributes/setCustomAttribute",
+      "slug": "designer-reference-custom-attributes-setcustomattribute",
+      "file": "designer-reference-custom-attributes-setcustomattribute.md",
+      "scraped": true,
+      "word_count": 238
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/delete-component-definition",
+      "slug": "designer-reference-delete-component-definition",
+      "file": "designer-reference-delete-component-definition.md",
+      "scraped": true,
+      "word_count": 240
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/designer-api/getting-started",
+      "slug": "designer-reference-designer-api-getting-started",
+      "file": "designer-reference-designer-api-getting-started.md",
+      "scraped": true,
+      "word_count": 1275
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/dom-element",
+      "slug": "designer-reference-dom-element",
+      "file": "designer-reference-dom-element.md",
+      "scraped": true,
+      "word_count": 408
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/dom-element/getAllAttributes",
+      "slug": "designer-reference-dom-element-getallattributes",
+      "file": "designer-reference-dom-element-getallattributes.md",
+      "scraped": true,
+      "word_count": 111
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/dom-element/getAttribute",
+      "slug": "designer-reference-dom-element-getattribute",
+      "file": "designer-reference-dom-element-getattribute.md",
+      "scraped": true,
+      "word_count": 169
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/dom-element/getTag",
+      "slug": "designer-reference-dom-element-gettag",
+      "file": "designer-reference-dom-element-gettag.md",
+      "scraped": true,
+      "word_count": 145
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/dom-element/removeAttribute",
+      "slug": "designer-reference-dom-element-removeattribute",
+      "file": "designer-reference-dom-element-removeattribute.md",
+      "scraped": true,
+      "word_count": 250
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/dom-element/setAttribute",
+      "slug": "designer-reference-dom-element-setattribute",
+      "file": "designer-reference-dom-element-setattribute.md",
+      "scraped": true,
+      "word_count": 169
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/dom-element/setTag",
+      "slug": "designer-reference-dom-element-settag",
+      "file": "designer-reference-dom-element-settag.md",
+      "scraped": true,
+      "word_count": 120
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/element-children/append",
+      "slug": "designer-reference-element-children-append",
+      "file": "designer-reference-element-children-append.md",
+      "scraped": true,
+      "word_count": 181
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/element-children/getChildren",
+      "slug": "designer-reference-element-children-getchildren",
+      "file": "designer-reference-element-children-getchildren.md",
+      "scraped": true,
+      "word_count": 206
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/element-children/prepend",
+      "slug": "designer-reference-element-children-prepend",
+      "file": "designer-reference-element-children-prepend.md",
+      "scraped": true,
+      "word_count": 181
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/element-presets",
+      "slug": "designer-reference-element-presets",
+      "file": "designer-reference-element-presets.md",
+      "scraped": true,
+      "word_count": 1546
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/element-properties-methods",
+      "slug": "designer-reference-element-properties-methods",
+      "file": "designer-reference-element-properties-methods.md",
+      "scraped": true,
+      "word_count": 381
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/element-styles/getStyles",
+      "slug": "designer-reference-element-styles-getstyles",
+      "file": "designer-reference-element-styles-getstyles.md",
+      "scraped": true,
+      "word_count": 138
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/element-styles/setStyles",
+      "slug": "designer-reference-element-styles-setstyles",
+      "file": "designer-reference-element-styles-setstyles.md",
+      "scraped": true,
+      "word_count": 86
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/element-types-methods",
+      "slug": "designer-reference-element-types-methods",
+      "file": "designer-reference-element-types-methods.md",
+      "scraped": true,
+      "word_count": 307
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/elements-overview",
+      "slug": "designer-reference-elements-overview",
+      "file": "designer-reference-elements-overview.md",
+      "scraped": true,
+      "word_count": 185
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/elements/children",
+      "slug": "designer-reference-elements-children",
+      "file": "designer-reference-elements-children.md",
+      "scraped": true,
+      "word_count": 139
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/elements/custom-attributes",
+      "slug": "designer-reference-elements-custom-attributes",
+      "file": "designer-reference-elements-custom-attributes.md",
+      "scraped": true,
+      "word_count": 140
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/elements/styles",
+      "slug": "designer-reference-elements-styles",
+      "file": "designer-reference-elements-styles.md",
+      "scraped": true,
+      "word_count": 96
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/elements/text-content",
+      "slug": "designer-reference-elements-text-content",
+      "file": "designer-reference-elements-text-content.md",
+      "scraped": true,
+      "word_count": 98
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/enter-component",
+      "slug": "designer-reference-enter-component",
+      "file": "designer-reference-enter-component.md",
+      "scraped": true,
+      "word_count": 222
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/error-handling",
+      "slug": "designer-reference-error-handling",
+      "file": "designer-reference-error-handling.md",
+      "scraped": true,
+      "word_count": 650
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/events",
+      "slug": "designer-reference-events",
+      "file": "designer-reference-events.md",
+      "scraped": true,
+      "word_count": 592
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/exclude-page-from-search",
+      "slug": "designer-reference-exclude-page-from-search",
+      "file": "designer-reference-exclude-page-from-search.md",
+      "scraped": true,
+      "word_count": 102
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/exit-component",
+      "slug": "designer-reference-exit-component",
+      "file": "designer-reference-exit-component.md",
+      "scraped": true,
+      "word_count": 162
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/extension-utilities",
+      "slug": "designer-reference-extension-utilities",
+      "file": "designer-reference-extension-utilities.md",
+      "scraped": true,
+      "word_count": 141
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/form-element/get-form-name",
+      "slug": "designer-reference-form-element-get-form-name",
+      "file": "designer-reference-form-element-get-form-name.md",
+      "scraped": true,
+      "word_count": 95
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/form-element/get-form-settings",
+      "slug": "designer-reference-form-element-get-form-settings",
+      "file": "designer-reference-form-element-get-form-settings.md",
+      "scraped": true,
+      "word_count": 241
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/form-element/get-name-input-field",
+      "slug": "designer-reference-form-element-get-name-input-field",
+      "file": "designer-reference-form-element-get-name-input-field.md",
+      "scraped": true,
+      "word_count": 118
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/form-element/get-required-status",
+      "slug": "designer-reference-form-element-get-required-status",
+      "file": "designer-reference-form-element-get-required-status.md",
+      "scraped": true,
+      "word_count": 135
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/form-element/get-type-input-field",
+      "slug": "designer-reference-form-element-get-type-input-field",
+      "file": "designer-reference-form-element-get-type-input-field.md",
+      "scraped": true,
+      "word_count": 126
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/form-element/set-form-name",
+      "slug": "designer-reference-form-element-set-form-name",
+      "file": "designer-reference-form-element-set-form-name.md",
+      "scraped": true,
+      "word_count": 103
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/form-element/set-form-settings",
+      "slug": "designer-reference-form-element-set-form-settings",
+      "file": "designer-reference-form-element-set-form-settings.md",
+      "scraped": true,
+      "word_count": 216
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/form-element/set-name-input-field",
+      "slug": "designer-reference-form-element-set-name-input-field",
+      "file": "designer-reference-form-element-set-name-input-field.md",
+      "scraped": true,
+      "word_count": 108
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/form-element/set-required-status",
+      "slug": "designer-reference-form-element-set-required-status",
+      "file": "designer-reference-form-element-set-required-status.md",
+      "scraped": true,
+      "word_count": 137
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/form-element/set-type-input-field",
+      "slug": "designer-reference-form-element-set-type-input-field",
+      "file": "designer-reference-form-element-set-type-input-field.md",
+      "scraped": true,
+      "word_count": 98
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/form-inputs",
+      "slug": "designer-reference-form-inputs",
+      "file": "designer-reference-form-inputs.md",
+      "scraped": true,
+      "word_count": 595
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/forms",
+      "slug": "designer-reference-forms",
+      "file": "designer-reference-forms.md",
+      "scraped": true,
+      "word_count": 671
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-all-asset-folders",
+      "slug": "designer-reference-get-all-asset-folders",
+      "file": "designer-reference-get-all-asset-folders.md",
+      "scraped": true,
+      "word_count": 72
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-all-assets",
+      "slug": "designer-reference-get-all-assets",
+      "file": "designer-reference-get-all-assets.md",
+      "scraped": true,
+      "word_count": 112
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-all-elements",
+      "slug": "designer-reference-get-all-elements",
+      "file": "designer-reference-get-all-elements.md",
+      "scraped": true,
+      "word_count": 174
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-all-pages-and-folders",
+      "slug": "designer-reference-get-all-pages-and-folders",
+      "file": "designer-reference-get-all-pages-and-folders.md",
+      "scraped": true,
+      "word_count": 139
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-all-styles",
+      "slug": "designer-reference-get-all-styles",
+      "file": "designer-reference-get-all-styles.md",
+      "scraped": true,
+      "word_count": 146
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-all-variable-collections",
+      "slug": "designer-reference-get-all-variable-collections",
+      "file": "designer-reference-get-all-variable-collections.md",
+      "scraped": true,
+      "word_count": 101
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-all-variable-modes",
+      "slug": "designer-reference-get-all-variable-modes",
+      "file": "designer-reference-get-all-variable-modes.md",
+      "scraped": true,
+      "word_count": 93
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-all-variables",
+      "slug": "designer-reference-get-all-variables",
+      "file": "designer-reference-get-all-variables.md",
+      "scraped": true,
+      "word_count": 162
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-alt-text",
+      "slug": "designer-reference-get-alt-text",
+      "file": "designer-reference-get-alt-text.md",
+      "scraped": true,
+      "word_count": 108
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-app-connections",
+      "slug": "designer-reference-get-app-connections",
+      "file": "designer-reference-get-app-connections.md",
+      "scraped": true,
+      "word_count": 177
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-asset-by-id",
+      "slug": "designer-reference-get-asset-by-id",
+      "file": "designer-reference-get-asset-by-id.md",
+      "scraped": true,
+      "word_count": 105
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-asset-folder-name",
+      "slug": "designer-reference-get-asset-folder-name",
+      "file": "designer-reference-get-asset-folder-name.md",
+      "scraped": true,
+      "word_count": 88
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-asset-folder-parent",
+      "slug": "designer-reference-get-asset-folder-parent",
+      "file": "designer-reference-get-asset-folder-parent.md",
+      "scraped": true,
+      "word_count": 126
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-asset-mime-type",
+      "slug": "designer-reference-get-asset-mime-type",
+      "file": "designer-reference-get-asset-mime-type.md",
+      "scraped": true,
+      "word_count": 265
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-asset-name",
+      "slug": "designer-reference-get-asset-name",
+      "file": "designer-reference-get-asset-name.md",
+      "scraped": true,
+      "word_count": 259
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-asset-url",
+      "slug": "designer-reference-get-asset-url",
+      "file": "designer-reference-get-asset-url.md",
+      "scraped": true,
+      "word_count": 225
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-breakpoint",
+      "slug": "designer-reference-get-breakpoint",
+      "file": "designer-reference-get-breakpoint.md",
+      "scraped": true,
+      "word_count": 203
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-collection-id-from-cms-page",
+      "slug": "designer-reference-get-collection-id-from-cms-page",
+      "file": "designer-reference-get-collection-id-from-cms-page.md",
+      "scraped": true,
+      "word_count": 155
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-collection-name",
+      "slug": "designer-reference-get-collection-name",
+      "file": "designer-reference-get-collection-name.md",
+      "scraped": true,
+      "word_count": 97
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-collection-name-from-cms-page",
+      "slug": "designer-reference-get-collection-name-from-cms-page",
+      "file": "designer-reference-get-collection-name-from-cms-page.md",
+      "scraped": true,
+      "word_count": 154
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-component",
+      "slug": "designer-reference-get-component",
+      "file": "designer-reference-get-component.md",
+      "scraped": true,
+      "word_count": 110
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-component-name",
+      "slug": "designer-reference-get-component-name",
+      "file": "designer-reference-get-component-name.md",
+      "scraped": true,
+      "word_count": 109
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-components",
+      "slug": "designer-reference-get-components",
+      "file": "designer-reference-get-components.md",
+      "scraped": true,
+      "word_count": 139
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-current-app-connection",
+      "slug": "designer-reference-get-current-app-connection",
+      "file": "designer-reference-get-current-app-connection.md",
+      "scraped": true,
+      "word_count": 254
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-current-app-connection-resource",
+      "slug": "designer-reference-get-current-app-connection-resource",
+      "file": "designer-reference-get-current-app-connection-resource.md",
+      "scraped": true,
+      "word_count": 323
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-current-page",
+      "slug": "designer-reference-get-current-page",
+      "file": "designer-reference-get-current-page.md",
+      "scraped": true,
+      "word_count": 97
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-default-variable-collection",
+      "slug": "designer-reference-get-default-variable-collection",
+      "file": "designer-reference-get-default-variable-collection.md",
+      "scraped": true,
+      "word_count": 115
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-folder-name",
+      "slug": "designer-reference-get-folder-name",
+      "file": "designer-reference-get-folder-name.md",
+      "scraped": true,
+      "word_count": 104
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-folder-slug",
+      "slug": "designer-reference-get-folder-slug",
+      "file": "designer-reference-get-folder-slug.md",
+      "scraped": true,
+      "word_count": 120
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-launch-context",
+      "slug": "designer-reference-get-launch-context",
+      "file": "designer-reference-get-launch-context.md",
+      "scraped": true,
+      "word_count": 276
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-open-graph-description",
+      "slug": "designer-reference-get-open-graph-description",
+      "file": "designer-reference-get-open-graph-description.md",
+      "scraped": true,
+      "word_count": 103
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-open-graph-image",
+      "slug": "designer-reference-get-open-graph-image",
+      "file": "designer-reference-get-open-graph-image.md",
+      "scraped": true,
+      "word_count": 103
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-open-graph-title",
+      "slug": "designer-reference-get-open-graph-title",
+      "file": "designer-reference-get-open-graph-title.md",
+      "scraped": true,
+      "word_count": 103
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-page-category",
+      "slug": "designer-reference-get-page-category",
+      "file": "designer-reference-get-page-category.md",
+      "scraped": true,
+      "word_count": 114
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-page-description",
+      "slug": "designer-reference-get-page-description",
+      "file": "designer-reference-get-page-description.md",
+      "scraped": true,
+      "word_count": 96
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-page-name",
+      "slug": "designer-reference-get-page-name",
+      "file": "designer-reference-get-page-name.md",
+      "scraped": true,
+      "word_count": 92
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-page-publish-path",
+      "slug": "designer-reference-get-page-publish-path",
+      "file": "designer-reference-get-page-publish-path.md",
+      "scraped": true,
+      "word_count": 99
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-page-slug",
+      "slug": "designer-reference-get-page-slug",
+      "file": "designer-reference-get-page-slug.md",
+      "scraped": true,
+      "word_count": 92
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-page-title",
+      "slug": "designer-reference-get-page-title",
+      "file": "designer-reference-get-page-title.md",
+      "scraped": true,
+      "word_count": 92
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-parent-folder",
+      "slug": "designer-reference-get-parent-folder",
+      "file": "designer-reference-get-parent-folder.md",
+      "scraped": true,
+      "word_count": 123
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-pseudo-mode",
+      "slug": "designer-reference-get-pseudo-mode",
+      "file": "designer-reference-get-pseudo-mode.md",
+      "scraped": true,
+      "word_count": 257
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-root-element",
+      "slug": "designer-reference-get-root-element",
+      "file": "designer-reference-get-root-element.md",
+      "scraped": true,
+      "word_count": 103
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-search-description",
+      "slug": "designer-reference-get-search-description",
+      "file": "designer-reference-get-search-description.md",
+      "scraped": true,
+      "word_count": 95
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-search-image",
+      "slug": "designer-reference-get-search-image",
+      "file": "designer-reference-get-search-image.md",
+      "scraped": true,
+      "word_count": 95
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-search-title",
+      "slug": "designer-reference-get-search-title",
+      "file": "designer-reference-get-search-title.md",
+      "scraped": true,
+      "word_count": 94
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-selected-element",
+      "slug": "designer-reference-get-selected-element",
+      "file": "designer-reference-get-selected-element.md",
+      "scraped": true,
+      "word_count": 203
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-site-info",
+      "slug": "designer-reference-get-site-info",
+      "file": "designer-reference-get-site-info.md",
+      "scraped": true,
+      "word_count": 255
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-style-by-name",
+      "slug": "designer-reference-get-style-by-name",
+      "file": "designer-reference-get-style-by-name.md",
+      "scraped": true,
+      "word_count": 172
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-style-properties",
+      "slug": "designer-reference-get-style-properties",
+      "file": "designer-reference-get-style-properties.md",
+      "scraped": true,
+      "word_count": 289
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-style-property",
+      "slug": "designer-reference-get-style-property",
+      "file": "designer-reference-get-style-property.md",
+      "scraped": true,
+      "word_count": 303
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-text-content",
+      "slug": "designer-reference-get-text-content",
+      "file": "designer-reference-get-text-content.md",
+      "scraped": true,
+      "word_count": 139
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-user-id-token",
+      "slug": "designer-reference-get-user-id-token",
+      "file": "designer-reference-get-user-id-token.md",
+      "scraped": true,
+      "word_count": 133
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-users-designer-capabilities",
+      "slug": "designer-reference-get-users-designer-capabilities",
+      "file": "designer-reference-get-users-designer-capabilities.md",
+      "scraped": true,
+      "word_count": 591
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-utility-page-key",
+      "slug": "designer-reference-get-utility-page-key",
+      "file": "designer-reference-get-utility-page-key.md",
+      "scraped": true,
+      "word_count": 188
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-variable",
+      "slug": "designer-reference-get-variable",
+      "file": "designer-reference-get-variable.md",
+      "scraped": true,
+      "word_count": 118
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-variable-binding",
+      "slug": "designer-reference-get-variable-binding",
+      "file": "designer-reference-get-variable-binding.md",
+      "scraped": true,
+      "word_count": 141
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-variable-by-name",
+      "slug": "designer-reference-get-variable-by-name",
+      "file": "designer-reference-get-variable-by-name.md",
+      "scraped": true,
+      "word_count": 119
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-variable-collection-by-id",
+      "slug": "designer-reference-get-variable-collection-by-id",
+      "file": "designer-reference-get-variable-collection-by-id.md",
+      "scraped": true,
+      "word_count": 104
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-variable-css-name",
+      "slug": "designer-reference-get-variable-css-name",
+      "file": "designer-reference-get-variable-css-name.md",
+      "scraped": true,
+      "word_count": 139
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-variable-mode-by-id",
+      "slug": "designer-reference-get-variable-mode-by-id",
+      "file": "designer-reference-get-variable-mode-by-id.md",
+      "scraped": true,
+      "word_count": 221
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-variable-mode-by-name",
+      "slug": "designer-reference-get-variable-mode-by-name",
+      "file": "designer-reference-get-variable-mode-by-name.md",
+      "scraped": true,
+      "word_count": 221
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-variable-mode-name",
+      "slug": "designer-reference-get-variable-mode-name",
+      "file": "designer-reference-get-variable-mode-name.md",
+      "scraped": true,
+      "word_count": 215
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-variable-mode-style",
+      "slug": "designer-reference-get-variable-mode-style",
+      "file": "designer-reference-get-variable-mode-style.md",
+      "scraped": true,
+      "word_count": 361
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-variable-modes-style",
+      "slug": "designer-reference-get-variable-modes-style",
+      "file": "designer-reference-get-variable-modes-style.md",
+      "scraped": true,
+      "word_count": 376
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-variable-name",
+      "slug": "designer-reference-get-variable-name",
+      "file": "designer-reference-get-variable-name.md",
+      "scraped": true,
+      "word_count": 220
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/get-variable-value",
+      "slug": "designer-reference-get-variable-value",
+      "file": "designer-reference-get-variable-value.md",
+      "scraped": true,
+      "word_count": 483
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/heading-element",
+      "slug": "designer-reference-heading-element",
+      "file": "designer-reference-heading-element.md",
+      "scraped": true,
+      "word_count": 293
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/heading-element/getHeadingLevel",
+      "slug": "designer-reference-heading-element-getheadinglevel",
+      "file": "designer-reference-heading-element-getheadinglevel.md",
+      "scraped": true,
+      "word_count": 238
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/heading-element/setHeadingLevel",
+      "slug": "designer-reference-heading-element-setheadinglevel",
+      "file": "designer-reference-heading-element-setheadinglevel.md",
+      "scraped": true,
+      "word_count": 232
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/image-element",
+      "slug": "designer-reference-image-element",
+      "file": "designer-reference-image-element.md",
+      "scraped": true,
+      "word_count": 337
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/image-element/getAltText",
+      "slug": "designer-reference-image-element-getalttext",
+      "file": "designer-reference-image-element-getalttext.md",
+      "scraped": true,
+      "word_count": 254
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/image-element/getAsset",
+      "slug": "designer-reference-image-element-getasset",
+      "file": "designer-reference-image-element-getasset.md",
+      "scraped": true,
+      "word_count": 256
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/image-element/setAltText",
+      "slug": "designer-reference-image-element-setalttext",
+      "file": "designer-reference-image-element-setalttext.md",
+      "scraped": true,
+      "word_count": 259
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/image-element/setAsset",
+      "slug": "designer-reference-image-element-setasset",
+      "file": "designer-reference-image-element-setasset.md",
+      "scraped": true,
+      "word_count": 268
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/insert-element-after",
+      "slug": "designer-reference-insert-element-after",
+      "file": "designer-reference-insert-element-after.md",
+      "scraped": true,
+      "word_count": 280
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/insert-element-before",
+      "slug": "designer-reference-insert-element-before",
+      "file": "designer-reference-insert-element-before.md",
+      "scraped": true,
+      "word_count": 280
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/introduction",
+      "slug": "designer-reference-introduction",
+      "file": "designer-reference-introduction.md",
+      "scraped": true,
+      "word_count": 590
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/link-element",
+      "slug": "designer-reference-link-element",
+      "file": "designer-reference-link-element.md",
+      "scraped": true,
+      "word_count": 313
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/link-element/getTarget",
+      "slug": "designer-reference-link-element-gettarget",
+      "file": "designer-reference-link-element-gettarget.md",
+      "scraped": true,
+      "word_count": 287
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/link-element/setSettings",
+      "slug": "designer-reference-link-element-setsettings",
+      "file": "designer-reference-link-element-setsettings.md",
+      "scraped": true,
+      "word_count": 303
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/managing-variable-modes-style",
+      "slug": "designer-reference-managing-variable-modes-style",
+      "file": "designer-reference-managing-variable-modes-style.md",
+      "scraped": true,
+      "word_count": 423
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/migrating-to-v2",
+      "slug": "designer-reference-migrating-to-v2",
+      "file": "designer-reference-migrating-to-v2.md",
+      "scraped": true,
+      "word_count": 516
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/notify-user",
+      "slug": "designer-reference-notify-user",
+      "file": "designer-reference-notify-user.md",
+      "scraped": true,
+      "word_count": 255
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/pages-overview",
+      "slug": "designer-reference-pages-overview",
+      "file": "designer-reference-pages-overview.md",
+      "scraped": true,
+      "word_count": 320
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/prepend",
+      "slug": "designer-reference-prepend",
+      "file": "designer-reference-prepend.md",
+      "scraped": true,
+      "word_count": 296
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/remove-a-style-property",
+      "slug": "designer-reference-remove-a-style-property",
+      "file": "designer-reference-remove-a-style-property.md",
+      "scraped": true,
+      "word_count": 351
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/remove-all-variable-modes",
+      "slug": "designer-reference-remove-all-variable-modes",
+      "file": "designer-reference-remove-all-variable-modes.md",
+      "scraped": true,
+      "word_count": 315
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/remove-app-connection",
+      "slug": "designer-reference-remove-app-connection",
+      "file": "designer-reference-remove-app-connection.md",
+      "scraped": true,
+      "word_count": 286
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/remove-element",
+      "slug": "designer-reference-remove-element",
+      "file": "designer-reference-remove-element.md",
+      "scraped": true,
+      "word_count": 202
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/remove-style",
+      "slug": "designer-reference-remove-style",
+      "file": "designer-reference-remove-style.md",
+      "scraped": true,
+      "word_count": 239
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/remove-style-properties",
+      "slug": "designer-reference-remove-style-properties",
+      "file": "designer-reference-remove-style-properties.md",
+      "scraped": true,
+      "word_count": 341
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/remove-variable",
+      "slug": "designer-reference-remove-variable",
+      "file": "designer-reference-remove-variable.md",
+      "scraped": true,
+      "word_count": 208
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/remove-variable-collection",
+      "slug": "designer-reference-remove-variable-collection",
+      "file": "designer-reference-remove-variable-collection.md",
+      "scraped": true,
+      "word_count": 205
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/remove-variable-mode",
+      "slug": "designer-reference-remove-variable-mode",
+      "file": "designer-reference-remove-variable-mode.md",
+      "scraped": true,
+      "word_count": 204
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/remove-variable-mode-style",
+      "slug": "designer-reference-remove-variable-mode-style",
+      "file": "designer-reference-remove-variable-mode-style.md",
+      "scraped": true,
+      "word_count": 261
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/remove-variable-modes-style",
+      "slug": "designer-reference-remove-variable-modes-style",
+      "file": "designer-reference-remove-variable-modes-style.md",
+      "scraped": true,
+      "word_count": 362
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/resize-extension",
+      "slug": "designer-reference-resize-extension",
+      "file": "designer-reference-resize-extension.md",
+      "scraped": true,
+      "word_count": 356
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-alt-text",
+      "slug": "designer-reference-set-alt-text",
+      "file": "designer-reference-set-alt-text.md",
+      "scraped": true,
+      "word_count": 276
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-app-connection",
+      "slug": "designer-reference-set-app-connection",
+      "file": "designer-reference-set-app-connection.md",
+      "scraped": true,
+      "word_count": 269
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-asset-file",
+      "slug": "designer-reference-set-asset-file",
+      "file": "designer-reference-set-asset-file.md",
+      "scraped": true,
+      "word_count": 228
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-asset-folder-parent",
+      "slug": "designer-reference-set-asset-folder-parent",
+      "file": "designer-reference-set-asset-folder-parent.md",
+      "scraped": true,
+      "word_count": 229
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-asset-name",
+      "slug": "designer-reference-set-asset-name",
+      "file": "designer-reference-set-asset-name.md",
+      "scraped": true,
+      "word_count": 204
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-component-name",
+      "slug": "designer-reference-set-component-name",
+      "file": "designer-reference-set-component-name.md",
+      "scraped": true,
+      "word_count": 218
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-draft",
+      "slug": "designer-reference-set-draft",
+      "file": "designer-reference-set-draft.md",
+      "scraped": true,
+      "word_count": 111
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-folder-name",
+      "slug": "designer-reference-set-folder-name",
+      "file": "designer-reference-set-folder-name.md",
+      "scraped": true,
+      "word_count": 106
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-folder-slug",
+      "slug": "designer-reference-set-folder-slug",
+      "file": "designer-reference-set-folder-slug.md",
+      "scraped": true,
+      "word_count": 111
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-open-graph-description",
+      "slug": "designer-reference-set-open-graph-description",
+      "file": "designer-reference-set-open-graph-description.md",
+      "scraped": true,
+      "word_count": 114
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-open-graph-image-url",
+      "slug": "designer-reference-set-open-graph-image-url",
+      "file": "designer-reference-set-open-graph-image-url.md",
+      "scraped": true,
+      "word_count": 226
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-open-graph-title",
+      "slug": "designer-reference-set-open-graph-title",
+      "file": "designer-reference-set-open-graph-title.md",
+      "scraped": true,
+      "word_count": 230
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-page-description",
+      "slug": "designer-reference-set-page-description",
+      "file": "designer-reference-set-page-description.md",
+      "scraped": true,
+      "word_count": 216
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-page-name",
+      "slug": "designer-reference-set-page-name",
+      "file": "designer-reference-set-page-name.md",
+      "scraped": true,
+      "word_count": 212
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-page-slug",
+      "slug": "designer-reference-set-page-slug",
+      "file": "designer-reference-set-page-slug.md",
+      "scraped": true,
+      "word_count": 215
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-page-title",
+      "slug": "designer-reference-set-page-title",
+      "file": "designer-reference-set-page-title.md",
+      "scraped": true,
+      "word_count": 216
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-page-to-use-title-as-open-graph-title",
+      "slug": "designer-reference-set-page-to-use-title-as-open-graph-title",
+      "file": "designer-reference-set-page-to-use-title-as-open-graph-title.md",
+      "scraped": true,
+      "word_count": 236
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-parent-folder",
+      "slug": "designer-reference-set-parent-folder",
+      "file": "designer-reference-set-parent-folder.md",
+      "scraped": true,
+      "word_count": 240
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-search-description",
+      "slug": "designer-reference-set-search-description",
+      "file": "designer-reference-set-search-description.md",
+      "scraped": true,
+      "word_count": 225
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-search-image",
+      "slug": "designer-reference-set-search-image",
+      "file": "designer-reference-set-search-image.md",
+      "scraped": true,
+      "word_count": 105
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-search-title",
+      "slug": "designer-reference-set-search-title",
+      "file": "designer-reference-set-search-title.md",
+      "scraped": true,
+      "word_count": 114
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-selected-element",
+      "slug": "designer-reference-set-selected-element",
+      "file": "designer-reference-set-selected-element.md",
+      "scraped": true,
+      "word_count": 283
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-style-properties",
+      "slug": "designer-reference-set-style-properties",
+      "file": "designer-reference-set-style-properties.md",
+      "scraped": true,
+      "word_count": 347
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-style-property",
+      "slug": "designer-reference-set-style-property",
+      "file": "designer-reference-set-style-property.md",
+      "scraped": true,
+      "word_count": 373
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-text-content",
+      "slug": "designer-reference-set-text-content",
+      "file": "designer-reference-set-text-content.md",
+      "scraped": true,
+      "word_count": 219
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-variable-collection-name",
+      "slug": "designer-reference-set-variable-collection-name",
+      "file": "designer-reference-set-variable-collection-name.md",
+      "scraped": true,
+      "word_count": 205
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-variable-mode-name",
+      "slug": "designer-reference-set-variable-mode-name",
+      "file": "designer-reference-set-variable-mode-name.md",
+      "scraped": true,
+      "word_count": 231
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-variable-mode-style",
+      "slug": "designer-reference-set-variable-mode-style",
+      "file": "designer-reference-set-variable-mode-style.md",
+      "scraped": true,
+      "word_count": 398
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-variable-modes-style",
+      "slug": "designer-reference-set-variable-modes-style",
+      "file": "designer-reference-set-variable-modes-style.md",
+      "scraped": true,
+      "word_count": 414
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-variable-name",
+      "slug": "designer-reference-set-variable-name",
+      "file": "designer-reference-set-variable-name.md",
+      "scraped": true,
+      "word_count": 223
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/set-variable-value",
+      "slug": "designer-reference-set-variable-value",
+      "file": "designer-reference-set-variable-value.md",
+      "scraped": true,
+      "word_count": 426
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/string-element",
+      "slug": "designer-reference-string-element",
+      "file": "designer-reference-string-element.md",
+      "scraped": true,
+      "word_count": 288
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/string-element/getText",
+      "slug": "designer-reference-string-element-gettext",
+      "file": "designer-reference-string-element-gettext.md",
+      "scraped": true,
+      "word_count": 165
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/string-element/setText",
+      "slug": "designer-reference-string-element-settext",
+      "file": "designer-reference-string-element-settext.md",
+      "scraped": true,
+      "word_count": 257
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/style-properties",
+      "slug": "designer-reference-style-properties",
+      "file": "designer-reference-style-properties.md",
+      "scraped": true,
+      "word_count": 3409
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/style/is-combo-class",
+      "slug": "designer-reference-style-is-combo-class",
+      "file": "designer-reference-style-is-combo-class.md",
+      "scraped": true,
+      "word_count": 197
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/styles-overview",
+      "slug": "designer-reference-styles-overview",
+      "file": "designer-reference-styles-overview.md",
+      "scraped": true,
+      "word_count": 821
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/switch-page",
+      "slug": "designer-reference-switch-page",
+      "file": "designer-reference-switch-page.md",
+      "scraped": true,
+      "word_count": 233
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/use-description-as-open-graph-description",
+      "slug": "designer-reference-use-description-as-open-graph-description",
+      "file": "designer-reference-use-description-as-open-graph-description.md",
+      "scraped": true,
+      "word_count": 242
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/use-open-graph-image-as-search-image",
+      "slug": "designer-reference-use-open-graph-image-as-search-image",
+      "file": "designer-reference-use-open-graph-image-as-search-image.md",
+      "scraped": true,
+      "word_count": 219
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/use-page-description-as-search-description",
+      "slug": "designer-reference-use-page-description-as-search-description",
+      "file": "designer-reference-use-page-description-as-search-description.md",
+      "scraped": true,
+      "word_count": 219
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/use-page-title-as-search-title",
+      "slug": "designer-reference-use-page-title-as-search-title",
+      "file": "designer-reference-use-page-title-as-search-title.md",
+      "scraped": true,
+      "word_count": 216
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/user-changes-breakpoint",
+      "slug": "designer-reference-user-changes-breakpoint",
+      "file": "designer-reference-user-changes-breakpoint.md",
+      "scraped": true,
+      "word_count": 453
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/user-changes-cms-page",
+      "slug": "designer-reference-user-changes-cms-page",
+      "file": "designer-reference-user-changes-cms-page.md",
+      "scraped": true,
+      "word_count": 279
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/user-changes-current-page",
+      "slug": "designer-reference-user-changes-current-page",
+      "file": "designer-reference-user-changes-current-page.md",
+      "scraped": true,
+      "word_count": 276
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/user-changes-mode",
+      "slug": "designer-reference-user-changes-mode",
+      "file": "designer-reference-user-changes-mode.md",
+      "scraped": true,
+      "word_count": 235
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/user-changes-pseudo-mode",
+      "slug": "designer-reference-user-changes-pseudo-mode",
+      "file": "designer-reference-user-changes-pseudo-mode.md",
+      "scraped": true,
+      "word_count": 327
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/user-selects-element",
+      "slug": "designer-reference-user-selects-element",
+      "file": "designer-reference-user-selects-element.md",
+      "scraped": true,
+      "word_count": 302
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/uses-description-as-open-graph-description",
+      "slug": "designer-reference-uses-description-as-open-graph-description",
+      "file": "designer-reference-uses-description-as-open-graph-description.md",
+      "scraped": true,
+      "word_count": 245
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/uses-title-as-open-graph-title",
+      "slug": "designer-reference-uses-title-as-open-graph-title",
+      "file": "designer-reference-uses-title-as-open-graph-title.md",
+      "scraped": true,
+      "word_count": 251
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/variable-collections-overview",
+      "slug": "designer-reference-variable-collections-overview",
+      "file": "designer-reference-variable-collections-overview.md",
+      "scraped": true,
+      "word_count": 173
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/variable-modes",
+      "slug": "designer-reference-variable-modes",
+      "file": "designer-reference-variable-modes.md",
+      "scraped": true,
+      "word_count": 208
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/variable-modes-style",
+      "slug": "designer-reference-variable-modes-style",
+      "file": "designer-reference-variable-modes-style.md",
+      "scraped": true,
+      "word_count": 93
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/variables-detail-overview",
+      "slug": "designer-reference-variables-detail-overview",
+      "file": "designer-reference-variables-detail-overview.md",
+      "scraped": true,
+      "word_count": 868
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/variables-overview",
+      "slug": "designer-reference-variables-overview",
+      "file": "designer-reference-variables-overview.md",
+      "scraped": true,
+      "word_count": 176
+    },
+    {
+      "url": "https://developers.webflow.com/designer/reference/webflow-cli",
+      "slug": "designer-reference-webflow-cli",
+      "file": "designer-reference-webflow-cli.md",
+      "scraped": true,
+      "word_count": 337
+    },
+    {
+      "url": "https://developers.webflow.com/designer/set-page-metadata",
+      "slug": "designer-set-page-metadata",
+      "file": "designer-set-page-metadata.md",
+      "scraped": true,
+      "word_count": 478
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/docs/component-export",
+      "slug": "devlink-docs-component-export",
+      "file": "devlink-docs-component-export.md",
+      "scraped": true,
+      "word_count": 387
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/docs/component-export/design-guidelines/component-architecture",
+      "slug": "devlink-docs-component-export-design-guidelines-component-architecture",
+      "file": "devlink-docs-component-export-design-guidelines-component-architecture.md",
+      "scraped": true,
+      "word_count": 1399
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/docs/component-export/design-guidelines/element-settings",
+      "slug": "devlink-docs-component-export-design-guidelines-element-settings",
+      "file": "devlink-docs-component-export-design-guidelines-element-settings.md",
+      "scraped": true,
+      "word_count": 613
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/docs/component-export/design-guidelines/interactions",
+      "slug": "devlink-docs-component-export-design-guidelines-interactions",
+      "file": "devlink-docs-component-export-design-guidelines-interactions.md",
+      "scraped": true,
+      "word_count": 243
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/docs/component-export/design-guidelines/props-slots",
+      "slug": "devlink-docs-component-export-design-guidelines-props-slots",
+      "file": "devlink-docs-component-export-design-guidelines-props-slots.md",
+      "scraped": true,
+      "word_count": 765
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/docs/component-export/installation",
+      "slug": "devlink-docs-component-export-installation",
+      "file": "devlink-docs-component-export-installation.md",
+      "scraped": true,
+      "word_count": 711
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/docs/component-export/resources",
+      "slug": "devlink-docs-component-export-resources",
+      "file": "devlink-docs-component-export-resources.md",
+      "scraped": true,
+      "word_count": 165
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/docs/component-export/usage",
+      "slug": "devlink-docs-component-export-usage",
+      "file": "devlink-docs-component-export-usage.md",
+      "scraped": true,
+      "word_count": 517
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/docs/component-export/usage/troubleshooting",
+      "slug": "devlink-docs-component-export-usage-troubleshooting",
+      "file": "devlink-docs-component-export-usage-troubleshooting.md",
+      "scraped": true,
+      "word_count": 1162
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/docs/component-export/whats-exported",
+      "slug": "devlink-docs-component-export-whats-exported",
+      "file": "devlink-docs-component-export-whats-exported.md",
+      "scraped": true,
+      "word_count": 6411
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/docs/quick-start/quick-start-component-export",
+      "slug": "devlink-docs-quick-start-quick-start-component-export",
+      "file": "devlink-docs-quick-start-quick-start-component-export.md",
+      "scraped": true,
+      "word_count": 1052
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/reference/cli",
+      "slug": "devlink-reference-cli",
+      "file": "devlink-reference-cli.md",
+      "scraped": true,
+      "word_count": 726
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/reference/overview",
+      "slug": "devlink-reference-overview",
+      "file": "devlink-reference-overview.md",
+      "scraped": true,
+      "word_count": 396
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/usage/framework-guides",
+      "slug": "devlink-usage-framework-guides",
+      "file": "devlink-usage-framework-guides.md",
+      "scraped": true,
+      "word_count": 1231
+    },
+    {
+      "url": "https://developers.webflow.com/devlink/usage/styling-and-theming-overrides",
+      "slug": "devlink-usage-styling-and-theming-overrides",
+      "file": "devlink-usage-styling-and-theming-overrides.md",
+      "scraped": true,
+      "word_count": 694
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/changelog",
+      "slug": "flowkit-changelog",
+      "file": "flowkit-changelog.md",
+      "scraped": true,
+      "word_count": 270
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/changelog/2025-07-25",
+      "slug": "flowkit-changelog-2025-07-25",
+      "file": "flowkit-changelog-2025-07-25.md",
+      "scraped": true,
+      "word_count": 270
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/components",
+      "slug": "flowkit-components",
+      "file": "flowkit-components.md",
+      "scraped": true,
+      "word_count": 240
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/components/accordion",
+      "slug": "flowkit-components-accordion",
+      "file": "flowkit-components-accordion.md",
+      "scraped": true,
+      "word_count": 207
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/components/buttons",
+      "slug": "flowkit-components-buttons",
+      "file": "flowkit-components-buttons.md",
+      "scraped": true,
+      "word_count": 433
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/components/cards",
+      "slug": "flowkit-components-cards",
+      "file": "flowkit-components-cards.md",
+      "scraped": true,
+      "word_count": 255
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/components/divider",
+      "slug": "flowkit-components-divider",
+      "file": "flowkit-components-divider.md",
+      "scraped": true,
+      "word_count": 194
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/components/dropdown",
+      "slug": "flowkit-components-dropdown",
+      "file": "flowkit-components-dropdown.md",
+      "scraped": true,
+      "word_count": 265
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/components/forms",
+      "slug": "flowkit-components-forms",
+      "file": "flowkit-components-forms.md",
+      "scraped": true,
+      "word_count": 281
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/components/images",
+      "slug": "flowkit-components-images",
+      "file": "flowkit-components-images.md",
+      "scraped": true,
+      "word_count": 526
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/components/richtext",
+      "slug": "flowkit-components-richtext",
+      "file": "flowkit-components-richtext.md",
+      "scraped": true,
+      "word_count": 235
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/components/slider",
+      "slug": "flowkit-components-slider",
+      "file": "flowkit-components-slider.md",
+      "scraped": true,
+      "word_count": 224
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/components/tabs",
+      "slug": "flowkit-components-tabs",
+      "file": "flowkit-components-tabs.md",
+      "scraped": true,
+      "word_count": 188
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/components/tag",
+      "slug": "flowkit-components-tag",
+      "file": "flowkit-components-tag.md",
+      "scraped": true,
+      "word_count": 166
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/foundation/spacing",
+      "slug": "flowkit-foundation-spacing",
+      "file": "flowkit-foundation-spacing.md",
+      "scraped": true,
+      "word_count": 371
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/getting-started/intro",
+      "slug": "flowkit-getting-started-intro",
+      "file": "flowkit-getting-started-intro.md",
+      "scraped": true,
+      "word_count": 1288
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/getting-started/units",
+      "slug": "flowkit-getting-started-units",
+      "file": "flowkit-getting-started-units.md",
+      "scraped": true,
+      "word_count": 512
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/reference/utilities",
+      "slug": "flowkit-reference-utilities",
+      "file": "flowkit-reference-utilities.md",
+      "scraped": true,
+      "word_count": 1514
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/structure/flex",
+      "slug": "flowkit-structure-flex",
+      "file": "flowkit-structure-flex.md",
+      "scraped": true,
+      "word_count": 476
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/structure/grid",
+      "slug": "flowkit-structure-grid",
+      "file": "flowkit-structure-grid.md",
+      "scraped": true,
+      "word_count": 407
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/structure/page-structure",
+      "slug": "flowkit-structure-page-structure",
+      "file": "flowkit-structure-page-structure.md",
+      "scraped": true,
+      "word_count": 473
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/components/accordion",
+      "slug": "flowkit-v1-0-0-components-accordion",
+      "file": "flowkit-v1-0-0-components-accordion.md",
+      "scraped": true,
+      "word_count": 224
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/components/buttons",
+      "slug": "flowkit-v1-0-0-components-buttons",
+      "file": "flowkit-v1-0-0-components-buttons.md",
+      "scraped": true,
+      "word_count": 539
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/components/cards",
+      "slug": "flowkit-v1-0-0-components-cards",
+      "file": "flowkit-v1-0-0-components-cards.md",
+      "scraped": true,
+      "word_count": 296
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/components/divider",
+      "slug": "flowkit-v1-0-0-components-divider",
+      "file": "flowkit-v1-0-0-components-divider.md",
+      "scraped": true,
+      "word_count": 215
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/components/dropdown",
+      "slug": "flowkit-v1-0-0-components-dropdown",
+      "file": "flowkit-v1-0-0-components-dropdown.md",
+      "scraped": true,
+      "word_count": 293
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/components/forms",
+      "slug": "flowkit-v1-0-0-components-forms",
+      "file": "flowkit-v1-0-0-components-forms.md",
+      "scraped": true,
+      "word_count": 346
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/components/images",
+      "slug": "flowkit-v1-0-0-components-images",
+      "file": "flowkit-v1-0-0-components-images.md",
+      "scraped": true,
+      "word_count": 610
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/components/richtext",
+      "slug": "flowkit-v1-0-0-components-richtext",
+      "file": "flowkit-v1-0-0-components-richtext.md",
+      "scraped": true,
+      "word_count": 251
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/components/slider",
+      "slug": "flowkit-v1-0-0-components-slider",
+      "file": "flowkit-v1-0-0-components-slider.md",
+      "scraped": true,
+      "word_count": 244
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/components/tabs",
+      "slug": "flowkit-v1-0-0-components-tabs",
+      "file": "flowkit-v1-0-0-components-tabs.md",
+      "scraped": true,
+      "word_count": 229
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/foundation/spacing",
+      "slug": "flowkit-v1-0-0-foundation-spacing",
+      "file": "flowkit-v1-0-0-foundation-spacing.md",
+      "scraped": true,
+      "word_count": 452
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/getting-started/intro",
+      "slug": "flowkit-v1-0-0-getting-started-intro",
+      "file": "flowkit-v1-0-0-getting-started-intro.md",
+      "scraped": true,
+      "word_count": 1032
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/getting-started/units",
+      "slug": "flowkit-v1-0-0-getting-started-units",
+      "file": "flowkit-v1-0-0-getting-started-units.md",
+      "scraped": true,
+      "word_count": 528
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/reference/flowkit-beta/components/tag",
+      "slug": "flowkit-v1-0-0-reference-flowkit-beta-components-tag",
+      "file": "flowkit-v1-0-0-reference-flowkit-beta-components-tag.md",
+      "scraped": true,
+      "word_count": 196
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/reference/utilities",
+      "slug": "flowkit-v1-0-0-reference-utilities",
+      "file": "flowkit-v1-0-0-reference-utilities.md",
+      "scraped": true,
+      "word_count": 1861
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/structure/flex",
+      "slug": "flowkit-v1-0-0-structure-flex",
+      "file": "flowkit-v1-0-0-structure-flex.md",
+      "scraped": true,
+      "word_count": 707
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/structure/grid",
+      "slug": "flowkit-v1-0-0-structure-grid",
+      "file": "flowkit-v1-0-0-structure-grid.md",
+      "scraped": true,
+      "word_count": 374
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/structure/page-structure",
+      "slug": "flowkit-v1-0-0-structure-page-structure",
+      "file": "flowkit-v1-0-0-structure-page-structure.md",
+      "scraped": true,
+      "word_count": 535
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/variables/border",
+      "slug": "flowkit-v1-0-0-variables-border",
+      "file": "flowkit-v1-0-0-variables-border.md",
+      "scraped": true,
+      "word_count": 362
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/variables/color",
+      "slug": "flowkit-v1-0-0-variables-color",
+      "file": "flowkit-v1-0-0-variables-color.md",
+      "scraped": true,
+      "word_count": 458
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/variables/overview",
+      "slug": "flowkit-v1-0-0-variables-overview",
+      "file": "flowkit-v1-0-0-variables-overview.md",
+      "scraped": true,
+      "word_count": 273
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/v1.0.0/variables/typography",
+      "slug": "flowkit-v1-0-0-variables-typography",
+      "file": "flowkit-v1-0-0-variables-typography.md",
+      "scraped": true,
+      "word_count": 680
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/variables/border",
+      "slug": "flowkit-variables-border",
+      "file": "flowkit-variables-border.md",
+      "scraped": true,
+      "word_count": 347
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/variables/color",
+      "slug": "flowkit-variables-color",
+      "file": "flowkit-variables-color.md",
+      "scraped": true,
+      "word_count": 479
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/variables/overview",
+      "slug": "flowkit-variables-overview",
+      "file": "flowkit-variables-overview.md",
+      "scraped": true,
+      "word_count": 230
+    },
+    {
+      "url": "https://developers.webflow.com/flowkit/variables/typography",
+      "slug": "flowkit-variables-typography",
+      "file": "flowkit-variables-typography.md",
+      "scraped": true,
+      "word_count": 660
+    },
+    {
+      "url": "https://developers.webflow.com/llms.txt",
+      "slug": "llms-txt",
+      "file": "llms-txt.md",
+      "scraped": true,
+      "word_count": 12138
+    },
+    {
+      "url": "https://developers.webflow.com/sitemap.xml",
+      "slug": "sitemap-xml",
+      "file": "sitemap-xml.md",
+      "scraped": true,
+      "word_count": 1
+    },
+    {
+      "url": "https://developers.webflow.com/submit",
+      "slug": "submit",
+      "file": "submit.md",
+      "scraped": true,
+      "word_count": 29
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/add-key-value-store",
+      "slug": "webflow-cloud-add-key-value-store",
+      "file": "webflow-cloud-add-key-value-store.md",
+      "scraped": true,
+      "word_count": 2367
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/add-object-storage",
+      "slug": "webflow-cloud-add-object-storage",
+      "file": "webflow-cloud-add-object-storage.md",
+      "scraped": true,
+      "word_count": 7364
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/add-sqlite",
+      "slug": "webflow-cloud-add-sqlite",
+      "file": "webflow-cloud-add-sqlite.md",
+      "scraped": true,
+      "word_count": 1992
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/bring-your-own-app",
+      "slug": "webflow-cloud-bring-your-own-app",
+      "file": "webflow-cloud-bring-your-own-app.md",
+      "scraped": true,
+      "word_count": 2160
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/changelog",
+      "slug": "webflow-cloud-changelog",
+      "file": "webflow-cloud-changelog.md",
+      "scraped": true,
+      "word_count": 553
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/changelog/20250716",
+      "slug": "webflow-cloud-changelog-20250716",
+      "file": "webflow-cloud-changelog-20250716.md",
+      "scraped": true,
+      "word_count": 392
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/changelog/20251106",
+      "slug": "webflow-cloud-changelog-20251106",
+      "file": "webflow-cloud-changelog-20251106.md",
+      "scraped": true,
+      "word_count": 270
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/deployments",
+      "slug": "webflow-cloud-deployments",
+      "file": "webflow-cloud-deployments.md",
+      "scraped": true,
+      "word_count": 1199
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/environment",
+      "slug": "webflow-cloud-environment",
+      "file": "webflow-cloud-environment.md",
+      "scraped": true,
+      "word_count": 383
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/environment/configuration",
+      "slug": "webflow-cloud-environment-configuration",
+      "file": "webflow-cloud-environment-configuration.md",
+      "scraped": true,
+      "word_count": 899
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/environment/framework-customization",
+      "slug": "webflow-cloud-environment-framework-customization",
+      "file": "webflow-cloud-environment-framework-customization.md",
+      "scraped": true,
+      "word_count": 1189
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/environment/nodejs-compatibility",
+      "slug": "webflow-cloud-environment-nodejs-compatibility",
+      "file": "webflow-cloud-environment-nodejs-compatibility.md",
+      "scraped": true,
+      "word_count": 941
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/environments",
+      "slug": "webflow-cloud-environments",
+      "file": "webflow-cloud-environments.md",
+      "scraped": true,
+      "word_count": 1436
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/getting-started",
+      "slug": "webflow-cloud-getting-started",
+      "file": "webflow-cloud-getting-started.md",
+      "scraped": true,
+      "word_count": 1585
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/intro",
+      "slug": "webflow-cloud-intro",
+      "file": "webflow-cloud-intro.md",
+      "scraped": true,
+      "word_count": 539
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/limits",
+      "slug": "webflow-cloud-limits",
+      "file": "webflow-cloud-limits.md",
+      "scraped": true,
+      "word_count": 1109
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/storing-data/key-value-store",
+      "slug": "webflow-cloud-storing-data-key-value-store",
+      "file": "webflow-cloud-storing-data-key-value-store.md",
+      "scraped": true,
+      "word_count": 1514
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/storing-data/object-storage",
+      "slug": "webflow-cloud-storing-data-object-storage",
+      "file": "webflow-cloud-storing-data-object-storage.md",
+      "scraped": true,
+      "word_count": 1714
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/storing-data/overview",
+      "slug": "webflow-cloud-storing-data-overview",
+      "file": "webflow-cloud-storing-data-overview.md",
+      "scraped": true,
+      "word_count": 1473
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/storing-data/sqlite",
+      "slug": "webflow-cloud-storing-data-sqlite",
+      "file": "webflow-cloud-storing-data-sqlite.md",
+      "scraped": true,
+      "word_count": 1520
+    },
+    {
+      "url": "https://developers.webflow.com/webflow-cloud/usage",
+      "slug": "webflow-cloud-usage",
+      "file": "webflow-cloud-usage.md",
+      "scraped": true,
+      "word_count": 664
+    }
+  ]
+}

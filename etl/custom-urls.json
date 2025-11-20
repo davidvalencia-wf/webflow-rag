@@ -1,0 +1,9 @@
+{
+  "source": "custom-webflow-docs",
+  "note": "Add any Webflow URLs you want to scrape here. The scraper will process them all.",
+  "curated_at": "2024-11-17",
+  "urls": [
+    "https://help.webflow.com/hc/en-us/articles/example-url-1",
+    "https://help.webflow.com/hc/en-us/articles/example-url-2"
+  ]
+}

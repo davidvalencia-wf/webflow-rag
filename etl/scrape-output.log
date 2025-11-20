@@ -1,0 +1,2138 @@
+🚀 PRODUCTION SCRAPE V2: Webflow Updates (Clean Content)
+📅 Started: 2025-11-13T13:16:29.594Z
+📊 Total articles: 106
+
+
+[2025-11-13T13:16:29.598Z] Scraping: comment-only-links-and-comment-metadata
+  ✓ Saved: comment-only-links-and-comment-metadata.md (103 words)
+
+[2025-11-13T13:16:35.674Z] Scraping: app-gen
+  ✓ Saved: app-gen.md (184 words)
+
+[2025-11-13T13:16:41.473Z] Scraping: ai-seo-aeo
+  ✓ Saved: ai-seo-aeo.md (408 words)
+
+[2025-11-13T13:16:47.390Z] Scraping: ssl
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:16:51.183Z] Scraping: ssl
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:16:55.022Z] Scraping: ssl
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:16:58.760Z] Scraping: ssl
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:17:02.602Z] Scraping: ssl
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:17:06.342Z] Scraping: ssl
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:17:12.154Z] Scraping: hsts
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:17:16.243Z] Scraping: hsts
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (4 left)
+
+[2025-11-13T13:17:46.310Z] Scraping: hsts
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:17:50.300Z] Scraping: hsts
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:17:55.510Z] Scraping: hsts
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:18:01.213Z] Scraping: hsts
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:18:07.242Z] Scraping: localizationavailabilityupdate
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:18:11.022Z] Scraping: localizationavailabilityupdate
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:18:14.687Z] Scraping: localizationavailabilityupdate
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:18:18.448Z] Scraping: localizationavailabilityupdate
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:18:22.225Z] Scraping: localizationavailabilityupdate
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:18:25.886Z] Scraping: localizationavailabilityupdate
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:18:31.558Z] Scraping: symbols
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T13:19:01.753Z] Scraping: symbols
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:19:05.570Z] Scraping: symbols
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:19:09.163Z] Scraping: symbols
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 502
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:19:20.759Z] Scraping: symbols
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:19:24.450Z] Scraping: symbols
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:19:30.204Z] Scraping: developer-resources
+  ✗ Error: Content too short: 47 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:19:34.199Z] Scraping: developer-resources
+  ✗ Error: Content too short: 47 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:19:37.994Z] Scraping: developer-resources
+  ✗ Error: Content too short: 47 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:19:41.846Z] Scraping: developer-resources
+  ✗ Error: Content too short: 47 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:19:45.637Z] Scraping: developer-resources
+  ✗ Error: Content too short: 47 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:19:49.375Z] Scraping: developer-resources
+  ✗ Error: Content too short: 47 words (likely extraction failed)
+
+[2025-11-13T13:19:55.239Z] Scraping: client-payments
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T13:20:25.416Z] Scraping: client-payments
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:20:29.350Z] Scraping: client-payments
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:20:33.277Z] Scraping: client-payments
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:20:37.067Z] Scraping: client-payments
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:20:40.836Z] Scraping: client-payments
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:20:46.597Z] Scraping: api-keys
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:20:50.516Z] Scraping: api-keys
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:20:54.521Z] Scraping: api-keys
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:20:58.170Z] Scraping: api-keys
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:21:02.032Z] Scraping: api-keys
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:21:05.736Z] Scraping: api-keys
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+⏳ 10/106 (9.4%)
+
+📊 Progress: 3/106 articles
+
+[2025-11-13T13:21:10.801Z] Scraping: cms-api
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T13:21:40.977Z] Scraping: cms-api
+  ✓ Saved: cms-api.md (59 words)
+
+[2025-11-13T13:21:46.880Z] Scraping: creator-profiles
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:21:50.720Z] Scraping: creator-profiles
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:21:55.007Z] Scraping: creator-profiles
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:21:59.876Z] Scraping: creator-profiles
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:22:06.661Z] Scraping: creator-profiles
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:22:10.389Z] Scraping: creator-profiles
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:22:16.245Z] Scraping: webflow-redesign
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:22:20.277Z] Scraping: webflow-redesign
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:22:23.920Z] Scraping: webflow-redesign
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:22:27.749Z] Scraping: webflow-redesign
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (2 left)
+
+[2025-11-13T13:22:57.820Z] Scraping: webflow-redesign
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:23:01.783Z] Scraping: webflow-redesign
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:23:07.616Z] Scraping: updated-navigation
+  ✓ Saved: updated-navigation.md (355 words)
+
+[2025-11-13T13:23:13.758Z] Scraping: scim-provisioning
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:23:17.803Z] Scraping: scim-provisioning
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:23:21.689Z] Scraping: scim-provisioning
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:23:25.618Z] Scraping: scim-provisioning
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:23:29.401Z] Scraping: scim-provisioning
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:23:33.202Z] Scraping: scim-provisioning
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:23:39.170Z] Scraping: help-center
+  ✓ Saved: help-center.md (92 words)
+
+[2025-11-13T13:23:44.970Z] Scraping: merge-summary
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T13:24:15.164Z] Scraping: merge-summary
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:24:19.088Z] Scraping: merge-summary
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:24:23.165Z] Scraping: merge-summary
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:24:27.100Z] Scraping: merge-summary
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:24:31.014Z] Scraping: merge-summary
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:24:36.695Z] Scraping: dropdown-menu
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:24:40.637Z] Scraping: dropdown-menu
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:24:44.302Z] Scraping: dropdown-menu
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:24:47.993Z] Scraping: dropdown-menu
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:24:51.942Z] Scraping: dropdown-menu
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:24:55.837Z] Scraping: dropdown-menu
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+[2025-11-13T13:25:00.905Z] Scraping: marketo-integration
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T13:25:31.089Z] Scraping: marketo-integration
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:25:34.844Z] Scraping: marketo-integration
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:25:38.716Z] Scraping: marketo-integration
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:25:42.558Z] Scraping: marketo-integration
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:25:46.731Z] Scraping: marketo-integration
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:25:52.453Z] Scraping: function-variables
+  ✓ Saved: function-variables.md (237 words)
+
+⏳ 20/106 (18.9%)
+
+📊 Progress: 7/106 articles
+
+[2025-11-13T13:25:58.696Z] Scraping: csv-import
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:26:05.349Z] Scraping: csv-import
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:26:09.071Z] Scraping: csv-import
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:26:12.718Z] Scraping: csv-import
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:26:16.470Z] Scraping: csv-import
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (1 left)
+
+[2025-11-13T13:26:46.538Z] Scraping: csv-import
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:26:52.513Z] Scraping: drop-shadows
+  ✓ Saved: drop-shadows.md (343 words)
+
+[2025-11-13T13:26:58.401Z] Scraping: bulk-publishing
+  ✓ Saved: bulk-publishing.md (142 words)
+
+[2025-11-13T13:27:17.684Z] Scraping: dashboard-folders
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:27:35.788Z] Scraping: dashboard-folders
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:27:39.418Z] Scraping: dashboard-folders
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:27:43.193Z] Scraping: dashboard-folders
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:27:46.919Z] Scraping: dashboard-folders
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:27:50.589Z] Scraping: dashboard-folders
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:27:56.447Z] Scraping: blending-mode
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:28:13.712Z] Scraping: blending-mode
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:28:17.478Z] Scraping: blending-mode
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:28:21.329Z] Scraping: blending-mode
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:28:24.998Z] Scraping: blending-mode
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:28:28.888Z] Scraping: blending-mode
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:28:34.920Z] Scraping: aspect-ratio
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:28:51.556Z] Scraping: aspect-ratio
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:28:55.375Z] Scraping: aspect-ratio
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:28:59.206Z] Scraping: aspect-ratio
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:29:03.014Z] Scraping: aspect-ratio
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:29:06.686Z] Scraping: aspect-ratio
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:29:12.488Z] Scraping: page-branching
+  ✓ Saved: page-branching.md (365 words)
+
+[2025-11-13T13:29:31.836Z] Scraping: css-filters
+  ✓ Saved: css-filters.md (249 words)
+
+[2025-11-13T13:29:50.760Z] Scraping: mailchimp-integration
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:30:10.265Z] Scraping: mailchimp-integration
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:30:13.950Z] Scraping: mailchimp-integration
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:30:17.678Z] Scraping: mailchimp-integration
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:30:21.411Z] Scraping: mailchimp-integration
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:30:25.070Z] Scraping: mailchimp-integration
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:30:31.489Z] Scraping: private-staging
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:30:48.120Z] Scraping: private-staging
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:30:52.769Z] Scraping: private-staging
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:30:56.585Z] Scraping: private-staging
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:31:00.398Z] Scraping: private-staging
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:31:04.471Z] Scraping: private-staging
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+⏳ 30/106 (28.3%)
+
+📊 Progress: 11/106 articles
+
+[2025-11-13T13:31:09.538Z] Scraping: libraries-panel
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T13:31:39.722Z] Scraping: libraries-panel
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:31:56.566Z] Scraping: libraries-panel
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:32:00.488Z] Scraping: libraries-panel
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:32:04.441Z] Scraping: libraries-panel
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:32:08.265Z] Scraping: libraries-panel
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:32:14.327Z] Scraping: variable-modes
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:32:31.743Z] Scraping: variable-modes
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:32:35.459Z] Scraping: variable-modes
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:32:39.197Z] Scraping: variable-modes
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:32:43.044Z] Scraping: variable-modes
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:32:47.006Z] Scraping: variable-modes
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:32:52.747Z] Scraping: component-ux
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:33:09.494Z] Scraping: component-ux
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:33:13.343Z] Scraping: component-ux
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:33:17.115Z] Scraping: component-ux
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:33:20.880Z] Scraping: component-ux
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:33:24.525Z] Scraping: component-ux
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:33:30.368Z] Scraping: cloud-storage
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:33:47.072Z] Scraping: cloud-storage
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:33:50.663Z] Scraping: cloud-storage
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:33:54.584Z] Scraping: cloud-storage
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:33:58.191Z] Scraping: cloud-storage
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:34:01.790Z] Scraping: cloud-storage
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:34:07.434Z] Scraping: slash-commands
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:34:24.520Z] Scraping: slash-commands
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:34:28.318Z] Scraping: slash-commands
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:34:32.172Z] Scraping: slash-commands
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:34:36.078Z] Scraping: slash-commands
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:34:39.780Z] Scraping: slash-commands
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+[2025-11-13T13:34:44.848Z] Scraping: html-embeds
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T13:35:15.031Z] Scraping: html-embeds
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:35:31.526Z] Scraping: html-embeds
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:35:35.150Z] Scraping: html-embeds
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:35:38.943Z] Scraping: html-embeds
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:35:42.565Z] Scraping: html-embeds
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:35:48.261Z] Scraping: text-columns
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:36:04.752Z] Scraping: text-columns
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:36:08.479Z] Scraping: text-columns
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:36:12.085Z] Scraping: text-columns
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:36:15.832Z] Scraping: text-columns
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:36:19.632Z] Scraping: text-columns
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:36:25.183Z] Scraping: rich-text
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:36:42.929Z] Scraping: rich-text
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:36:46.560Z] Scraping: rich-text
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:36:50.270Z] Scraping: rich-text
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:36:53.978Z] Scraping: rich-text
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:36:57.927Z] Scraping: rich-text
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:37:04.881Z] Scraping: ecommerce-scale
+  ✓ Saved: ecommerce-scale.md (324 words)
+
+[2025-11-13T13:37:23.434Z] Scraping: component-groups
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:37:40.155Z] Scraping: component-groups
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:37:43.915Z] Scraping: component-groups
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:37:47.718Z] Scraping: component-groups
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:37:51.559Z] Scraping: component-groups
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:37:55.348Z] Scraping: component-groups
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+⏳ 40/106 (37.7%)
+
+📊 Progress: 12/106 articles
+
+[2025-11-13T13:38:01.162Z] Scraping: cms-whitelabeling
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:38:18.752Z] Scraping: cms-whitelabeling
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:38:22.484Z] Scraping: cms-whitelabeling
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:38:26.288Z] Scraping: cms-whitelabeling
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:38:30.094Z] Scraping: cms-whitelabeling
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:38:33.910Z] Scraping: cms-whitelabeling
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:38:39.717Z] Scraping: cms-improvements
+  ✓ Saved: cms-improvements.md (345 words)
+
+[2025-11-13T13:38:59.112Z] Scraping: quick-find
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:39:15.482Z] Scraping: quick-find
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:39:19.213Z] Scraping: quick-find
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:39:23.233Z] Scraping: quick-find
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:39:26.992Z] Scraping: quick-find
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:39:30.796Z] Scraping: quick-find
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:39:36.655Z] Scraping: publishing-workflows
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:40:01.423Z] Scraping: publishing-workflows
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:40:05.685Z] Scraping: publishing-workflows
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:40:10.141Z] Scraping: publishing-workflows
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:40:13.840Z] Scraping: publishing-workflows
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:40:17.671Z] Scraping: publishing-workflows
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:40:23.551Z] Scraping: password-protection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:40:39.735Z] Scraping: password-protection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:40:43.448Z] Scraping: password-protection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:40:47.272Z] Scraping: password-protection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:40:51.216Z] Scraping: password-protection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:40:55.476Z] Scraping: password-protection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:41:04.259Z] Scraping: improvements-to-components
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:41:21.437Z] Scraping: improvements-to-components
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:41:25.287Z] Scraping: improvements-to-components
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:41:29.046Z] Scraping: improvements-to-components
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:41:32.801Z] Scraping: improvements-to-components
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:41:36.609Z] Scraping: improvements-to-components
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+[2025-11-13T13:41:41.676Z] Scraping: dashboard-quick-find
+  ✓ Saved: dashboard-quick-find.md (176 words)
+
+[2025-11-13T13:42:00.086Z] Scraping: variant-selector-button
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:42:16.498Z] Scraping: variant-selector-button
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:42:20.217Z] Scraping: variant-selector-button
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:42:24.005Z] Scraping: variant-selector-button
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:42:27.746Z] Scraping: variant-selector-button
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:42:31.573Z] Scraping: variant-selector-button
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:42:37.311Z] Scraping: introducing-webflow-analyze
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:42:55.119Z] Scraping: introducing-webflow-analyze
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:42:58.995Z] Scraping: introducing-webflow-analyze
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:43:02.838Z] Scraping: introducing-webflow-analyze
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:43:06.627Z] Scraping: introducing-webflow-analyze
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:43:10.382Z] Scraping: introducing-webflow-analyze
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:43:16.309Z] Scraping: localization-enterprise-availability
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:43:33.763Z] Scraping: localization-enterprise-availability
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:43:37.451Z] Scraping: localization-enterprise-availability
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:43:41.346Z] Scraping: localization-enterprise-availability
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:43:45.015Z] Scraping: localization-enterprise-availability
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:43:48.819Z] Scraping: localization-enterprise-availability
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+⏳ 50/106 (47.2%)
+
+📊 Progress: 14/106 articles
+
+[2025-11-13T13:43:53.894Z] Scraping: client-payments-enhancements
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T13:44:24.092Z] Scraping: client-payments-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:44:40.695Z] Scraping: client-payments-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:44:44.529Z] Scraping: client-payments-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:44:48.315Z] Scraping: client-payments-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:44:52.206Z] Scraping: client-payments-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:44:57.995Z] Scraping: ai-site-builder
+  ✗ Error: Content too short: 9 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:45:14.737Z] Scraping: ai-site-builder
+  ✗ Error: Content too short: 9 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:45:18.419Z] Scraping: ai-site-builder
+  ✗ Error: Content too short: 9 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:45:22.148Z] Scraping: ai-site-builder
+  ✗ Error: Content too short: 9 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:45:26.100Z] Scraping: ai-site-builder
+  ✗ Error: Content too short: 9 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:45:30.077Z] Scraping: ai-site-builder
+  ✗ Error: Content too short: 9 words (likely extraction failed)
+
+[2025-11-13T13:45:36.055Z] Scraping: limited-designer-role
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:45:52.724Z] Scraping: limited-designer-role
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:45:56.520Z] Scraping: limited-designer-role
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:46:04.976Z] Scraping: limited-designer-role
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:46:09.004Z] Scraping: limited-designer-role
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:46:12.876Z] Scraping: limited-designer-role
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:46:18.684Z] Scraping: machine-translation-glossary
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:46:37.711Z] Scraping: machine-translation-glossary
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:46:41.468Z] Scraping: machine-translation-glossary
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:46:45.263Z] Scraping: machine-translation-glossary
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:46:48.965Z] Scraping: machine-translation-glossary
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:46:52.838Z] Scraping: machine-translation-glossary
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:46:58.672Z] Scraping: enterprise-phone-support
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:47:15.471Z] Scraping: enterprise-phone-support
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:47:19.181Z] Scraping: enterprise-phone-support
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:47:23.210Z] Scraping: enterprise-phone-support
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:47:27.079Z] Scraping: enterprise-phone-support
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:47:30.868Z] Scraping: enterprise-phone-support
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+[2025-11-13T13:47:35.956Z] Scraping: localized-page-branching
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T13:48:06.161Z] Scraping: localized-page-branching
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:48:23.040Z] Scraping: localized-page-branching
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:48:26.917Z] Scraping: localized-page-branching
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:48:30.930Z] Scraping: localized-page-branching
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:48:34.762Z] Scraping: localized-page-branching
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:48:40.717Z] Scraping: two-factor-authentication
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:48:57.710Z] Scraping: two-factor-authentication
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:49:01.597Z] Scraping: two-factor-authentication
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:49:05.177Z] Scraping: two-factor-authentication
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:49:08.800Z] Scraping: two-factor-authentication
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:49:12.657Z] Scraping: two-factor-authentication
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:49:18.345Z] Scraping: gsap-becomes-free
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:49:35.139Z] Scraping: gsap-becomes-free
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:49:38.930Z] Scraping: gsap-becomes-free
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:49:42.721Z] Scraping: gsap-becomes-free
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:49:46.510Z] Scraping: gsap-becomes-free
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:49:50.270Z] Scraping: gsap-becomes-free
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:49:56.058Z] Scraping: background-color-overlays
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:50:17.478Z] Scraping: background-color-overlays
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:50:21.314Z] Scraping: background-color-overlays
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:50:25.164Z] Scraping: background-color-overlays
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:50:28.919Z] Scraping: background-color-overlays
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:50:32.631Z] Scraping: background-color-overlays
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:50:38.421Z] Scraping: object-fit-support
+  ✓ Saved: object-fit-support.md (302 words)
+
+⏳ 60/106 (56.6%)
+
+📊 Progress: 15/106 articles
+
+[2025-11-13T13:50:57.240Z] Scraping: rich-text-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:51:28.745Z] Scraping: rich-text-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:51:32.599Z] Scraping: rich-text-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:51:36.492Z] Scraping: rich-text-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:51:40.376Z] Scraping: rich-text-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:51:44.145Z] Scraping: rich-text-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:51:50.042Z] Scraping: custom-ssl-certificates
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:52:07.607Z] Scraping: custom-ssl-certificates
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:52:11.406Z] Scraping: custom-ssl-certificates
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:52:15.392Z] Scraping: custom-ssl-certificates
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:52:19.151Z] Scraping: custom-ssl-certificates
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:52:23.074Z] Scraping: custom-ssl-certificates
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+[2025-11-13T13:52:28.141Z] Scraping: webflow-ai-assistant
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T13:52:58.347Z] Scraping: webflow-ai-assistant
+  ✓ Saved: webflow-ai-assistant.md (495 words)
+
+[2025-11-13T13:53:17.896Z] Scraping: guest-role-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:53:34.835Z] Scraping: guest-role-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:53:38.815Z] Scraping: guest-role-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:53:43.381Z] Scraping: guest-role-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:53:47.952Z] Scraping: guest-role-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:53:51.772Z] Scraping: guest-role-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:53:57.574Z] Scraping: api-updates-q323
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:54:14.381Z] Scraping: api-updates-q323
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:54:18.269Z] Scraping: api-updates-q323
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:54:22.101Z] Scraping: api-updates-q323
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:54:25.819Z] Scraping: api-updates-q323
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:54:29.829Z] Scraping: api-updates-q323
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:54:35.733Z] Scraping: interactive-google-maps
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:54:54.093Z] Scraping: interactive-google-maps
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:54:58.064Z] Scraping: interactive-google-maps
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:55:01.877Z] Scraping: interactive-google-maps
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:55:05.662Z] Scraping: interactive-google-maps
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:55:09.343Z] Scraping: interactive-google-maps
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+[2025-11-13T13:55:14.419Z] Scraping: design-approval-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:55:31.848Z] Scraping: design-approval-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:55:35.877Z] Scraping: design-approval-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:55:39.763Z] Scraping: design-approval-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:55:43.795Z] Scraping: design-approval-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:55:47.861Z] Scraping: design-approval-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:55:53.620Z] Scraping: site-specific-access
+  ✓ Saved: site-specific-access.md (218 words)
+
+[2025-11-13T13:56:13.716Z] Scraping: easier-class-renaming
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:56:30.481Z] Scraping: easier-class-renaming
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:56:34.343Z] Scraping: easier-class-renaming
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:56:38.114Z] Scraping: easier-class-renaming
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:56:42.023Z] Scraping: easier-class-renaming
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:56:45.777Z] Scraping: easier-class-renaming
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:56:51.563Z] Scraping: search-for-swatches
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:57:12.091Z] Scraping: search-for-swatches
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:57:16.103Z] Scraping: search-for-swatches
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:57:20.001Z] Scraping: search-for-swatches
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:57:23.715Z] Scraping: search-for-swatches
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:57:27.547Z] Scraping: search-for-swatches
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+⏳ 70/106 (66.0%)
+
+📊 Progress: 17/106 articles
+
+[2025-11-13T13:57:32.615Z] Scraping: dashboard-list-view
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:57:49.674Z] Scraping: dashboard-list-view
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:57:53.409Z] Scraping: dashboard-list-view
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:57:57.171Z] Scraping: dashboard-list-view
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:58:01.081Z] Scraping: dashboard-list-view
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:58:04.794Z] Scraping: dashboard-list-view
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:58:10.594Z] Scraping: updated-optimization-controls
+  ✓ Saved: updated-optimization-controls.md (170 words)
+
+[2025-11-13T13:58:29.581Z] Scraping: changes-to-forms
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:58:59.344Z] Scraping: changes-to-forms
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:59:03.237Z] Scraping: changes-to-forms
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:59:07.131Z] Scraping: changes-to-forms
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:59:11.043Z] Scraping: changes-to-forms
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:59:14.967Z] Scraping: changes-to-forms
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T13:59:20.892Z] Scraping: additional-form-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T13:59:37.754Z] Scraping: additional-form-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T13:59:41.638Z] Scraping: additional-form-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T13:59:45.377Z] Scraping: additional-form-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T13:59:49.317Z] Scraping: additional-form-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T13:59:53.141Z] Scraping: additional-form-improvements
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+[2025-11-13T13:59:58.214Z] Scraping: apps-updates-july
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T14:00:28.426Z] Scraping: apps-updates-july
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:03:40.464Z] Scraping: apps-updates-july
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:03:53.202Z] Scraping: apps-updates-july
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:04:02.427Z] Scraping: apps-updates-july
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:04:07.573Z] Scraping: apps-updates-july
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:04:13.814Z] Scraping: cms-auto-save
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:04:42.390Z] Scraping: cms-auto-save
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:04:46.234Z] Scraping: cms-auto-save
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:04:50.409Z] Scraping: cms-auto-save
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:04:54.481Z] Scraping: cms-auto-save
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:04:58.769Z] Scraping: cms-auto-save
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:05:05.108Z] Scraping: cms-api-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:05:37.215Z] Scraping: cms-api-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:05:41.099Z] Scraping: cms-api-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:05:45.117Z] Scraping: cms-api-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:05:48.875Z] Scraping: cms-api-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:05:52.741Z] Scraping: cms-api-improvements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:05:58.750Z] Scraping: html5-background-videos
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:06:26.012Z] Scraping: html5-background-videos
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:06:29.786Z] Scraping: html5-background-videos
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:06:33.642Z] Scraping: html5-background-videos
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:06:37.289Z] Scraping: html5-background-videos
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:06:40.926Z] Scraping: html5-background-videos
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:06:46.786Z] Scraping: component-localization-protection
+  ✓ Saved: component-localization-protection.md (100 words)
+
+[2025-11-13T14:07:11.878Z] Scraping: extended-element-conversions
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:07:27.981Z] Scraping: extended-element-conversions
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:07:32.377Z] Scraping: extended-element-conversions
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:07:36.209Z] Scraping: extended-element-conversions
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:07:40.321Z] Scraping: extended-element-conversions
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:07:44.027Z] Scraping: extended-element-conversions
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+⏳ 80/106 (75.5%)
+
+📊 Progress: 19/106 articles
+
+[2025-11-13T14:07:49.912Z] Scraping: per-page-password-protection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:08:06.650Z] Scraping: per-page-password-protection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:08:10.469Z] Scraping: per-page-password-protection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:08:14.443Z] Scraping: per-page-password-protection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:08:18.145Z] Scraping: per-page-password-protection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:08:21.937Z] Scraping: per-page-password-protection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:08:27.810Z] Scraping: commenting-for-workspace-members
+  ✓ Saved: commenting-for-workspace-members.md (219 words)
+
+[2025-11-13T14:08:47.362Z] Scraping: hire-a-webflow-expert
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:09:04.370Z] Scraping: hire-a-webflow-expert
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:09:08.277Z] Scraping: hire-a-webflow-expert
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:09:11.867Z] Scraping: hire-a-webflow-expert
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:09:15.542Z] Scraping: hire-a-webflow-expert
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:09:19.263Z] Scraping: hire-a-webflow-expert
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:09:24.891Z] Scraping: easier-godaddy-domain-connection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:09:41.771Z] Scraping: easier-godaddy-domain-connection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:09:45.629Z] Scraping: easier-godaddy-domain-connection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:09:49.471Z] Scraping: easier-godaddy-domain-connection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:09:53.247Z] Scraping: easier-godaddy-domain-connection
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:09:57.011Z] Scraping: easier-godaddy-domain-connection
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+[2025-11-13T14:10:02.082Z] Scraping: site-activity-log-filters
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T14:10:32.297Z] Scraping: site-activity-log-filters
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:10:48.896Z] Scraping: site-activity-log-filters
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:10:52.741Z] Scraping: site-activity-log-filters
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:10:56.648Z] Scraping: site-activity-log-filters
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:11:00.663Z] Scraping: site-activity-log-filters
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:11:07.055Z] Scraping: publish-individual-cms-items
+  ✓ Saved: publish-individual-cms-items.md (273 words)
+
+[2025-11-13T14:11:26.142Z] Scraping: symbols-evolved-to-components
+  ✓ Saved: symbols-evolved-to-components.md (342 words)
+
+[2025-11-13T14:11:45.547Z] Scraping: site-access-default-setting
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:12:04.090Z] Scraping: site-access-default-setting
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:12:13.824Z] Scraping: site-access-default-setting
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:12:17.669Z] Scraping: site-access-default-setting
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:12:21.324Z] Scraping: site-access-default-setting
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:12:25.203Z] Scraping: site-access-default-setting
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:12:31.300Z] Scraping: flexbox-css3-flexible-boxes
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:12:51.090Z] Scraping: flexbox-css3-flexible-boxes
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:12:54.970Z] Scraping: flexbox-css3-flexible-boxes
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:12:58.794Z] Scraping: flexbox-css3-flexible-boxes
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:13:02.475Z] Scraping: flexbox-css3-flexible-boxes
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:13:06.466Z] Scraping: flexbox-css3-flexible-boxes
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:13:12.261Z] Scraping: style-form-placeholder-text
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:13:28.856Z] Scraping: style-form-placeholder-text
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:13:32.474Z] Scraping: style-form-placeholder-text
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:13:36.027Z] Scraping: style-form-placeholder-text
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:13:39.698Z] Scraping: style-form-placeholder-text
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:13:43.572Z] Scraping: style-form-placeholder-text
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+⏳ 90/106 (84.9%)
+
+📊 Progress: 22/106 articles
+
+[2025-11-13T14:13:48.645Z] Scraping: variable-reordering-bulk-actions
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T14:14:18.845Z] Scraping: variable-reordering-bulk-actions
+  ✓ Saved: variable-reordering-bulk-actions.md (421 words)
+
+[2025-11-13T14:14:40.665Z] Scraping: introducing-the-custom-element
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:14:57.816Z] Scraping: introducing-the-custom-element
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:15:01.850Z] Scraping: introducing-the-custom-element
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:15:05.716Z] Scraping: introducing-the-custom-element
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:15:09.608Z] Scraping: introducing-the-custom-element
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:15:13.502Z] Scraping: introducing-the-custom-element
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:15:19.286Z] Scraping: optimize-based-on-locale
+  ✓ Saved: optimize-based-on-locale.md (152 words)
+
+[2025-11-13T14:15:38.309Z] Scraping: sso-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:15:55.535Z] Scraping: sso-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:15:59.266Z] Scraping: sso-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:16:03.129Z] Scraping: sso-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:16:06.830Z] Scraping: sso-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:16:10.532Z] Scraping: sso-enhancements
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:16:16.400Z] Scraping: custom-301-redirects
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:16:33.041Z] Scraping: custom-301-redirects
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:16:36.922Z] Scraping: custom-301-redirects
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:16:40.923Z] Scraping: custom-301-redirects
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:16:44.615Z] Scraping: custom-301-redirects
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:16:48.408Z] Scraping: custom-301-redirects
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:16:54.357Z] Scraping: interactions-quick-effects
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:17:11.575Z] Scraping: interactions-quick-effects
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:17:15.279Z] Scraping: interactions-quick-effects
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:17:19.067Z] Scraping: interactions-quick-effects
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:17:22.941Z] Scraping: interactions-quick-effects
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:17:26.657Z] Scraping: interactions-quick-effects
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+[2025-11-13T14:17:31.722Z] Scraping: og-asset-updates
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T14:18:01.948Z] Scraping: og-asset-updates
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:18:18.367Z] Scraping: og-asset-updates
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:18:22.142Z] Scraping: og-asset-updates
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:18:25.942Z] Scraping: og-asset-updates
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:18:29.784Z] Scraping: og-asset-updates
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:18:35.579Z] Scraping: site-activity-log
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:18:51.949Z] Scraping: site-activity-log
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:18:55.768Z] Scraping: site-activity-log
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:18:59.623Z] Scraping: site-activity-log
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:19:03.295Z] Scraping: site-activity-log
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:19:07.233Z] Scraping: site-activity-log
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:19:13.131Z] Scraping: certified-partner-program
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:19:29.820Z] Scraping: certified-partner-program
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:19:33.781Z] Scraping: certified-partner-program
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:19:37.544Z] Scraping: certified-partner-program
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:19:41.322Z] Scraping: certified-partner-program
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:19:45.393Z] Scraping: certified-partner-program
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+[2025-11-13T14:19:51.420Z] Scraping: open-graph-og-settings
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:20:09.636Z] Scraping: open-graph-og-settings
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:20:13.410Z] Scraping: open-graph-og-settings
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:20:17.246Z] Scraping: open-graph-og-settings
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:20:21.054Z] Scraping: open-graph-og-settings
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:20:24.833Z] Scraping: open-graph-og-settings
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+
+⏳ 100/106 (94.3%)
+
+📊 Progress: 24/106 articles
+
+[2025-11-13T14:20:30.456Z] Scraping: interactions-2-0-1
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:20:46.873Z] Scraping: interactions-2-0-1
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:20:50.812Z] Scraping: interactions-2-0-1
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:20:54.648Z] Scraping: interactions-2-0-1
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:20:58.600Z] Scraping: interactions-2-0-1
+  ✗ Error: Content too short: 13 words (likely extraction failed)
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:21:02.316Z] Scraping: interactions-2-0-1
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+
+[2025-11-13T14:21:07.379Z] Scraping: custom-favicon-and-webclip
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (5 left)
+
+[2025-11-13T14:21:37.577Z] Scraping: custom-favicon-and-webclip
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:21:40.763Z] Scraping: custom-favicon-and-webclip
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:21:43.842Z] Scraping: custom-favicon-and-webclip
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 502
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:24:28.983Z] Scraping: custom-favicon-and-webclip
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:24:32.057Z] Scraping: custom-favicon-and-webclip
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+
+[2025-11-13T14:24:37.198Z] Scraping: position-sticky
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:24:40.453Z] Scraping: position-sticky
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:24:43.525Z] Scraping: position-sticky
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:24:46.593Z] Scraping: position-sticky
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:24:49.662Z] Scraping: position-sticky
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:24:52.738Z] Scraping: position-sticky
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+
+[2025-11-13T14:24:57.807Z] Scraping: branch-staging
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:25:01.007Z] Scraping: branch-staging
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:25:04.081Z] Scraping: branch-staging
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (3 left)
+
+[2025-11-13T14:25:35.517Z] Scraping: branch-staging
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:25:38.727Z] Scraping: branch-staging
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:25:41.805Z] Scraping: branch-staging
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+
+[2025-11-13T14:25:46.875Z] Scraping: find-component-instances
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:25:50.073Z] Scraping: find-component-instances
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (4 left)
+
+[2025-11-13T14:25:53.141Z] Scraping: find-component-instances
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:25:56.211Z] Scraping: find-component-instances
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:25:59.283Z] Scraping: find-component-instances
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:26:02.357Z] Scraping: find-component-instances
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+
+[2025-11-13T14:26:07.435Z] Scraping: responsive-design
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (5 left)
+
+[2025-11-13T14:26:10.635Z] Scraping: responsive-design
+  ✗ Error: Unexpected error occurred while trying to scrape URL. Status code: 429
+  ⏸  Rate limited! Backing off for 30s...
+  ↻ Retrying after backoff... (4 left)
+
+[2025-11-13T14:26:40.711Z] Scraping: responsive-design
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (3 left)
+
+[2025-11-13T14:26:43.979Z] Scraping: responsive-design
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (2 left)
+
+[2025-11-13T14:26:47.054Z] Scraping: responsive-design
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  ↻ Retrying... (1 left)
+
+[2025-11-13T14:26:50.122Z] Scraping: responsive-design
+  ✗ Error: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+
+📊 Progress: 24/106 articles
+
+============================================================
+🎉 SCRAPE COMPLETE!
+============================================================
+
+📊 Summary:
+  Total: 106
+  Success: 24
+  Failed: 82
+  Credits: 24
+  Words: ~6,074
+  Avg length: 253 words
+  Duration: 70m 25s
+
+📁 Output: /Users/ryan.hodge/Projects/webflow-rag/etl/input/webflow-updates/articles
+
+⚠️  Failures:
+  - ssl: Content too short: 13 words (likely extraction failed)
+  - hsts: Content too short: 13 words (likely extraction failed)
+  - localizationavailabilityupdate: Content too short: 13 words (likely extraction failed)
+  - symbols: Content too short: 13 words (likely extraction failed)
+  - developer-resources: Content too short: 47 words (likely extraction failed)
+  - client-payments: Content too short: 13 words (likely extraction failed)
+  - api-keys: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - creator-profiles: Content too short: 13 words (likely extraction failed)
+  - webflow-redesign: Content too short: 13 words (likely extraction failed)
+  - scim-provisioning: Content too short: 13 words (likely extraction failed)
+  - merge-summary: Content too short: 13 words (likely extraction failed)
+  - dropdown-menu: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - marketo-integration: Content too short: 13 words (likely extraction failed)
+  - csv-import: Content too short: 13 words (likely extraction failed)
+  - dashboard-folders: Content too short: 13 words (likely extraction failed)
+  - blending-mode: Content too short: 13 words (likely extraction failed)
+  - aspect-ratio: Content too short: 13 words (likely extraction failed)
+  - mailchimp-integration: Content too short: 13 words (likely extraction failed)
+  - private-staging: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - libraries-panel: Content too short: 13 words (likely extraction failed)
+  - variable-modes: Content too short: 13 words (likely extraction failed)
+  - component-ux: Content too short: 13 words (likely extraction failed)
+  - cloud-storage: Content too short: 13 words (likely extraction failed)
+  - slash-commands: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - html-embeds: Content too short: 13 words (likely extraction failed)
+  - text-columns: Content too short: 13 words (likely extraction failed)
+  - rich-text: Content too short: 13 words (likely extraction failed)
+  - component-groups: Content too short: 13 words (likely extraction failed)
+  - cms-whitelabeling: Content too short: 13 words (likely extraction failed)
+  - quick-find: Content too short: 13 words (likely extraction failed)
+  - publishing-workflows: Content too short: 13 words (likely extraction failed)
+  - password-protection: Content too short: 13 words (likely extraction failed)
+  - improvements-to-components: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - variant-selector-button: Content too short: 13 words (likely extraction failed)
+  - introducing-webflow-analyze: Content too short: 13 words (likely extraction failed)
+  - localization-enterprise-availability: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - client-payments-enhancements: Content too short: 13 words (likely extraction failed)
+  - ai-site-builder: Content too short: 9 words (likely extraction failed)
+  - limited-designer-role: Content too short: 13 words (likely extraction failed)
+  - machine-translation-glossary: Content too short: 13 words (likely extraction failed)
+  - enterprise-phone-support: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - localized-page-branching: Content too short: 13 words (likely extraction failed)
+  - two-factor-authentication: Content too short: 13 words (likely extraction failed)
+  - gsap-becomes-free: Content too short: 13 words (likely extraction failed)
+  - background-color-overlays: Content too short: 13 words (likely extraction failed)
+  - rich-text-improvements: Content too short: 13 words (likely extraction failed)
+  - custom-ssl-certificates: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - guest-role-enhancements: Content too short: 13 words (likely extraction failed)
+  - api-updates-q323: Content too short: 13 words (likely extraction failed)
+  - interactive-google-maps: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - design-approval-enhancements: Content too short: 13 words (likely extraction failed)
+  - easier-class-renaming: Content too short: 13 words (likely extraction failed)
+  - search-for-swatches: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - dashboard-list-view: Content too short: 13 words (likely extraction failed)
+  - changes-to-forms: Content too short: 13 words (likely extraction failed)
+  - additional-form-improvements: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - apps-updates-july: Content too short: 13 words (likely extraction failed)
+  - cms-auto-save: Content too short: 13 words (likely extraction failed)
+  - cms-api-improvements: Content too short: 13 words (likely extraction failed)
+  - html5-background-videos: Content too short: 13 words (likely extraction failed)
+  - extended-element-conversions: Content too short: 13 words (likely extraction failed)
+  - per-page-password-protection: Content too short: 13 words (likely extraction failed)
+  - hire-a-webflow-expert: Content too short: 13 words (likely extraction failed)
+  - easier-godaddy-domain-connection: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - site-activity-log-filters: Content too short: 13 words (likely extraction failed)
+  - site-access-default-setting: Content too short: 13 words (likely extraction failed)
+  - flexbox-css3-flexible-boxes: Content too short: 13 words (likely extraction failed)
+  - style-form-placeholder-text: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - introducing-the-custom-element: Content too short: 13 words (likely extraction failed)
+  - sso-enhancements: Content too short: 13 words (likely extraction failed)
+  - custom-301-redirects: Content too short: 13 words (likely extraction failed)
+  - interactions-quick-effects: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - og-asset-updates: Content too short: 13 words (likely extraction failed)
+  - site-activity-log: Content too short: 13 words (likely extraction failed)
+  - certified-partner-program: Content too short: 13 words (likely extraction failed)
+  - open-graph-og-settings: Content too short: 13 words (likely extraction failed)
+  - interactions-2-0-1: Unexpected error occurred while trying to scrape URL. Status code: 429
+  - custom-favicon-and-webclip: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  - position-sticky: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  - branch-staging: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  - find-component-instances: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+  - responsive-design: Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value.
+
+============================================================
+

@@ -1,0 +1,53 @@
+🧠 Webflow RAG - Embeddings Generator
+
+📖 Loading chunks...
+✓ Loaded 707 chunks from 174 documents
+
+
+🔄 Generating embeddings in 8 batches...
+
+Batch 1/8 (chunks 1-100):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 2/8 (chunks 101-200):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 3/8 (chunks 201-300):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 4/8 (chunks 301-400):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 5/8 (chunks 401-500):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 6/8 (chunks 501-600):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 7/8 (chunks 601-700):
+   → Calling OpenAI API (batch of 100 texts)...
+   ✓ Successfully embedded 100 chunks
+
+Batch 8/8 (chunks 701-707):
+   → Calling OpenAI API (batch of 7 texts)...
+   ✓ Successfully embedded 7 chunks
+
+============================================================
+✅ Embedding Generation Complete!
+
+📊 Statistics:
+   Chunks processed: 707
+   Successful: 707
+   Failed: 0
+   Total tokens: 115,472
+   Estimated cost: $0.0023
+   Time elapsed: 16.3s
+
+📁 Output saved to: /Users/ryan.hodge/Projects/webflow-rag/etl/output/embeddings/all-sources-embeddings.json
+============================================================

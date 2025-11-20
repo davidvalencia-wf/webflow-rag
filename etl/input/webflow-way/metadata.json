@@ -1,0 +1,18 @@
+{
+  "source": "webflow-way",
+  "description": "The Webflow Way - Official best practices and design system documentation",
+  "imported_at": "2025-11-17T20:30:00.000Z",
+  "total_documents": 30,
+  "source_location": "/Users/ryan.hodge/Documents/webflow-info/the-webflow-way",
+  "import_method": "local_copy",
+  "categories": [
+    "Best Practices",
+    "Design Systems",
+    "CMS",
+    "Components",
+    "Localization",
+    "SEO",
+    "Accessibility",
+    "Team Collaboration"
+  ]
+}

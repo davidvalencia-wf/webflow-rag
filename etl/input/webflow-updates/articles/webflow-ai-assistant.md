@@ -1,0 +1,19 @@
+## Modify page designs
+One of the AI Assistant’s skills allows you to design and generate new styled sections quickly.
+The Assistant learns from your design systems and site context to generate new sections of a website from conversational prompts. Lean on it to quickly ideate on and build common site sections such as pricing, features, testimonials, and more. Once the Assistant generates a preview of your section, you can further customize it to apply the finishing touches to fit your site.
+![Generate new styled sections with the AI Assistant in Webflow.](https://cdn.prod.website-files.com/687e8d1b96312cc631cafec7/68c387b29f41332d34a90a54_670e91ffa39db98b8c64d93a_AD_4nXckKDKt656VtdQVXTgW7w0_C7BpGP07e-3ErO61H8aivDbDib2L282L8jaalOaDIBkR28RKklS8UJOi2lfZo4gV2qKr-RcBmoJ6eoRTO_7jIHCBoTROGwUUdkfpqUEbBoooFqhPwhSj57yP8RTfMF0mr3gY.jpeg)
+Generate new styled sections with the AI Assistant in Webflow.
+For example, you can easily adjust an element’s background or color to match your brand. With AI Assistant, you can bring new campaigns to market faster, giving anyone on your team the ability to accurately leverage your site's structure and design systems.
+Designing and generating new styled sections using AI is part of the Webflow AI Assisant. While in beta, this skill is offered for free, but usage limits may apply. When this functionality is made generally available, there may be an added cost.
+Designing and generating new styled sections with the AI Assistant is currently only available for select templates and will be expanded to more sites this year. Learn more about how it works [here](https://help.webflow.com/hc/articles/34205154436243).
+## **Generate CMS Collection items**
+In addition to its design capabilities, the AI Assistant can also empower marketers to accelerate their content creation workflows in Webflow. Building off our recent release of [bulk sample CMS item generation](https://webflow.com/updates/bulk-generate-sample-cms-content-with-ai), you can now simply prompt the Assistant and it will generate CMS Collection items with relevant content.
+![Accelerate content creation with the AI Assistant in Webflow.](https://cdn.prod.website-files.com/687e8d1b96312cc631cafec7/68c387b29f41332d34a90a51_670e7d9101603b3a7df61457_AD_4nXfsJz8jSVmWqkFSwB6COffzaZb6jNe2uynlQ_K_ZRWhxKBxqkkCRDcbPoaXyfWafrPIpZjnwgIVepQME5fS92F9HwOqHBzSAaxQergM2Rbes6Ut6E2luC1s1Nn8wCUzqFYolXBCnxIxh_6BvQXv5-k8EU0.png)
+Accelerate content creation with the AI Assistant in Webflow.
+This is perfect for anyone needing to accelerate first-pass content — whether you’re a growth marketer spinning up an SEO article or a designer jumpstarting a page with realistic content. We’re excited about how the Assistant can make content workflows more efficient and free up time for more strategic work.
+Generating CMS collection items using AI is part of the Webflow AI Assisant. While in beta, this skill is offered for free, but usage limits may apply. When this functionality is made generally available, there may be an added cost.
+Learn more about how it works [here](https://help.webflow.com/hc/articles/34295931022099).
+## Building the future of the web, together
+These new features are part of a growing list of AI offerings available to you in Webflow, including our Localization solution as well as powerful third-party apps to extend the power of your site like Adobe Express, Jasper, Relume, and more. You can learn more about all the ways you can already leverage AI in Webflow [here](https://webflow.com/ai) — and the team is already working on more we can’t share _quite_ yet.
+To learn more about our vision for AI and the future of the web, visit this [blog post](https://webflow.com/blog/ai-future-of-web) from our Chief Product Officer, Rachel Wolan.
+* * *
