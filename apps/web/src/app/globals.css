@@ -1,0 +1,340 @@
+@import "tailwindcss";
+
+/* Webflow Brand Color Palette */
+:root {
+  /* Background */
+  --background: #171717; /* Gray 900 - NOT pure black */
+
+  /* Text Colors */
+  --text-primary: #FFFFFF; /* White - Main heading */
+  --text-subtitle: #ABABAB; /* Gray 300 - Subtitle text */
+  --text-body: #D8D8D8; /* Gray 200 - Body text */
+  --text-placeholder: #757575; /* Gray 500 - Input placeholder */
+  --text-footer: #898989; /* Gray 400 - Footer links */
+  --text-footer-muted: #5A5A5A; /* Gray 600 - Footer trust text */
+
+  /* UI Elements */
+  --input-background: #222222; /* Gray 800 */
+  --input-border: #363636; /* Gray 700 */
+  --button-background: #222222; /* Gray 800 */
+  --button-hover: #363636; /* Gray 700 */
+
+  /* Accent */
+  --brand-blue: #146EF5; /* Brand Blue - Logo, active states */
+  --brand-blue-glow: rgba(20, 110, 245, 0.1); /* Blue glow for focus */
+
+  /* Font families */
+  --font-heading: var(--font-poppins);
+  --font-body: var(--font-inter);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--text-primary);
+  --font-sans: var(--font-body);
+}
+
+body {
+  background: var(--background);
+  color: var(--text-primary);
+  font-family: var(--font-body), system-ui, -apple-system, sans-serif;
+  /* Add subtle grid pattern for premium feel */
+  background-image: radial-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar for webkit browsers */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #363636; /* Gray 700 */
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #757575; /* Gray 500 */
+}
+
+/* Accessibility: Focus visible */
+*:focus-visible {
+  outline: 2px solid var(--brand-blue);
+  outline-offset: 2px;
+}
+
+/* Sequential fade-in animation - Smoother and slower */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeInUp 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.animate-fadeIn-delay-1 {
+  animation: fadeInUp 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0.15s both;
+}
+
+.animate-fadeIn-delay-2 {
+  animation: fadeInUp 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0.3s both;
+}
+
+.animate-fadeIn-delay-3 {
+  animation: fadeInUp 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0.45s both;
+}
+
+/* Pulse animation for submit button */
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+.animate-pulse-slow {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/* Click animation for buttons */
+.active-scale {
+  transition: transform 100ms ease-out;
+}
+
+.active-scale:active {
+  transform: scale(0.98);
+}
+
+/* Glassmorphism effect */
+.glass {
+  background: rgba(23, 23, 23, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+/* Shimmer loading animation */
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+.shimmer {
+  animation: shimmer 2s infinite linear;
+  background: linear-gradient(
+    to right,
+    #222222 4%,
+    #363636 25%,
+    #222222 36%
+  );
+  background-size: 1000px 100%;
+}
+
+/* Floating animation */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Breathing animation (scale) */
+@keyframes breathe {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.02);
+  }
+}
+
+.animate-breathe {
+  animation: breathe 4s ease-in-out infinite;
+}
+
+/* Glow animation */
+@keyframes glow {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(20, 110, 245, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(20, 110, 245, 0.4);
+  }
+}
+
+.animate-glow {
+  animation: glow 2s ease-in-out infinite;
+}
+
+/* Slide in from bottom - Smoother and more gradual */
+@keyframes slideInBottom {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-slideInBottom {
+  animation: slideInBottom 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+/* Fade in scale - Smoother and more subtle */
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-fadeInScale {
+  animation: fadeInScale 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+/* Card lift on hover */
+.card-lift {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+/* Magnetic button styles */
+.magnetic-button {
+  position: relative;
+  transition: transform 0.3s ease;
+}
+
+/* Custom selection color */
+::selection {
+  background-color: rgba(20, 110, 245, 0.3);
+  color: #FFFFFF;
+}
+
+/* Smooth scroll with momentum */
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Hide scrollbar but keep functionality */
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Gradient text - Updated to lean more blue */
+.gradient-text {
+  background: linear-gradient(135deg, #D8D8D8 0%, #146EF5 70%, #0D5CD9 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Ripple effect */
+@keyframes ripple {
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(4);
+    opacity: 0;
+  }
+}
+
+.ripple {
+  position: relative;
+  overflow: hidden;
+}
+
+.ripple::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.5);
+  transform: translate(-50%, -50%);
+  transition: width 0.6s, height 0.6s;
+}
+
+.ripple:active::before {
+  width: 300px;
+  height: 300px;
+}
+
+/* Parallax container */
+.parallax {
+  transform-style: preserve-3d;
+  perspective: 1000px;
+}
+
+/* Accessibility: Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Result section visibility - hidden by default for GSAP animations */
+.result-confidence,
+.result-export,
+.result-citations,
+.result-related,
+.result-feedback {
+  opacity: 0;
+}
+
+/* Related question items - hidden by default for GSAP animations */
+.related-question {
+  opacity: 0;
+}

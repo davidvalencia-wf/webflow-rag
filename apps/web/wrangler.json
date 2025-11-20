@@ -1,0 +1,23 @@
+{
+  "name": "webflow-rag",
+  "compatibility_date": "2025-11-12",
+  "compatibility_flags": ["nodejs_compat"],
+  "pages_build_output_dir": ".next",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "webflow-rag",
+      "database_id": "67a5a4fd-e706-4ce6-b69b-1affbb9390e1",
+      "migrations_dir": "migrations"
+    }
+  ],
+  "kv_namespaces": [
+    {
+      "binding": "KV",
+      "id": "b80e1e24f58f434b8b51c54f00fed6dc"
+    }
+  ],
+  "vars": {
+    "NODE_ENV": "production"
+  }
+}

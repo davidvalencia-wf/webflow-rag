@@ -1,0 +1,11 @@
+{
+  "cloud": {
+    "framework": "nextjs",
+    "build": {
+      "command": "npm run build",
+      "install_command": "npm install"
+    },
+    "output_directory": ".vercel/output/static",
+    "node_version": "20"
+  }
+}
