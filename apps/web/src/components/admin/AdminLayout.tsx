@@ -6,6 +6,7 @@
 'use client';
 
 import { useState } from 'react';
+import Link from 'next/link';
 import {
   AlertTriangle,
   BarChart3,
@@ -22,6 +23,7 @@ import {
   Download,
 } from 'lucide-react';
 import { WebflowMark } from '../WebflowLogo';
+import { pagePath } from '@/lib/basePath';
 
 type DashboardTab =
   | 'content-gaps'
@@ -92,9 +94,13 @@ export function AdminLayout({
           className="flex items-center justify-between p-6"
           style={{ borderBottom: '1px solid #363636' }}
         >
-          <div className="flex items-center">
+          <Link
+            href={pagePath('/')}
+            className="flex items-center hover:opacity-80 transition-opacity active-scale"
+            aria-label="Return to home page"
+          >
             <WebflowMark variant="white" size={sidebarCollapsed ? 28 : 36} />
-          </div>
+          </Link>
           <button
             onClick={() => setSidebarCollapsed(!sidebarCollapsed)}
             className="active-scale"
