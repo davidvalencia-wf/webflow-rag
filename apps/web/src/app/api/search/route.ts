@@ -12,7 +12,6 @@ import { checkRateLimit, rateLimitHeaders } from '@/lib/rate-limit';
 import { SearchRequestSchema, type SearchResponse, type SearchResult } from '@/lib/types';
 import { ZodError } from 'zod';
 
-export const runtime = 'edge';
 
 export async function POST(request: Request) {
   const timer = new Timer();

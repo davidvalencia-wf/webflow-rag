@@ -24,7 +24,6 @@ import type {
   SuggestedAction,
 } from '@/lib/types';
 
-export const runtime = 'edge';
 
 interface QueryWithMetadata {
   query_text: string;

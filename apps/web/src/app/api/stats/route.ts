@@ -11,7 +11,6 @@ import { getDatabase, queryFirst } from '@/lib/db';
 
 import { getIndexStats } from '@/lib/pinecone-edge';
 
-export const runtime = 'edge';
 
 
 

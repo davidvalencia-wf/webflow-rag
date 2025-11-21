@@ -15,7 +15,6 @@ import {
 import { getMockSentimentAnalysis } from '@/lib/dev-data';
 import type { FeedbackSentimentResponse } from '@/lib/types';
 
-export const runtime = 'edge';
 
 interface FeedbackRow {
   helpful: number | null;
