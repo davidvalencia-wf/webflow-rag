@@ -1,9 +1,29 @@
 # CLAUDE.md - Webflow RAG Project Reference
 
-**Last Updated**: 2025-11-20
+**Last Updated**: 2025-11-21
 **Status**: 🚀 DEPLOYED TO PRODUCTION (v1.6.0)
 **Live URL**: https://webflow-rag.pages.dev
 **Purpose**: Comprehensive reference for AI assistants and developers working on this codebase
+
+---
+
+## ⚠️ CRITICAL: For AI Assistants Working on This Codebase
+
+**Before attempting to fix ANY deployment, build, or compatibility error:**
+
+1. **READ**: [DEBUGGING_FRAMEWORK.md](./DEBUGGING_FRAMEWORK.md) - MANDATORY first-principles protocol
+2. **VERIFY**: Platform requirements BEFORE making version changes
+3. **RESEARCH**: Deploy specialized agents EARLY (after 2nd failed attempt, not 12th)
+4. **NO ASSUMPTIONS**: Every hypothesis requires evidence from official documentation
+5. **NEVER DOWNGRADE**: Without verifying platform minimum version requirements
+
+**Why This Exists**: We experienced 12+ failed deployments because Claude:
+- Assumed issues were "platform bugs" without evidence
+- Downgraded Next.js 15 → 14 to "fix" compatibility
+- **Reality**: Webflow Cloud REQUIRES Next.js 15+ (violated platform requirement)
+- Cost: Hours wasted, blame placed on non-existent bugs
+
+**The Rule**: If you're about to say "this seems like a [platform] bug" or "let's downgrade [package]" → STOP and consult DEBUGGING_FRAMEWORK.md first.
 
 **Quick Links**:
 - [Implementation Summary](./IMPLEMENTATION_SUMMARY.md) - Complete feature overview
@@ -12,6 +32,7 @@
 - [Must Have Trio](./MUST_HAVE_TRIO_IMPLEMENTATION.md) - 3 critical features
 - [UI Components](./UI_COMPLETE.md) - Component documentation
 - [Brand Redesign](./WEBFLOW_BRAND_REDESIGN.md) - Design system
+- [**Debugging Framework**](./DEBUGGING_FRAMEWORK.md) - **⚠️ REQUIRED: First-principles debugging protocol**
 
 ---
 

@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { HandThumbUpIcon, HandThumbDownIcon } from '@heroicons/react/24/outline';
 import { HandThumbUpIcon as HandThumbUpIconSolid, HandThumbDownIcon as HandThumbDownIconSolid } from '@heroicons/react/24/solid';
+import { apiPath } from '@/lib/basePath';
 
 interface FeedbackWidgetProps {
   responseId?: string;
@@ -46,7 +47,7 @@ export function FeedbackWidget({ responseId, onFeedback }: FeedbackWidgetProps) 
         await onFeedback(isHelpful, report);
       } else {
         // Fallback: send to feedback API
-        await fetch('/api/feedback', {
+        await fetch(apiPath('/feedback'), {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({

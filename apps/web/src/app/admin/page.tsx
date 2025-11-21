@@ -7,6 +7,7 @@
 
 import { useState, useEffect } from 'react';
 import { format } from 'date-fns';
+import { apiPath } from '@/lib/basePath';
 import {
   Calendar,
   BarChart3,
@@ -109,31 +110,31 @@ export default function AdminDashboard() {
 
       switch (tab) {
         case 'content-gaps':
-          endpoint = '/api/admin/content-gaps';
+          endpoint = apiPath('/admin/content-gaps');
           break;
         case 'overview':
-          endpoint = '/api/admin/analytics/overview';
+          endpoint = apiPath('/admin/analytics/overview');
           break;
         case 'performance':
-          endpoint = '/api/admin/analytics/performance';
+          endpoint = apiPath('/admin/analytics/performance');
           break;
         case 'quality':
-          endpoint = '/api/admin/analytics/quality';
+          endpoint = apiPath('/admin/analytics/quality');
           break;
         case 'cost':
-          endpoint = '/api/admin/analytics/cost';
+          endpoint = apiPath('/admin/analytics/cost');
           break;
         case 'content':
-          endpoint = '/api/admin/analytics/content';
+          endpoint = apiPath('/admin/analytics/content');
           break;
         case 'trends':
-          endpoint = '/api/admin/analytics/trends';
+          endpoint = apiPath('/admin/analytics/trends');
           break;
         case 'topic-trends':
-          endpoint = '/api/admin/topic-trends';
+          endpoint = apiPath('/admin/topic-trends');
           break;
         case 'sentiment':
-          endpoint = '/api/admin/sentiment';
+          endpoint = apiPath('/admin/sentiment');
           break;
       }
 

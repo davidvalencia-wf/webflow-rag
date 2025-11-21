@@ -380,6 +380,11 @@ Pushes to `main` automatically deploy to production.
 - **[IMPLEMENTATION_SUMMARY.md](./IMPLEMENTATION_SUMMARY.md)** - Complete feature overview
 - **[apps/web/src/components/README.md](./apps/web/src/components/README.md)** - Component guide
 
+### ⚠️ Deployment & Debugging (CRITICAL)
+- **[DEBUGGING_FRAMEWORK.md](./DEBUGGING_FRAMEWORK.md)** - **MANDATORY** first-principles debugging protocol
+- **[DEPLOYMENT_CHECKLIST.md](./DEPLOYMENT_CHECKLIST.md)** - Pre-deployment verification checklist
+- **[LESSONS_LEARNED.md](./LESSONS_LEARNED.md)** - Case study: 12+ failed deployments and how to prevent them
+
 ### Feature Documentation
 - **[FEATURES_IMPLEMENTED.md](./FEATURES_IMPLEMENTED.md)** - 6 enhanced features
 - **[MUST_HAVE_TRIO_IMPLEMENTATION.md](./MUST_HAVE_TRIO_IMPLEMENTATION.md)** - 3 critical features

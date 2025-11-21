@@ -9,7 +9,11 @@
  * - Use White version on dark backgrounds
  * - Maintain proper clearspace (equal to logo height)
  *
+ * Note: Next.js Image component automatically handles basePath from next.config.js.
+ * Asset paths are prefixed with /app in production (Webflow Cloud) automatically.
+ *
  * @see https://brand.webflow.com/brand-assets
+ * @see https://nextjs.org/docs/app/api-reference/config/next-config-js/basePath
  */
 
 import Image from 'next/image';

@@ -9,8 +9,15 @@
  */
 const nextConfig = {
   // Webflow Cloud mount path configuration
+  // This matches the mount path configured in Webflow Cloud environment settings
   basePath: '/app',
   assetPrefix: '/app',
+
+  // Environment variables
+  // Expose basePath to client-side code via NEXT_PUBLIC_ prefix
+  env: {
+    NEXT_PUBLIC_BASE_PATH: '/app',
+  },
 
   // Enable experimental features for edge runtime
   experimental: {
@@ -25,6 +32,11 @@ const nextConfig = {
 
   // Output standalone for Cloudflare Pages
   output: 'standalone',
+
+  // Rewrites for API routes (ensure they work with basePath)
+  async rewrites() {
+    return [];
+  },
 };
 
 module.exports = nextConfig;

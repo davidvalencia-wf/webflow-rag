@@ -13,6 +13,7 @@ import { SavedConversations } from '@/components/SavedConversations';
 import { RegenerateButton, type RegenerateStrategy } from '@/components/RegenerateButton';
 import { saveConversation, type ConversationTurn as SavedConversationTurn } from '@/lib/saved-conversations';
 import type { ConversationMessage, SourceType } from '@/lib/types';
+import { apiPath, pagePath } from '@/lib/basePath';
 import {
   CircleStackIcon,
   QuestionMarkCircleIcon,
@@ -225,7 +226,7 @@ export default function Home() {
         { role: 'assistant' as const, content: turn.answer, timestamp: turn.timestamp },
       ]);
 
-      const response = await fetch('/api/ask', {
+      const response = await fetch(apiPath('/ask'), {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -414,7 +415,7 @@ export default function Home() {
         { role: 'assistant' as const, content: turn.answer, timestamp: turn.timestamp },
       ]);
 
-      const response = await fetch('/api/ask', {
+      const response = await fetch(apiPath('/ask'), {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -1033,7 +1034,7 @@ export default function Home() {
                 Github
               </a>
               <a
-                href="/admin"
+                href={pagePath('/admin')}
                 className="transition-colors"
                 style={{
                   fontFamily: 'var(--font-inter)',

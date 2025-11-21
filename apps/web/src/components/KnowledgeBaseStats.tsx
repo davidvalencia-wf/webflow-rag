@@ -3,6 +3,7 @@
 import { useEffect, useState, useRef } from 'react';
 import { CircleStackIcon, ArrowPathIcon } from '@heroicons/react/24/outline';
 import { AnimatedCounter } from './AnimatedCounter';
+import { apiPath } from '@/lib/basePath';
 import gsap from 'gsap';
 import { prefersReducedMotion } from '@/lib/animations';
 
@@ -30,7 +31,7 @@ export function KnowledgeBaseStats() {
 
   const fetchStats = async () => {
     try {
-      const res = await fetch('/api/stats');
+      const res = await fetch(apiPath('/stats'));
       const data = await res.json();
       setStats(data);
       setLoading(false);
