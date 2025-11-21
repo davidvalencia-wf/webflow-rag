@@ -10,6 +10,7 @@ etl/output/*
 .next/
 out/
 .vercel/
+.open-next/
 
 # Wrangler / Cloudflare
 .wrangler/
