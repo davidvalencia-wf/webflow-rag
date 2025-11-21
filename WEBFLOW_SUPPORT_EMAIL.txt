@@ -1,0 +1,46 @@
+Subject: [BUG] Next.js 15 TypeScript Template Error - Blocks All Deployments
+
+Hi Webflow Cloud Support,
+
+I'm unable to deploy Next.js 15 applications to Webflow Cloud due to a TypeScript error in Webflow's injected build template.
+
+ISSUE:
+Webflow Cloud's template at `/cosmic/templates/nextjs/next.config.ts.template` references `images.loaderFile` property, which doesn't exist in Next.js 15's TypeScript types, causing all builds to fail.
+
+ERROR MESSAGE:
+```
+./next.config.ts:16:36
+Type error: Property 'loaderFile' does not exist on type '{ unoptimized: boolean; }'.
+```
+
+REPRODUCTION:
+1. Create Next.js 15.0.3 app with TypeScript
+2. Deploy to Webflow Cloud
+3. Build fails at TypeScript checking phase
+
+EVIDENCE:
+- GitHub Repo: https://github.com/ryanxkh/webflow-rag
+- Failing Commit: 849d34955ba0a21862c6210b45e38c3f11b166cb
+- Build Trace ID: 6075855799555030659
+- Full documentation: See WEBFLOW_BUG_REPORT.md in repo
+
+ENVIRONMENT:
+- Next.js: 15.0.3
+- @opennextjs/cloudflare: 1.13.1 (matches Webflow Cloud)
+- React: 18.3.1
+- Node: 22.17.1 (Webflow Cloud environment)
+
+IMPACT:
+This blocks ALL Next.js 15 deployments to Webflow Cloud. Local builds work fine - this is specific to Webflow Cloud's injected template.
+
+SUGGESTED FIX:
+Add type assertion in template: `images: { ... } as any` OR remove `loaderFile` reference from template.
+
+Please advise on:
+1. Timeline for fix
+2. Temporary workaround (if any)
+3. Whether Next.js 15 is officially supported
+
+Thank you,
+Ryan Hodge
+Project: webflow-rag

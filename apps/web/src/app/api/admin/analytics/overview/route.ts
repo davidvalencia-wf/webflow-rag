@@ -10,6 +10,8 @@ import { toSQLDate, getDateRange } from '@/lib/analytics';
 import type { UsageOverviewResponse } from '@/lib/types';
 import { getMockUsageOverview } from '@/lib/dev-data';
 
+export const runtime = 'edge';
+
 export async function GET(req: NextRequest) {
   const requestId = crypto.randomUUID();
 

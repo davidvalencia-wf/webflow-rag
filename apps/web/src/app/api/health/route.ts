@@ -10,6 +10,7 @@ import { getCloudflareEnv } from '@/lib/env';
 import { testDatabaseConnection } from '@/lib/db';
 import type { HealthResponse } from '@/lib/types';
 
+export const runtime = 'edge';
 
 export async function GET() {
   const timestamp = getCurrentTimestamp();

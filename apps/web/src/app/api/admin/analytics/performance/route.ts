@@ -10,6 +10,7 @@ import { calculatePercentiles, toSQLDate, getDateRange } from '@/lib/analytics';
 import { getMockPerformanceMetrics } from '@/lib/dev-data';
 import type { UsagePerformanceResponse } from '@/lib/types';
 
+export const runtime = 'edge';
 
 export async function GET(req: NextRequest) {
   const requestId = crypto.randomUUID();

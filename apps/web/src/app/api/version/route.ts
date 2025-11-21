@@ -10,6 +10,7 @@ import { getEnvVar } from '@/lib/env';
 import type { VersionResponse } from '@/lib/types';
 import packageJson from '../../../../package.json';
 
+export const runtime = 'edge';
 
 export async function GET() {
   const response: VersionResponse = {
