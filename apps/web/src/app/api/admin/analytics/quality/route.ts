@@ -10,6 +10,10 @@ import { average, toSQLDate, getDateRange, categorizeFeedback } from '@/lib/anal
 import { getMockQualityMetrics } from '@/lib/dev-data';
 import type { UsageQualityResponse } from '@/lib/types';
 
+export const runtime = 'edge';
+
+
+
 
 export async function GET(req: NextRequest) {
   const requestId = crypto.randomUUID();

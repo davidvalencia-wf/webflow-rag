@@ -15,6 +15,10 @@ import {
 import { getMockCostAnalysis } from '@/lib/dev-data';
 import type { UsageCostResponse } from '@/lib/types';
 
+export const runtime = 'edge';
+
+
+
 
 export async function GET(req: NextRequest) {
   const requestId = crypto.randomUUID();

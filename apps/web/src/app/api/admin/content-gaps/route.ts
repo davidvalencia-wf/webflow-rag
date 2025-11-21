@@ -14,7 +14,10 @@ import {
   getDateRange,
 } from '@/lib/analytics';
 import { getMockContentGaps } from '@/lib/dev-data';
+
+export const runtime = 'edge';
 import type {
+
   ContentGapResponse,
   UnansweredQuestion,
   ZeroCitationQuery,
@@ -23,6 +26,7 @@ import type {
   TrendingGap,
   SuggestedAction,
 } from '@/lib/types';
+
 
 
 interface QueryWithMetadata {
