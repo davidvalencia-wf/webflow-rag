@@ -1,4 +1,3 @@
-/** @type {import('next').NextConfig} */
 const nextConfig = {
   // Webflow Cloud mount path configuration
   basePath: '/app',
@@ -13,9 +12,6 @@ const nextConfig = {
   images: {
     unoptimized: true, // Cloudflare Workers doesn't support Next.js Image Optimization
   },
-
-  // Output standalone for Cloudflare Pages
-  output: 'standalone',
-};
+} as const;
 
 export default nextConfig;
