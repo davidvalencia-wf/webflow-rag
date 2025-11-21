@@ -43,5 +43,8 @@
     "tailwindcss": "^4",
     "typescript": "^5",
     "wrangler": "^4.49.1"
+  },
+  "overrides": {
+    "esbuild": "0.24.2"
   }
 }
