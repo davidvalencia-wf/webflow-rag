@@ -12,6 +12,7 @@ const nextConfig = {
   // Optimize for edge deployment
   images: {
     unoptimized: true, // Cloudflare Workers doesn't support Next.js Image Optimization
+    loaderFile: './webflow-loader.ts', // Required for Webflow Cloud template compatibility
   },
 
   // Output standalone for Cloudflare Pages
