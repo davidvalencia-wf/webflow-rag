@@ -1,11 +1,11 @@
-import type { NextConfig } from 'next';
-
 /**
  * Next.js configuration for Webflow Cloud deployment
  *
- * IMPORTANT: Using `satisfies NextConfig` instead of type annotation to preserve
- * literal types during Webflow Cloud's template spreading. This prevents the
- * TypeScript error: Type 'string' is not assignable to type '"standalone" | "export"'.
+ * Converted to JavaScript to avoid TypeScript type errors with Webflow Cloud's
+ * template injection system. The template was having issues with TypeScript
+ * literal types and type widening during config spreading.
+ *
+ * @type {import('next').NextConfig}
  */
 const nextConfig = {
   // Webflow Cloud mount path configuration
@@ -24,8 +24,7 @@ const nextConfig = {
   },
 
   // Output standalone for Cloudflare Pages
-  // Using literal type to prevent type widening during template spread
-  output: 'standalone' as const,
-} satisfies NextConfig;
+  output: 'standalone',
+};
 
-export default nextConfig;
+module.exports = nextConfig;
