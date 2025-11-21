@@ -8,7 +8,7 @@ import { getDatabase, queryAll } from '@/lib/db';
 import { getCloudflareEnv } from '@/lib/env';
 import { calculatePercentiles, toSQLDate, getDateRange } from '@/lib/analytics';
 import { getMockPerformanceMetrics } from '@/lib/dev-data';
-import type { UsagePerformanceResponse } from '@shared/index';
+import type { UsagePerformanceResponse } from '@/lib/types';
 
 export const runtime = 'edge';
 

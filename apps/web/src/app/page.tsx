@@ -12,7 +12,7 @@ import { ConfidenceBadge } from '@/components/ConfidenceBadge';
 import { SavedConversations } from '@/components/SavedConversations';
 import { RegenerateButton, type RegenerateStrategy } from '@/components/RegenerateButton';
 import { saveConversation, type ConversationTurn as SavedConversationTurn } from '@/lib/saved-conversations';
-import type { ConversationMessage, SourceType } from '@shared/index';
+import type { ConversationMessage, SourceType } from '@/lib/types';
 import {
   CircleStackIcon,
   QuestionMarkCircleIcon,

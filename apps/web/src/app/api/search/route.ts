@@ -9,7 +9,7 @@ import { jsonResponse, errorResponse, getClientIP, structuredLog, generateUUID, 
 import { getCloudflareEnv } from '@/lib/env';
 import { getDatabase, queryAll, execute } from '@/lib/db';
 import { checkRateLimit, rateLimitHeaders } from '@/lib/rate-limit';
-import { SearchRequestSchema, type SearchResponse, type SearchResult } from '@shared/index';
+import { SearchRequestSchema, type SearchResponse, type SearchResult } from '@/lib/types';
 import { ZodError } from 'zod';
 
 export const runtime = 'edge';

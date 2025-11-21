@@ -13,7 +13,7 @@ import {
   OPENAI_PRICING,
 } from '@/lib/analytics';
 import { getMockCostAnalysis } from '@/lib/dev-data';
-import type { UsageCostResponse } from '@shared/index';
+import type { UsageCostResponse } from '@/lib/types';
 
 export const runtime = 'edge';
 

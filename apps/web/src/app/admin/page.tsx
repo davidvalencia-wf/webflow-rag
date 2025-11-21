@@ -57,7 +57,7 @@ import type {
   UsageTrendsResponse,
   TopicTrendAnalysisResponse,
   FeedbackSentimentResponse,
-} from '@shared/index';
+} from '@/lib/types';
 import {
   AdminLayout,
   MetricCard,

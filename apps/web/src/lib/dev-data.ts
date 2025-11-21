@@ -12,7 +12,7 @@ import type {
   UsageTrendsResponse,
   TopicTrendAnalysisResponse,
   FeedbackSentimentResponse,
-} from '@shared/index';
+} from '@/lib/types';
 
 export function getMockContentGaps(): ContentGapResponse {
   return {

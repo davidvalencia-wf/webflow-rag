@@ -7,7 +7,7 @@ import { NextRequest } from 'next/server';
 import { getDatabase, queryAll, queryFirst } from '@/lib/db';
 import { getCloudflareEnv } from '@/lib/env';
 import { toSQLDate, getDateRange } from '@/lib/analytics';
-import type { UsageOverviewResponse } from '@shared/index';
+import type { UsageOverviewResponse } from '@/lib/types';
 import { getMockUsageOverview } from '@/lib/dev-data';
 
 export const runtime = 'edge';

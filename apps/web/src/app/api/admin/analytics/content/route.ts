@@ -8,7 +8,7 @@ import { getDatabase, queryAll } from '@/lib/db';
 import { getCloudflareEnv } from '@/lib/env';
 import { toSQLDate, getDateRange, classifyQueryTopic, average } from '@/lib/analytics';
 import { getMockContentAnalytics } from '@/lib/dev-data';
-import type { UsageContentResponse } from '@shared/index';
+import type { UsageContentResponse } from '@/lib/types';
 
 export const runtime = 'edge';
 

@@ -13,7 +13,7 @@ import {
   determineSentiment,
 } from '@/lib/analytics';
 import { getMockSentimentAnalysis } from '@/lib/dev-data';
-import type { FeedbackSentimentResponse } from '@shared/index';
+import type { FeedbackSentimentResponse } from '@/lib/types';
 
 export const runtime = 'edge';
 

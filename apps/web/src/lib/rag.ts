@@ -8,7 +8,7 @@ import { generateEmbedding, generateChatCompletionStream, type ChatMessage, esti
 import { queryVectors, type VectorMatch } from './pinecone-edge';
 import { getCachedEmbedding, setCachedEmbedding, getCachedResponse, setCachedResponse } from './cache';
 import { queryAll } from './db';
-import type { Chunk, ConversationMessage, SourceType } from '@shared/index';
+import type { Chunk, ConversationMessage, SourceType } from '@/lib/types';
 
 // ==========================================
 // Types

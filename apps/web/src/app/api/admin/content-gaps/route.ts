@@ -22,7 +22,7 @@ import type {
   TopicCluster,
   TrendingGap,
   SuggestedAction,
-} from '@shared/index';
+} from '@/lib/types';
 
 export const runtime = 'edge';
 

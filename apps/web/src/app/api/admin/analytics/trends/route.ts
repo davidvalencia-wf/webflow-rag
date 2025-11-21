@@ -14,7 +14,7 @@ import {
   getHourAndDay,
 } from '@/lib/analytics';
 import { getMockTrendsAnalytics } from '@/lib/dev-data';
-import type { UsageTrendsResponse } from '@shared/index';
+import type { UsageTrendsResponse } from '@/lib/types';
 
 export const runtime = 'edge';
 

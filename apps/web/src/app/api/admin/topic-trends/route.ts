@@ -15,7 +15,7 @@ import {
   classifyQueryIntent,
 } from '@/lib/analytics';
 import { getMockTopicTrends } from '@/lib/dev-data';
-import type { TopicTrendAnalysisResponse } from '@shared/index';
+import type { TopicTrendAnalysisResponse } from '@/lib/types';
 
 export const runtime = 'edge';
 

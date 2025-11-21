@@ -15,7 +15,7 @@ import { errorResponse, getClientIP, structuredLog, generateUUID, Timer } from '
 
 import { performRAGQueryStream } from '@/lib/rag';
 
-import { AskRequestSchema } from '@shared/index';
+import { AskRequestSchema } from '@/lib/types';
 
 import { ZodError } from 'zod';
 

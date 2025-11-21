@@ -7,7 +7,7 @@
 
 import { jsonResponse } from '@/lib/utils';
 import { getEnvVar } from '@/lib/env';
-import type { VersionResponse } from '@shared/index';
+import type { VersionResponse } from '@/lib/types';
 import packageJson from '../../../../package.json';
 
 export const runtime = 'edge';

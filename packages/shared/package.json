@@ -2,5 +2,8 @@
   "name": "@shared/lib",
   "version": "0.1.0",
   "type": "module",
-  "exports": "./index.ts"
+  "exports": "./index.ts",
+  "dependencies": {
+    "zod": "^3.25.76"
+  }
 }

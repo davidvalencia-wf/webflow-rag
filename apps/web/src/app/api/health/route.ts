@@ -8,7 +8,7 @@
 import { jsonResponse, getCurrentTimestamp } from '@/lib/utils';
 import { getCloudflareEnv } from '@/lib/env';
 import { testDatabaseConnection } from '@/lib/db';
-import type { HealthResponse } from '@shared/index';
+import type { HealthResponse } from '@/lib/types';
 
 export const runtime = 'edge';
 
