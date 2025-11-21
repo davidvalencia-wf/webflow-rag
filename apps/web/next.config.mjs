@@ -1,6 +1,5 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   // Webflow Cloud mount path configuration
   basePath: '/app',
   assetPrefix: '/app',
