@@ -3,7 +3,8 @@
     "framework": "nextjs",
     "build": {
       "command": "npx @opennextjs/cloudflare build",
-      "install_command": "npm install --legacy-peer-deps"
+      "install_command": "npm install --legacy-peer-deps",
+      "npm_flags": ["--legacy-peer-deps"]
     },
     "output_directory": ".worker-next",
     "node_version": "20"
