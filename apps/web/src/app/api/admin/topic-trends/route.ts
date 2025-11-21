@@ -17,11 +17,6 @@ import {
 import { getMockTopicTrends } from '@/lib/dev-data';
 import type { TopicTrendAnalysisResponse } from '@/lib/types';
 
-export const runtime = 'edge';
-
-
-
-
 export async function GET(req: NextRequest) {
   const requestId = crypto.randomUUID();
 

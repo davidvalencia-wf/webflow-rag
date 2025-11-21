@@ -19,8 +19,6 @@ import { AskRequestSchema } from '@/lib/types';
 
 import { ZodError } from 'zod';
 
-export const runtime = 'edge';
-
 export async function POST(request: Request) {
   const timer = new Timer();
   const requestId = generateUUID();

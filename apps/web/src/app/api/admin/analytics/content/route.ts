@@ -10,9 +10,6 @@ import { toSQLDate, getDateRange, classifyQueryTopic, average } from '@/lib/anal
 import { getMockContentAnalytics } from '@/lib/dev-data';
 import type { UsageContentResponse } from '@/lib/types';
 
-export const runtime = 'edge';
-
-
 interface QueryWithConfidence {
   query_text: string;
   count: number;

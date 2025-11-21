@@ -16,11 +16,6 @@ import {
 import { getMockTrendsAnalytics } from '@/lib/dev-data';
 import type { UsageTrendsResponse } from '@/lib/types';
 
-export const runtime = 'edge';
-
-
-
-
 export async function GET(req: NextRequest) {
   const requestId = crypto.randomUUID();
 
