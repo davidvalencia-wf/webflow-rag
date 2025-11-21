@@ -2,10 +2,10 @@
   "cloud": {
     "framework": "nextjs",
     "build": {
-      "command": "npx @cloudflare/next-on-pages",
+      "command": "npx @opennextjs/cloudflare build",
       "install_command": "npm install --legacy-peer-deps"
     },
-    "output_directory": ".vercel/output/static",
+    "output_directory": ".worker-next",
     "node_version": "20"
   }
 }
